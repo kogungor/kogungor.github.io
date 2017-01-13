@@ -1,0 +1,67 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Siber Mücadele
+email: kubilay@cyberstruggle.org
+description: Cyber Struggle Professional
+url: https://kogungor.github.io
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          UTC
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: "Kubilay Onur Gungor"
+  avatar: avatar.png
+  job: "Cyber Struggle"
+  bio: "Human Intelligence, Cyber Terrorism, Unconventional Warfare, Psychological Warfare"
+  email: kubilay@cyberstruggle.org
+  disqus-shortname:
+  twitter: corpuscallosum
+  facebook: #username
+  google:
+    plus: #username
+    analytics: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: kogungor
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: kubilayonurgungor
+  xing: #username
+  instagram: corpuscallosum
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: cyberstruggle
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
