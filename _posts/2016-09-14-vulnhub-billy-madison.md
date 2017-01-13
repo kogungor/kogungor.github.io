@@ -1327,7 +1327,3 @@ Some interesting hacking tools/tips were also found in `/opt/bpatty`, `/opt/Sn1p
 ### GPG keys compromised
 
 Lastly, as root was compromised, the GPG keys contained in /root/.gnupg should be considered compromised and removed.
-
-## Final Thoughts
-
-Overall, this was a great challenge!  I learned a couple valuable lessons during the course of breaking in and it gave me some ideas for some script updates to do.  Overall great theming of the whole thing, I really appreciated that.  Off to break more things!
