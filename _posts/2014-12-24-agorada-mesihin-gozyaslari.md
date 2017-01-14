@@ -5,7 +5,7 @@ date: 2014-12-24 14:32
 comments: true
 categories: [Kissadan Hisse]
 ---
-Yarı baygın yatarken, gözlerimi açtığımda kendimi ıssız bir mezarlığın ortasında buldum… Civarda gökyüzüne değecekmişcesine uzanan selvileri sallayan ölümün ve rüzgarın sesinden başka bir şey duyulmuyordu… Biraz sonra mezar taşları hareket etmeye yerlerinden oynamaya başlamıştı… Toprak yırtılmış her bir mezardan, giyisilerinden arınmış insanlar çıkıyordu…<span id="more-43"></span>
+Yarı baygın yatarken, gözlerimi açtığımda kendimi ıssız bir mezarlığın ortasında buldum… Civarda gökyüzüne değecekmişcesine uzanan selvileri sallayan ölümün ve rüzgarın sesinden başka bir şey duyulmuyordu… Biraz sonra mezar taşları hareket etmeye yerlerinden oynamaya başlamıştı… Toprak yırtılmış her bir mezardan, giyisilerinden arınmış insanlar çıkıyordu…<span id="more-43"></span><!--more-->
 
 Sonra her biri eline mezar taşını alarak yürümeye başladı. Arada tanımadığım birisi elimden tutarak sürükledi beni, koro halinde yaşam üzerine şarkılar söylüyorlardı…
 
