@@ -5,7 +5,7 @@ date: 2015-10-20 14:26
 comments: true
 categories: [Incident Management, Incident Response, investigation, pcap, some]
 ---
-Bir onceki bolumde Ann’in gizli asigi olan Mr.X’e gonderdigi mesaji gormustuk. Mesajda buyuk miktarda nakit ile birlikte Meksika kiyilarina kacma planlari yapilmaktaydi. Ote yandan ogrenilen son bilgiler kahramanimiz SOME icin tam bir hayalkirikligi niteligi tasimaktaydi. Zira SOME, linkedin resminden vuruldugu bu hatuna yurume derdindeydi. Her sisman analist gibi, evinden cikmadan, internet uzerinden armut pis agzima dus seklinde bir iliskinin oluru pesindeydi. Bu noktada gizli asiga gonderilen mesaj SOME’nin umutlarini bir nebze olsun kirmis ama armutun da sapi var diyerekten, Polisle is birligi yapmaya devam etme karari almisti.
+Bir onceki bolumde Ann’in gizli asigi olan Mr.X’e gonderdigi mesaji gormustuk. Mesajda buyuk miktarda nakit ile birlikte Meksika kiyilarina kacma planlari yapilmaktaydi. Ote yandan ogrenilen son bilgiler kahramanimiz SOME icin tam bir hayalkirikligi niteligi tasimaktaydi. <!--more-->Zira SOME, linkedin resminden vuruldugu bu hatuna yurume derdindeydi. Her sisman analist gibi, evinden cikmadan, internet uzerinden armut pis agzima dus seklinde bir iliskinin oluru pesindeydi. Bu noktada gizli asiga gonderilen mesaj SOME’nin umutlarini bir nebze olsun kirmis ama armutun da sapi var diyerekten, Polisle is birligi yapmaya devam etme karari almisti.
 
 Evet malum gizli bilgiler ifsa oldugundan olay polise aksetmisti. Polis Ann ile Mr.X’in kullandigi bi eve baskin duzenledi ve Ev icerisinde Ann’a ait oldugu dusunulen bir Apple TV ele gecirildi. Apple TV’ye ait trafik dosyasi uzerinden Ann ve Mr.X hakkinda bir bilgi edinilebilir mi incelenmesi icin yine SOME gorevdeydi.
 

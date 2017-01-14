@@ -5,7 +5,7 @@ date: 2015-10-20 14:17
 comments: true
 categories: [Incident Management, Incident Response, investigation, pcap, some]
 ---
-Onceki yazimizda, Ann Dercover ve supheli arkadasi arasindaki gizli veri alisverisini incelemistik. Ann bu arastirma suresinde ortadan kaybolmayi basardi. Fakat ortadan kaybolmadan hemen once son network aktivitelerine iliskin kayitlar da tutulmustu.
+Onceki yazimizda, Ann Dercover ve supheli arkadasi arasindaki gizli veri alisverisini incelemistik. Ann bu arastirma suresinde ortadan kaybolmayi basardi. Fakat ortadan kaybolmadan hemen once son network aktivitelerine iliskin kayitlar da tutulmustu.<!--more-->
 
 Ilgili kayitlar yeniden kahramanimiz SOME’ye ulastirildi. SOME’nin icini bir mutluluk kapladi. Sanki her dava ve arastirma ile kendisini Ann’a daha yakin hissediyordu. Nihayetinde hic karsilasmamislardi ancak SOME her analiz sonucunda onun hayati hakkinda daha fazla bilgi elde ediyordu.
 
