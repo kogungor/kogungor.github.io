@@ -121,6 +121,7 @@ smtp frames:247 bytes:301625
 imf frames:2 bytes:1376
 arp frames:30 bytes:1260
 ===================================================================
+{% endhighlight %}
 
 
 Kullanilan protokoller icerisinde ozellikle smtp protokolu goze carpmaktaydi. SOME analizini SMTP protokolu uzerine yogunlastirmaya karar verdi.
