@@ -21,8 +21,8 @@ SOME, her investigation oncesi yaptigi gibi, eger isim varsa soyle bir linke<img
 
 Resmi gorunce ‘varsin casus olsun bu kadin bre’ diyerek PCAP dosyasinda ne var ne yok en cok gurultuyu kimler yapmis diye soyle bir bakmak istedi.
 <div id="crayon-562617db5e78c011179526" class="crayon-syntax crayon-theme-solarized-light crayon-font-liberation-mono crayon-os-mac print-yes notranslate" data-settings=" minimize scroll-mouseover"></div>
-&nbsp;
-<pre class="lang:sh decode:true ">arq@darkarq puzzle 1]$ tcpdump -tnr evidence01.pcap | awk -F '.' '{print $1"."$2"."$3"."$4}'|sort|uniq -c |sort -n |tail
+{% highlight bash %}
+arq@darkarq puzzle 1]$ tcpdump -tnr evidence01.pcap | awk -F '.' '{print $1"."$2"."$3"."$4}'|sort|uniq -c |sort -n |tail
 reading from file evidence01.pcap, link-type EN10MB (Ethernet)
 3 IP 192.168.1.30
 4 IP 192.168.1.10
@@ -33,7 +33,8 @@ reading from file evidence01.pcap, link-type EN10MB (Ethernet)
 28 IP 192.168.1.157
 31 IP 205.188.13.12
 38 IP 192.168.1.158
-59 IP 192.168.1.159</pre>
+59 IP 192.168.1.159
+{% endhighlight %}
 Gurultu yapan ip adreslerini listelediginde local network haricinde dis IP ler uzerinde de bazi iletisim kanallari acildigini farketti. Esasinda supheli wireless networke baglanmis ve dolayisi ile olayin ic networkte gerceklestigi asikardi. Fakat SOME fotografi gorunce bu hatun nerelerde takiliyor diye de bir goz gezdirmek istedi.
 <pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ whois -h whois.cymru.com 64.12.24.50
 AS | IP | AS Name
