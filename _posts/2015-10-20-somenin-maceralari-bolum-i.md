@@ -508,7 +508,6 @@ Fanteziler bir tarafa, supheli arkadasin Ann’a verdigi cevaplar da arastirmani
 0010 00 28 ab 4e 40 00 40 06 74 fd c0 a8 01 9e 40 0c .(.N@.@.t.....@.
 0020 18 32 c7 b8 01 bb 33 6b d4 ce 07 e9 66 b7 50 10 .2....3k....f.P.
 0030 f5 16 5f eb 00 00 00 00 00 00 00 00 .._.........
-
 {% endhighlight %}
 
 
@@ -555,7 +554,9 @@ Cikti uzerinde aslinda mesajlari gorebilse de SOME, bu cikti daha buyuk olabilir
 214 91.003314 64.12.24.50 -&gt; 192.168.1.158 SSL 263 Continuation Data
 216 91.004650 64.12.24.50 -&gt; 192.168.1.158 SSL 92 Continuation Data
 217 91.033478 192.168.1.158 -&gt; 64.12.24.50 TCP 60 51128→443 [ACK] Seq=524 Ack=1463 Win=62742 Len=0
-218 91.033482 192.168.1.158 -&gt; 64.12.24.50 TCP 60 51128→443 [ACK] Seq=524 Ack=1501 Win=62742 Len=0</pre>
+218 91.033482 192.168.1.158 -&gt; 64.12.24.50 TCP 60 51128→443 [ACK] Seq=524 Ack=1501 Win=62742 Len=0
+{% endhighlight %}
+
 
 64.12.24.50 IP si uzerinde donen cevaplari iceren flow, tcpflow listesinde oldugundan, icindeki stringleri cikarmak daha pratik olacakti.
 
