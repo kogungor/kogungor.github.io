@@ -559,7 +559,7 @@ Cikti uzerinde aslinda mesajlari gorebilse de SOME, bu cikti daha buyuk olabilir
 
 64.12.24.50 IP si uzerinde donen cevaplari iceren flow, tcpflow listesinde oldugundan, icindeki stringleri cikarmak daha pratik olacakti.
 
-{% endhighlight %}
+{% highlight bash %}
 [arq@darkarq puzzle 1]$ strings 064.012.024.050.00443-192.168.001.158.51128
 E4628778
 Sec558user1*
