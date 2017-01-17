@@ -6,8 +6,6 @@ categories: [walkthrough]
 comments: true
 ---
 So I came across [Billy Madison 1.0](https://www.vulnhub.com/entry/billy-madison-11,161/), a recently published vulnerable system. As I had really enjoyed this author's previous [Tommy Boy 1.0](https://www.vulnhub.com/series/tommy-boy,91/), I decided to have at it.  Boy was it fun, but I did run across a few hurdles along the way due to my thinking.
-
-Big thanks to Brian Johnson for making it and helping me waste several hours of my life on it.
 <!--more-->
 
 Plot: Help Billy Madison stop Eric from taking over Madison Hotels!
