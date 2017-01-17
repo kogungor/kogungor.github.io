@@ -36,22 +36,33 @@ reading from file evidence01.pcap, link-type EN10MB (Ethernet)
 59 IP 192.168.1.159
 {% endhighlight %}
 Gurultu yapan ip adreslerini listelediginde local network haricinde dis IP ler uzerinde de bazi iletisim kanallari acildigini farketti. Esasinda supheli wireless networke baglanmis ve dolayisi ile olayin ic networkte gerceklestigi asikardi. Fakat SOME fotografi gorunce bu hatun nerelerde takiliyor diye de bir goz gezdirmek istedi.
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ whois -h whois.cymru.com 64.12.24.50
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ whois -h whois.cymru.com 64.12.24.50
 AS | IP | AS Name
-1668 | 64.12.24.50 | AOL-ATDN - AOL Transit Data Network,US</pre>
+1668 | 64.12.24.50 | AOL-ATDN - AOL Transit Data Network,US
+{% endhighlight %}
+
 Diger IP addreslerini de sorguladiginda hep ayni sonuca ulasiyordu. Evet bu hatun chat yapiyor. Bu buyuk olaydi. SOME bir Turk oldugundan, chat yaptigi accountu bulursa ona “sen de yalnizsan tanisalim mi?” gibi bir mesaj atabilirdi. Ne de olsa is baska ask baska.
 
 Hedef arastirma yuzeyini biraz daha daraltmak adina SOME bu IP lerin yaptigi gurultuler arasinda muhakkak en az bir flow oldugunu dusunur ve PCAP dosyasini icerisinde trafigi TCP Flow larini gorecek sekilde parcalar.
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ tcpflow -r evidence01.pcap
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ tcpflow -r evidence01.pcap
 [arq@darkarq puzzle 1]$ ls
 064.012.024.050.00443-192.168.001.158.51128 192.168.001.158.51128-064.012.024.050.00443
 064.012.025.091.00443-192.168.001.159.01221 192.168.001.159.01221-064.012.025.091.00443
 064.236.068.246.00080-192.168.001.159.01273 192.168.001.159.01271-205.188.013.012.00443
 192.168.001.002.55488-192.168.001.030.00022 192.168.001.159.01272-192.168.001.158.05190
 192.168.001.030.00022-192.168.001.002.55488 192.168.001.159.01273-064.236.068.246.00080
-192.168.001.158.05190-192.168.001.159.01272 205.188.013.012.00443-192.168.001.159.01271</pre>
+192.168.001.158.05190-192.168.001.159.01272 205.188.013.012.00443-192.168.001.159.01271
+
+{% endhighlight %}
+
 SOME chat ustadi bir kisilik oldugundan bu ciktiya baktiginda 192.168.001.158.05190-192.168.001.159.01272 flow uzerinde 05190 portunu gordu. Soyle bir goz gezdirmek istedi.
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ xxd 192.168.001.158.05190-192.168.001.159.01272 | more
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ xxd 192.168.001.158.05190-192.168.001.159.01272 | more
 00000000: 4f46 5432 0100 0101 0000 0000 0000 0000 OFT2............
 00000010: 0000 0000 0001 0001 0001 0001 0000 2ee8 ................
 00000020: 0000 2ee8 0000 0000 b164 0000 ffff 0000 .........d......
@@ -63,10 +74,14 @@ SOME chat ustadi bir kisilik oldugundan bu ciktiya baktiginda 192.168.001.158.05
 00000080: 0000 0000 0000 0000 0000 0000 0000 0000 ................
 00000090: 0000 0000 0000 0000 0000 0000 0000 0000 ................
 000000a0: 0000 0000 0000 0000 0000 0000 0000 0000 ................
-000000b0: 0000 0000 0000 0000 0000 0000 0000 0000 ................</pre>
+000000b0: 0000 0000 0000 0000 0000 0000 0000 0000 ................
+{% endhighlight %}
+
+
 Flow OTF2 ile basliyordu. Kisa bir aramadan sonra, OTF2 nin Oscar File Transfer 2 oldugunu anladi ve ilgili RFC ye baktiginda OTF header’inin en azindan 256 byte veri ile basladigini gordu. Ornek header incelenirse iyi olur diyerekten biraz da header a bakti.
-<div id="crayon-56261963db855991110868" class="crayon-syntax crayon-theme-solarized-light crayon-font-liberation-mono crayon-os-mac print-yes notranslate" data-settings=" minimize scroll-mouseover">
-<pre class="lang:sh decode:true ">4F46 5432 0100 0101 F8FA 0200 686B 0000 ProtVer Len Type Cookie
+
+{% highlight bash %}
+4F46 5432 0100 0101 F8FA 0200 686B 0000 ProtVer Len Type Cookie
 0000 0000 0001 0001 0001 0001 0000 0039 Encrypt Comp TotFil FilLft TotPrts PrtsLft TotSz
 0000 0039 42D9 37C4 EEAF 0000 FFFF 0000 Size ModTime Checksum RfrcSum
 0000 0000 0000 0000 FFFF 0000 0000 0000 RfSize CreTime RfcSum nRecvd
@@ -81,23 +96,37 @@ FFFF 0000 436F 6F6C 2046 696C 6558 6665 RecvCsum IDString
 6379 6777 696E 2E62 6174 0000 0000 0000 FileName
 0000 0000 0000 0000 0000 0000 0000 0000 FileName(c'td)
 0000 0000 0000 0000 0000 0000 0000 0000 FileName(c'td)
-0000 0000 0000 0000 0000 0000 0000 0000 FileName(c'td)</pre>
+0000 0000 0000 0000 0000 0000 0000 0000 FileName(c'td)
+{% endhighlight %}
+
+
 SOME usengec bir insan oldugundan ve soz konusu konu bir espiyonaj faaliyeti oldugundan flow icerisindeki stringlere goz gezdirmek istedi. Ancak oncelikle belirli uzantilara sahip stringleri merak ediyordu. Zira OTF devrede oldugundan bir dosya transferi mevcuttu.
-<div id="crayon-56261963db85e143083879" class="crayon-syntax crayon-theme-solarized-light crayon-font-liberation-mono crayon-os-mac print-yes notranslate" data-settings=" minimize scroll-mouseover">
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ strings 192.168.001.158.05190-192.168.001.159.01272 |grep '.docx\|.xls\|.jpg'
-recipe.docx</pre>
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ strings 192.168.001.158.05190-192.168.001.159.01272 |grep '.docx\|.xls\|.jpg'
+recipe.docx
+{% endhighlight %}
+
+
 recipe.docx isimli bir dosya OTF2 uzerinden gonderilmisti. Fantazi olsun diye dosya uzerine yurumek istedi. OTF2 256 bytelik bir headera sahip oldugundan oncelikle MD5 sum ve magic number bulmak icin kucuk manipulasyonlara ihtiyac duydu. 256 byte headeri silerek ise basladi.
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ xxd -s +256 192.168.001.158.05190-192.168.001.159.01272 | xxd -s -256 -r &gt;recipe.docx
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ xxd -s +256 192.168.001.158.05190-192.168.001.159.01272 | xxd -s -256 -r &gt;recipe.docx
 [arq@darkarq puzzle 1]$ md5sum recipe.docx
 8350582774e1d4dbe1d61d64c89e0ea1 recipe.docx
 [arq@darkarq puzzle 1]$ xxd -l 4 -ps recipe.docx
-504b0304</pre>
+504b0304
+{% endhighlight %}
+
+
 Nihayetinde recipe.docx isimli bir dosya transferi supheli ile Ann arasinda gerceklesmisti. Investigation bir yerlere varmaya basladiysa da SOME’nin kadinlara olan zaafi devreye girdi. Fotograftan etkilenen SOME Ann’in IM buddysini de bulmak istiyordu. Hem ileriki faaliyetler icin de bir sey ifade edebilirdi.
 
 Iletisimin detaylarini ogrenebilmek esasinda hem IM buddy hem de konusmanin gerikalaninda ek bilgiler olup olmadigini gorebilmek acisindan onemliydi.
 
 Bu cercevede SOME bir diger flow olan 192.168.001.158.51128-064.012.024.050.00443 incelemek istedi.
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ xxd 192.168.001.158.51128-064.012.024.050.00443
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ xxd 192.168.001.158.51128-064.012.024.050.00443
 00000000: 2a05 0060 0000 2a02 0061 00b7 0004 0006 *..`..*..a......
 00000010: 0000 0000 0045 3436 3238 3737 3800 0001 .....E4628778...
 00000020: 0b53 6563 3535 3875 7365 7231 0002 008f .Sec558user1....
@@ -130,10 +159,14 @@ Bu cercevede SOME bir diger flow olan 192.168.001.158.51128-064.012.024.050.0044
 000001d0: 2079 6f75 2069 6e20 6861 7761 6969 2100 you in hawaii!.
 000001e0: 0300 002a 0200 6600 2200 0400 1400 0000 ...*..f.".......
 000001f0: 0000 4a00 0000 0000 0000 0000 010b 5365 ..J...........Se
-00000200: 6335 3538 7573 6572 3100 00 c558user1..</pre>
+00000200: 6335 3538 7573 6572 3100 00 c558user1..
+{% endhighlight %}
+
+
 flow uzerinde string arayarak daha kullanici dostu bir halde goruntelemek adina strings komutunu calistirdi.
-<div id="crayon-56261963db878937366866" class="crayon-syntax crayon-theme-solarized-light crayon-font-liberation-mono crayon-os-mac print-yes notranslate" data-settings=" minimize scroll-mouseover">
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ strings 192.168.001.158.51128-064.012.024.050.00443
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ strings 192.168.001.158.51128-064.012.024.050.00443
 E4628778
 Sec558user1
 Here's the secret recipe... I just downloaded it from the file server. Just copy to a thumb drive and you're good to go &amp;gt;:-)
@@ -147,11 +180,16 @@ Sec558user1
 I5088496
 Sec558user1
 see you in hawaii!
-Sec558user1</pre>
+Sec558user1
+{% endhighlight %}
+
+
 Bu cikti ile Ann’in IM buddysi Sec558user1 oldugu acikca gorulmekte. SOME hemen kendisini ekledi ve hatuna yurudu. Sonucu bilmiyoruz. Bunun haricinde Ann’in “see you in hawaii!” mesaji ile aslinda Hawai dolaylarina gitme plani icerisinde oldugu ortaya cikti. SOME icin de Hawai’de Ann ile birlikte olma fikri super bir fanteziydi.
 
 Fanteziler bir tarafa, supheli arkadasin Ann’a verdigi cevaplar da arastirmanin devami icin bilgiler icerebilirdi. Bu acidan konusmanin devami onemliydi. Zira bu supheli SOME’nin Ann uzerindeki planlarina bir enel olabilirdi. Halk diliyle supheli arkadar Ann’in tokmagi miydi?
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ tshark -xr evidence01.pcap tcp.stream==2
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ tshark -xr evidence01.pcap tcp.stream==2
 0000 00 0c 29 b0 8d 62 00 12 79 45 a4 bb 08 00 45 00 ..)..b..yE....E.
 0010 00 2e ab 3b 40 00 40 06 75 0a c0 a8 01 9e 40 0c ...;@.@.u.....@.
 0020 18 32 c7 b8 01 bb 33 6b d2 c3 07 e9 60 db 50 18 .2....3k....`.P.
@@ -469,9 +507,15 @@ Fanteziler bir tarafa, supheli arkadasin Ann’a verdigi cevaplar da arastirmani
 0000 00 0c 29 b0 8d 62 00 12 79 45 a4 bb 08 00 45 00 ..)..b..yE....E.
 0010 00 28 ab 4e 40 00 40 06 74 fd c0 a8 01 9e 40 0c .(.N@.@.t.....@.
 0020 18 32 c7 b8 01 bb 33 6b d4 ce 07 e9 66 b7 50 10 .2....3k....f.P.
-0030 f5 16 5f eb 00 00 00 00 00 00 00 00 .._.........</pre>
+0030 f5 16 5f eb 00 00 00 00 00 00 00 00 .._.........
+
+{% endhighlight %}
+
+
 Cikti uzerinde aslinda mesajlari gorebilse de SOME, bu cikti daha buyuk olabilirdi daha farkli nasil incelerim diye dusundu. Akabinde ilgili stream detaylarini gormek istedi
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ tshark -r evidence01.pcap tcp.stream==2
+
+{% highlight bash %}
+[arq@darkarq puzzle 1]$ tshark -r evidence01.pcap tcp.stream==2
 23 18.870898 192.168.1.158 -&gt; 64.12.24.50 SSL 60 Continuation Data
 24 18.871477 64.12.24.50 -&gt; 192.168.1.158 TCP 60 443→51128 [ACK] Seq=1 Ack=7 Win=64240 Len=0
 25 33.914966 192.168.1.158 -&gt; 64.12.24.50 SSL 243 Continuation Data
@@ -512,9 +556,11 @@ Cikti uzerinde aslinda mesajlari gorebilse de SOME, bu cikti daha buyuk olabilir
 216 91.004650 64.12.24.50 -&gt; 192.168.1.158 SSL 92 Continuation Data
 217 91.033478 192.168.1.158 -&gt; 64.12.24.50 TCP 60 51128→443 [ACK] Seq=524 Ack=1463 Win=62742 Len=0
 218 91.033482 192.168.1.158 -&gt; 64.12.24.50 TCP 60 51128→443 [ACK] Seq=524 Ack=1501 Win=62742 Len=0</pre>
+
 64.12.24.50 IP si uzerinde donen cevaplari iceren flow, tcpflow listesinde oldugundan, icindeki stringleri cikarmak daha pratik olacakti.
-<div id="crayon-56261963db8b1374250728" class="crayon-syntax crayon-theme-solarized-light crayon-font-liberation-mono crayon-os-mac print-yes notranslate" data-settings=" minimize scroll-mouseover">
-<pre class="lang:sh decode:true ">[arq@darkarq puzzle 1]$ strings 064.012.024.050.00443-192.168.001.158.51128
+
+{% endhighlight %}
+[arq@darkarq puzzle 1]$ strings 064.012.024.050.00443-192.168.001.158.51128
 E4628778
 Sec558user1*
 G7174647
@@ -532,7 +578,9 @@ Sec558user1
 Sec558user1
 Sec558user1
 I5088496
-Sec558user1</pre>
+Sec558user1
+{% endhighlight %}
+
 Bu veriler uzerinde cikan iki onemli sonuca ulasti. Supheli kisi Ann’in tokmagi olamazdi cunku <strong>“dude”</strong> olarak hitap ediyordu. Kimse asigina dude demezdi diye dusunup sevindi. Bunun yani sira, supheli elde ettigi bilgi her ne ise Ebay uzerinde satisa sunulabilecek bir bilgiydi.
 
 Investigation anlamli bir son bulmusken SOME tum bu islemleri pcap dosyasini Wireshark ile acip, Ann’in ipsini filtreleyerek ilgili tcp streamini AIM formatinda decode edip follow ettiginde de ayni sonuclara ulasabilecegini dusundu. Ama bu cok kolay olurdu. O bir cok farkli toolu deneyerek, bulmaca cozer gibi ilerlemek istedi. Boylece Ann ile daha fazla zaman gecirebilecekti. Aksi halde erken bosalma olurdu.
@@ -540,9 +588,4 @@ Investigation anlamli bir son bulmusken SOME tum bu islemleri pcap dosyasini Wir
 SOME meraklilara not dustu, mumkun oldugunca komut satirindan ayrilmamaya calisin, daha zevkli. Sevdiginizin pesinden gidin, Hawai’de bile olsa.
 
 Serinin ikinci yazisinda gorusmek uzere
-
-</div>
-</div>
-</div>
-</div>
 
