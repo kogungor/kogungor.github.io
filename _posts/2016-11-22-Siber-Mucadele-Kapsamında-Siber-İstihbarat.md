@@ -6,7 +6,9 @@ comments: true
 categories: [Siber Mücadele, Siber İstihbarat]
 ---
 
-Sadece ülkemizde değil, esasında tüm dünyada popülist bir yaklaşımla kullanılan bir başka kavram da “Siber İstihbarat” tır. Şu anda günümüz dünyasında, siber istihbarat servisleri ve ürünleri, çoğunlukla keşfedilen zafiyetlerin organizasyonlara duyurulması çerçevesinde şekillenir. Bu çerçevede verilen servisleri, tehditlerin oluşmadan önce haber alınması olarak değerlendirmemek gerekir. Zira tehdit, zafiyetin olduğu her durumda vardır. Zafiyetin olası exploit edilme durumudur. Bu açıdan bakıldığında ilgili servisi veren firmalar, esasında olası zafiyetler üzerine haber alma faaliyetleri yürütmektedirler. Sıkça karıştırılabilen bu iki noktanın karıştırılmaması önemlidir.<!--more-->
+Sadece ülkemizde değil, esasında tüm dünyada popülist bir yaklaşımla kullanılan bir başka kavram da “Siber İstihbarat” tır. Şu anda günümüz dünyasında, siber istihbarat servisleri ve ürünleri, çoğunlukla keşfedilen zafiyetlerin organizasyonlara duyurulması çerçevesinde şekillenir. Bu çerçevede verilen servisleri, tehditlerin oluşmadan önce haber alınması olarak değerlendirmemek gerekir. Zira tehdit, zafiyetin olduğu her durumda vardır. Zafiyetin olası exploit edilme durumudur. Bu açıdan bakıldığında ilgili servisi veren firmalar, esasında olası zafiyetler üzerine haber alma faaliyetleri yürütmektedirler. Sıkça karıştırılabilen bu iki noktanın karıştırılmaması önemlidir.
+
+<!--more-->
 
 Yine bu servislerde, zafiyetlerin haber alınmasına ek olarak, siber suç trendleri, aktivitist hareketlerin gelişimi üzerine de faaliyetleri genişletme çabaları mevcuttur. Son dönemde, bazı firmaların (ülkemizde Arquanum), tüm bu çalışmalara ek olarak espiyonaj ve siber dünyada insan odaklı haber alma ağı oluşturmaya yönelik faaliyetler yürüttüğü bilinmektedir. Dolayısı ile, önleyici faaliyetlerin ofansif tarafa kaymaya başladığı tespitini yapmak kolay olacaktır.
 
