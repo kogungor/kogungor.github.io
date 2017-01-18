@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siber Mücadele Kapsamında Siber İstihbarat
-date: 2016-11-22 09:30
+date: 2014-11-22 09:30
 comments: true
 categories: [Siber Mücadele, Siber İstihbarat]
 ---
