@@ -32,7 +32,7 @@ Terör nedir? İstihbarat nedir, algı yönetimi nedir bilmeyen arkadaşlar, bun
 
 Şu anda bu çalışmalarımın meyvesi olarak, gerçekten altyapısında inanılmaz bir emek olan bir eğitim programı açtım. Yine benzer kişiler ve tayfaları tarafından bu sefer de bu program eleştirilmekte. Karalama yapılmakta. 2 yıl sonra bakalım ne olacak? Neyle karşımızda olacaklar? 
 
-##Nedir? Öngörüler
+## Nedir ve Öngörüler
 
 Çok detaya inmeden bir tarihçe paylaşmış oldum. Gelelim nedir bu hadise sorusuna. Değerli okuyucum, dediğim gibi 2017 yılında bu soruya cevap vermek dahi yeterince acı verici. Zira, bizim bu eğitim programını nasıl daha iyi yapabiliriz diye bana destek olmayı düşünen arkadaşlarla bu muhabbetleri yapıyor olmamız gerekirdi. Eğer tecrübe ve know-how ları daha iyisi konusunda katkı sağlamaya yeterli ise. 
 
