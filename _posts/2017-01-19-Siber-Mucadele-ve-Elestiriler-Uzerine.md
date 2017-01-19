@@ -42,6 +42,9 @@ Muhabbet baydı. İsmi lazım değil kendisine uzman diyen ancak geleceğe yöne
   <li>Saha eğitimleri ne alaka? Bari ilk yardım eğitimleri verselerdi!</li>
   <li>Bu eğitim eğlence sektörü için hazırlanmış gibi!</li>
   <li>Müşteri çekmek için yapılmış goygoy</li>
+  <li>Siber Savaştan anladığımız buysa yandık</li>
+  <li>vallahi yaptığım işten soğudum komedi filmi gibi</li>
+  <li>Zaytung haberi sandım (BilgeAdam)</li>
 </ul>
 
 Komik! Bizim eğitimimiz minimum 8 kişi ile açılır. Şu aşamada maksimum 16 kişi ile gerçeklenebilir. 300 den fazla başvurudan yalnızca 26 kişi ile eğitim yapılmıştır. 9 kişi ile eğitim açtığımız olmuştur. Para odaklı bir eğitim olarak sınıfı 16 ya tamamlamak için herşeyi yapıyor olmam gerekirdi diye düşünüyorum. Ayrıca değer eğitimlerin 5 gün için aldıkları paraları biz 10 hafta 350 saatten fazla temas için istedik. 
