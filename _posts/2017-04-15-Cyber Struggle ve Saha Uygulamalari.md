@@ -64,9 +64,9 @@ Bununla birlikte personel, geride kimseyi bırakmamayı, planlama yaparken kayna
 
 Bu noktada bir hususa değinilmesinde fayda var. 
 
-<backquote>
+<blockquote>
 Tecrübe paylaşılmaz. Paylaşılan şey bilgidir. Bir şeyin algı ve nihayetinde tecrübe olabilmesi için, o şeyin duyu organlarına erişmesi gerekir. Bu nedenle simülasyon önemlidir. Herkes kendi tecrübesini kazanır. Kendi duyuları ile...
-</backquote>
+</blockquote>
 
 Öte yandan kriz ve baskı anında bir takımda ne gibi dağılmalar oluşur? Bunları nasıl yönetmek yanlış olur? Geride kimse kalmadan bu durumda nasıl planlama yapılır? Nasıl insan ilişkisi kurulmaz? Görev , amaç, hedef nerededir? Takım nerededir? 
 
