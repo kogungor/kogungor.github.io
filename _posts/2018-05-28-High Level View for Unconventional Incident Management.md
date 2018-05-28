@@ -3,7 +3,7 @@ layout: post
 title: High Level View for Unconventional Warfare
 date: 2018-05-28 09:30
 comments: true
-categories: [Siber Mücadele Cyber Struggle]
+categories: [Siber Mücadele, Cyber Struggle]
 ---
 
 This is not the notion of “war” in discuss; nor is it the norm of “security” that we are striving to deal with. But we believe that thinking about these two notions is an important step to truly understand and increase the add- value of our efforts. According to general definition, “war” is described as: “A series of conflicts and battles through which countries engage by ceasing their diplomatical relations.” From the international relationships perspective, we also come across similar descriptions with just fancier expressions. <!--more-->
