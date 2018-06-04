@@ -74,6 +74,8 @@ However, this said organizational framework will actually cause inevitable and s
 
 FIGURE COMES HERE
 
+![Alt text](/img/Picture.jpg "Optional Title")
+
 Considering the unconventional war concept emphasized in previous chapters, a new generation department structure with uplifted maneuverability and coordination is absolutely required. Above, a general department structure chart that will increase the effectiveness of the struggle process is suggested as a solution.
 
 The most critical feature of the suggested architecture is that all experts who work throughout the incident management process hold hybrid skills. In such organization, these experts that take part in vulnerability management focus as well on other aspects of the struggle process from various categories: They also work in areas such as  penetration testing, intelligence, offensive solutions and manage studies in various categories related to network, web, etc.
