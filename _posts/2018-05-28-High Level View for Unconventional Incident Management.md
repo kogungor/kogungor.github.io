@@ -74,7 +74,7 @@ However, this said organizational framework will actually cause inevitable and s
 
 FIGURE COMES HERE
 
-![Alt text](../img/Picture.jpg "Optional Title")
+![Alt text](http://kogungor.github.io/img/Picture.jpg "Optional Title")
 
 Considering the unconventional war concept emphasized in previous chapters, a new generation department structure with uplifted maneuverability and coordination is absolutely required. Above, a general department structure chart that will increase the effectiveness of the struggle process is suggested as a solution.
 
