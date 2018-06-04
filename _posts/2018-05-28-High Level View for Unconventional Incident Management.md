@@ -60,7 +60,7 @@ Such personnel who will perform successfully in a new generation struggle proces
 
 Forming correlation and analogy between disciplines is indispensable. Even when specific actions are automatized, responsibilities such as process management, correlation/analogy based technical responses, preventive policing and intutive processes will be in the hands of the personnel.
 
-FIGURE COMES HERE
+![Alt text](/img/other/scenario.png)
 
 When scenario and skill based approaches are considered, various cases require very diversified skill sets. However, recruiting an expert for each area of profession will be opposed to the nature of employment process. That is why the personnel to be hired should be competent to form correlation and analogy between different disciplines so that they become capable of evaluating the big picture in aspects of international relations, sociology, criminology, profiling, penetration and investigation techniques, etc. Along with these qualifications, it is also crucial for the personnel to maintain a high-level mental endurance and psychological control regarding the high probability of continious tension during their professional studies. As unconventional struggle process is in discuss, these experts should be be evaluated within the scope of special forces as well.
 
@@ -71,8 +71,6 @@ On the other hand, the mindset of personnel is another critical parameter. Espec
 Nowadays, the general department structure is appraised in a global and conventional point of view. Frankly, a similar organization which is embraced in kinetic areas is also encountered in cyber security;  such as Network Security, Web Security, etc.
 
 However, this said organizational framework will actually cause inevitable and serious frictions in the decision and initiative processes. Due to role and category-based divergence of responsibilities, intensive frictions and failures are frequently observed both in coordination and rapid reaction processes.
-
-FIGURE COMES HERE
 
 ![Alt text](/img/other/Picture2.png)
 
