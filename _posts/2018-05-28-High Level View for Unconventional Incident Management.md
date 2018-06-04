@@ -8,7 +8,7 @@ categories: [Siber Mücadele, Cyber Struggle]
 
 This is not the notion of “war” in discuss; nor is it the norm of “security” that we are striving to deal with. But we believe that thinking about these two notions is an important step to truly understand and increase the add- value of our efforts. According to general definition, “war” is described as: “A series of conflicts and battles through which countries engage by ceasing their diplomatical relations.” From the international relationships perspective, we also come across similar descriptions with just fancier expressions. <!--more-->
 
-## Disiplinler Arası Yaklaşım
+## Multidisciplinary Approach
 
 In this perspective, where does an activity described as “Cyber War” stand? The notion of “New Wars” which was built upon the criticism of Clausewitz approach is explained with determinants like globalization, economic factors, erosion of nation-states, the role of technology and specialization of violence. This notion also took its place in the literature thanks to Kaldor’s “Old & New Wars” (1998) and Münkler’s Die Neuen Kriege (2002).
 
