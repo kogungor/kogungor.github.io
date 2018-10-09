@@ -11,13 +11,13 @@ categories: [Siber Güvenlik, Psikoloji, Suç]
 
 Peki bu çalışmaya göre seri katiller hangi fazlardan geçiyorlar ? 
 
-<h1>1- Aura Fazı</h1>
+<h2>1- Aura Fazı</h2>
 
 Aura fazında kişi, kendisi ile sosyal ilişkiler arasına mesafe koymaya başlar. Gerçeklikten belli ölçüde kopuş başlar. Bu durum kimi zaman ailesi ve arkadaşları tarafından farkedilemeyecek derecede sinsi ilerleyebilir ve belli olmayan kısa yada uzun bir süre devam eder. Fantezik düşünceler ağırlık kazanmaya başlar. Çoğu durumda bu düşünceler, şiddet içerikli seksüel düşünceler yahut başka şiddet içerikli fanteziler olarak kendini gösterir.
 
 Yine kişide, bu süreçte madde kullanımı alkol kullanımı yoğunlaşabilir. 
 
-<h2>Trolleme Fazı</h2>
+<h2>2- Trolleme Fazı</h2>
 
 Bu faz genelde kişinin kurban aradığı ve kurban uzayı konusunda kafasında şekillendirme sürecini içerir. Genelde seri katiller bu süreçte, tanıdığı bildiği yahut kendisini rahat hissettiği yerlerde kurban arama sürecine girer. 
 
@@ -25,19 +25,19 @@ Bununla birlikte, suçu işleyecekleri, belki cesetle başa çıkacakları mekan
 
 Bu arayış doğru aday bulunana kadar günler hatta aylar alabilir. Arayış içinde katil genelde kurbanı takip etmek, izlemek için belirli desenler kullanabilir. 
 
-<h2>Flört Fazı</h2>
+<h2>3- Flört Fazı</h2>
 
 Flört fazında katil, kurbanının güvenini kazanma odaklıdır. Genelde bu faz, daha cüretkar, planlı ve sosyal ilişkileri gelişmiş katiller tarafından kullanılır. 
 
 Katil, kurbanla sosyalleşmeye çabalar. Güven kazanıldıktan sonra, katil kurbanı sessiz ve daha önceden planladığı bir alana götürür ve aksiyon alır. 
 
-<h2>Yakalama Fazı</h2>
+<h2>4- Yakalama Fazı</h2>
 
 Adından da anlaşılacağı üzere, katilin gerçek niyetini tam olarak belli ettiği fazdır. 
 
 Yakalama fazında kullanılan yöntemler yine katilin eylemden daha fazla zevk alabileceği şekilde seçilebilir. 
 
-<h2>Cinayet Fazı</h2>
+<h2>5- Cinayet Fazı</h2>
 
 Bu noktada katil aslında kendince bir ritüel gerçekleştirmektedir. Kimi zaman ani bir ölümle sonuçlanırken, kimi zaman uzun süreli işkence ve nekrofil eşlik edebilir. Özellikle sadistik katiller için öldürmeden önce işkence ve ölüm sonrası cinsel ilişki yaygın bir ritüeldir. 
 
@@ -45,7 +45,7 @@ Organize katiller genelde daha uzun süreli işkence ve ölüm sürecini benimse
 
 İşkence ritüeli tamamlandıktan sonra, katil sonunda kurbanını öldürür. 
 
-<h2>Totem Fazı </h2>
+<h2>6- Totem Fazı </h2>
 
 Bu fazda cinayet ve diğer eğlemler sonrasında, katil büyük bir düşüş yaşar. Bir nevi fantezisinden uyanır. Aslında bu iniş çıkışlar, katilin bir ritüel geliştirmesindeki önemli iticü güç olduğu söylenir. 
 
@@ -53,7 +53,7 @@ Bu noktada, kurbandan hatıra alımı yaygındır. Kıyafet, vucudundan bir par�
 
 Hatıralın amacı, cinayet anını ve ritüeli tekrar tekrar hatırlayarak yaşadıkları düşüşten kurtulmaktır. 
 
-<h2> Depresyon Fazı </h2>
+<h2>7- Depresyon Fazı </h2>
 
 Bu son fazda katil bir sonraki cinayetine karar verme eğilimi yaşar. Zira, katil büyük bir duygusal çöküntü yaşar. Bu çöküş, günler, haftalar hatta aylar alabilir. 
 
