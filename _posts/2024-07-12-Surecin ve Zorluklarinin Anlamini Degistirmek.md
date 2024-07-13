@@ -95,6 +95,46 @@ Uğraştığımız konu ne olursa olsun, aslında günün sonunda problem çöz�
 Bu hastalıkların kontrol altına alınması ve tedavisinde miyelini korumak ve ve yenilemek için çaba gösteriliyor. En basiti, MS hastalarına ketojenik diyet uygulanmasındaki bir neden miyelini korumak ve artırmak. Yapılan bazı çalışmalarda keton üretiminin artmasının, miyelin üretiminin artmasına da yardımcı olduğu gözlenmiş. 
 
 
+<h2>Niye Anlatıyorum?</h2>
+
+Bütün bunları neden anlatıyorum? Cyber Struggle için geliştirmiş olduğum ve halen üzerinde iyileştirme çalışmaları yaptığım eğitim metodolojisinde kullandığım, esinlendiğim, odağıma aldığım şeyler hakkındaki düşüncelerimi buraya yazmaya karar verdim. Daha makale formatına çevirmeye zaman oldukça kendi websitesine de o halini koyarım diye düşünüyorum. 
+
+Bu arada, bir taraftan kendi kendime tartıştığım şeyler ilginizi çekerse gelip okumuş olurken, bir tarafta Ranger programı başta olmak üzere, CS bünyesinde neyi neden yapmaya çalıştığımız konusunda da daha fazla izleniminiz olabilir. 
+
+<h2>Cyber Struggle Ranger Programı ve Growth Mindset</h2>
+
+Ranger programının ilk hedefi, programa katılan personelin sabit zihin semasını cıkarmak. Bu şemayı yalnızca eğitmenler ve sistem olarak bizim çıkarmamız yeterli değil. Aynı zamanda program boyunca, bu şemayı katılımcıların kendi kendilerine ortaya çıkarmalarına destek olmaya çalışıyoruz. 
+
+Ortaya çıktıktan sonraki aşamada, bütün bunların fixlenmiş ve kimliğe bağlı şeyler olduğu gerçeğinin farkındalığını yaşatmaya çalışmak var. Bu süreç aslında, katılımcıların erken aşama limitlerine doğru itilmesi ile başlıyor. Her ne kadar metodolojik bir zorunluluktan bahsediyor olsak da, Ranger programını üst üste iki kez gelenler için bile farklı bir tecrübeye dönüştüren şeylerden birisi burada saklı. Sistem her katılımcıyı kendi tecrübesi üzerinden fixed mindset ile buluşturmaya çabalıyor. Bu da her bir kişi için ayrı bir yol haritası ve tekil bir tecrübe demek. 
+
+Kimileri iyi olduğunu, kimileri zeki olduğunu, kimileri kronik başarısız olduğunu düşünebilir. Burada önemli olan şey, düşüncelerin kimlikle ilintili bir halde olması, pozitif yada negatif duygular barındırması değil. Katılımcının odağını "yeterlilik" konseptinden "henüzün gücü" tarafına kaydırmak amacımız. 
+
+Bu farkındalığa ek olarak, Ranger programı boyunca değişen durumlar yaratılıp, bu durumlara adapte olunması bekleniyor. Değişen her durum, beraberinde -önceden ortak planlama yapılmadıysa- belirsizlik ve stres getirir. Bu yüksek adaptasyon bekelentisi ise, odak değişimine ek olarak bir nöroplastisite sürecini tetikletiyor. En azından tetikletmesini bekliyoruz. 
+
+Bu iki konu paralel bir şekilde, dozajı program boyunca eğitmenler tarafından oynanarak yaşatılırken, katılımcıların zaman zaman belli konularda çok iyi oldukları hissine kapılmaları, bazen çok kötü oldukları hissine ve düşüncesine kapılmaları ve bunların sürekli olarak farklı ve uygun dozlarda birey bazında değiştirilmeleri sağlanıyor. Bu akış ise, katılımcıların bir süre sonra problemleri eforlar, zorluklar ve anlamlar üzerinden değerlendirmelerini sağlıyor. Kişiler kimlik odaklı sabit düşüncelerden ayrılmaya (detach) başlıyorlar. Geribeslemeleri, ödüllendirilmeleri, övgüleri süreç ve efor odağına kayıyor.
+
+Problem yoğunluğunu artırarak, tekrar sayısını artırmış da oluyoruz. Bknz miyelinizasyon! Öte yandan, verilen problemler çoğu durumda, katılımcıların çözümlerine hakim olmadıkları bir form ile veriliyor. Program öncesinde, sınıf için bir seviye belirleme yapılmadığından, sınıfta ilgili problemlerin çözümünü bilen kişiler de olabiliyor. Bu durumda da, "bilgili kişinin" pozitif fixed zihin yapısından ayrılması bekleniyor. Burdan bir kaç çeşit şekilde ayrılma imkanı var. Bunlardan ilki, konuda daha fazla derinleşmek! Verilen problemin cevabının ötesine geçerek, kendisinin daha iyi bir versiyonu ile çözmek. Bir diğeri ise, ekip! Ekipteki diğer katılımcıların hikayelerinin bir parçası olarak, insan odaklı beceriler çerçevesinde growthda kalmak. 
+
+Tabi burada, Jean-Paul Sartre'nin "varoluş özden önce gelir" söylemi ve özgürlük ilişkisi devreye giriyor. "İnsan önce var olur, sonra kendi kimliğini yaratır" der Sartre. İşte bu kimliği belirleme gücü insana özgürlük verir. Bu özgürlükle alınan kararlar, kişinin varoluşunu anlamlandırır. 
+
+Bazen "iyi bilen" katılımcılar yukarıda bahsettiğim şekli tercih ederek, kendi büyüme ekseninde kalarak, aynı zamanda başkalarının hikayelerinde de yer almayı tercih ederler. Bazen de, tam tersi, programın bir şey katmayacağını düşünüp ayrılabilirler programdan. Bütün bu seçimleri yaşadık ve tecrübe ettik farklı kişilerle. 
+
+Yine Ranger Programı boyunca, çeşitli periodik görevler verilir. Bu görevlerin bir kısmı duygu durum kontrolü için nöroplastisite tetiklemeye çalışırken, bir kısmı kritik düşünme, vaka formülasyonu, otomatik düşünceler, ara inançlar ve temel inançların keşfi ve değişimi yahut anahtar kognisyon için nöroplastisite tetiklemeyi hedefler. 
+
+Bütün bunların koordine bir şekilde tecrübe ediliyor olması, katılımcıyı fixed mindsetten growth mindsete taşımaya, duyguları daha iyi regüle eden, yeni davranışlar ve alışkanlıklar oluşturabilen, zorluklar karşısında daha az yılma eğilimi gösteren, bilinmezliğe karşı daha dirençli, krizlerde ve sorunlarda büyüme fırsatı gören, problem çözme becerileri gelişmiş kişiler olmalarına destek oluyor. 
+
+Peki bir siber güvenlik eğitimi için bunların ne önemi var? Yaygın problemler ve bunların nasıl çözüleceğini anlatmak, çözümleri formüle etmek, formülleri de katılımcılara sağlamanın nesi kötü?
+
+Bunun yanıtı için de bir çok farklı perspektif baz alabilirim. 
+
+* Metodolojik Kronik Perspektif: Her şeyden önce, yüzlerce eğitim var, bir çoğu bedava ve/veya bedavaya yakın. Ama hala insan kaynağı sorunundan bahsediyoruz. Hem nicel hem nitel. Demek ki, sorun eğitimlerin sayısı yada erişilebilir olmasından daha köklü. Üstelik, bu tür eğitim almış ve meslek icra etme aşamasına gelmiş kişilerin çok daha azı, yaratıcılık, esneklik, problem çözme, yüksek etki yaratma, beklentilerin ötesine geçme gibi konularda etkin. 
+* Öğrenme Perspektifi: Bütün, parçalarının toplamından daha büyüktür. Büyüme odaklılığın, öğrenme üzerinde ciddi etkisi var. Kimisi hemen farkedilirken, kimisini farketmek için belli şeyler tecrübe etmek gerekebilir. 
+* Fonksiyonalite Perspektifi: Problem, meydan okuma üzerinden gelişim sağlandığı ve efor odaklı oluşu, aynı zamanda insanın becerilerinin sabit olmayışına olan inanç, bireyi otomatik olarak fonksiyonalite odağında tutar. Kimlik odaklı "iyi olmak", "iyi bilmek" vb şeylerden ziyade, daha çok sorun çözmek, daha yüksek etki yaratmak, daha fazla gelişmek gibi. 
+* Kendi Varoluşumu Anlamlandırmak: Daha iyisini arama ve yapma gayreti ve cesareti 
+
+
+
+
 
 
 
