@@ -69,6 +69,31 @@ Yine gerçekleştirilen deneylerde, özellikle fixed mindset üzerinden hayat il
 Yine bilim insanları, zorluklar ile karşılaşmış kişilerin beyinlerini ölçüyorlar, fixed mindset ile growth mindset arasında ciddi elektrik aktivitesi farkı gözlüyorlar. 
 
 
+<h2>Eforun ve Zorlukların Anlamını Değiştirmek</h2>
+
+Amerika'da bazı okullarda growth mindset pilot sınıfları oluşturulmuş. Özellikle de başarısızlığın bir kader olarak görüldüğü bölgelerdeki okullar içerisinden bu sınıflar seçilmiş. Öğrencilere, zeka, yetenek gibi özelliklerin sabit ve kalıcı olmadığı, başarının da sadece bunlara bağlı olmadığı inancı aşılanmış. Feedbackler ve övgüler doğrudan efora, gelişime, vazgeçmemeye, zorluklarla başa çıkmayı seçmeye, adaptasyon çabalarına yöneltilmiş. Öğrencilerin, kendileri ile kurdukları ilişkilerde de bu yönlendirme yapılmış. 
+
+Uzun süreli bu çalışma sonunda 
+
+* Harlem New York'da seçilen okulda skorlar 95'e çıkmış
+* South Bronx New York'da seçilen okulda, 4. sınıflar ciddi şekilde geridelermiş. Çalışma sonunda, matematik testinde New York genelinde en iyi sınıflardan birine dönüşmüşler
+* Native American Reservation ise kendi bölgesinde top seviyeye yükselmiş 1 yıl içerisinde 
+
+Uğraştığımız konu ne olursa olsun, aslında günün sonunda problem çözüyoruz. Problemler karşısındaki duruşumuz, onlara atadığımız anlam, gösterdiğimiz tavır, problemler ile ilişkimizin en net hali. Burada yapılacak küçük değişiklikler, beyinde sadece fonksiyonel değil, fiziksel değişimleri tetikliyor (Nöroplastisite). 
+
+Öyleki, bu gün nöroplastisite, miyelinizasyon sürecini daha fazla tetikleyerek bazı demiyelinizasyon nedenli hastalıkların tedavi edilmesinde de kullanılıyor. Demiyelinizan durumlardan en bilineni MS hastalığıdır. Ancak aşağıdaki bazı diğer hastalıkların da miyelin ile bağlantılı olduğu biliniyor
+
+* Değresyon
+* Dikkat Eksikliği ve Hiperaktivite (ADHD)
+* Bipolar Bozukluk
+* Disleksi
+* Obsesif Kompulsif Bozukluk
+* Bilişsel Düşüş
+* Şizofreni
+* Otizm
+
+Bu hastalıkların kontrol altına alınması ve tedavisinde miyelini korumak ve ve yenilemek için çaba gösteriliyor. En basiti, MS hastalarına ketojenik diyet uygulanmasındaki bir neden miyelini korumak ve artırmak. Yapılan bazı çalışmalarda keton üretiminin artmasının, miyelin üretiminin artmasına da yardımcı olduğu gözlenmiş. 
+
 
 
 
