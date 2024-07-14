@@ -35,7 +35,10 @@ Daha da ilginci, bu öğrencilere performanslarını diğerlerine açıklamaya y
 
 Geribildirimler önemlidir dedik çünkü, Heidegger'ın "Dasein" kavramı ile açıklamaya çalıştığı gibi, dünya ile sürekli etkileşim halindeyiz. Bir şey olma süreci aslında dünya ile kurduğumuz anlam ilişkileri ve etkileşimler üzerinden şekilleniyor. 
 
-Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gelen sinyalleri çekirdeğe iletiyor, çekirdek bu sinyalleri bir araya toplayıp aksona iletiyor, son olarak akson bu sinyalleri işleyerek sinapslara gönderiyor. Sinapslar ise sinyalleri diğer sinir hücrelerine iletiyor. Normalde nöronlardaki iletim hızı saniyede 50 santimetre kadarken, bu aksonları çevreleyen ve koruyan miyelin kılıfı oluşmuş nöronlardaki iletim hızı 240 kata kadar daha fazla olabiliyor.
+Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gelen sinyalleri çekirdeğe iletiyor, çekirdek bu sinyalleri bir araya toplayıp aksona iletiyor, son olarak akson bu sinyalleri işleyerek sinapslara gönderiyor. Sinapslar ise sinyalleri diğer sinir hücrelerine iletiyor. Normalde nöronlardaki iletim hızı saniyede 50 santimetre kadarken, bu aksonları çevreleyen ve koruyan miyelin kılıfı oluşmuş nöronlardaki iletim hızı 240 kata kadar daha fazla olabiliyor. 
+
+![Smithsonian Image]({{ site.url }}/img/sample-image-2.jpg)
+{: .pull-right}
 
 Eskiden beyin hücrelerimizin sayısının sabit ve değişmez olduğu düşünülürdü. 1900'lerde ilk kez sinirbilimci Cajal, beynin yetişkinlikte de gelişebileceğine inanıyordu. 1960'larda, nöronların travmalardan sonra tekrar organize olarak fonksiyonel hale gelebilecekleri gösterildi. Yine stresin yalnızca beynin fonksiyonelitesini değil, yapısını da değiştirebileceği gösterildi. 
 
