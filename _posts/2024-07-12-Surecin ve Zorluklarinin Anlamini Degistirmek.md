@@ -37,7 +37,7 @@ Geribildirimler önemlidir dedik çünkü, Heidegger'ın "Dasein" kavramı ile a
 
 Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gelen sinyalleri çekirdeğe iletiyor, çekirdek bu sinyalleri bir araya toplayıp aksona iletiyor, son olarak akson bu sinyalleri işleyerek sinapslara gönderiyor. Sinapslar ise sinyalleri diğer sinir hücrelerine iletiyor. Normalde nöronlardaki iletim hızı saniyede 50 santimetre kadarken, bu aksonları çevreleyen ve koruyan miyelin kılıfı oluşmuş nöronlardaki iletim hızı 240 kata kadar daha fazla olabiliyor. 
 
-![Smithsonian Image]({{ site.url }}/img/sample-image-2.jpg)
+![Smithsonian Image]({{ site.url }}/img/avatar.png)
 {: .pull-right}
 
 Eskiden beyin hücrelerimizin sayısının sabit ve değişmez olduğu düşünülürdü. 1900'lerde ilk kez sinirbilimci Cajal, beynin yetişkinlikte de gelişebileceğine inanıyordu. 1960'larda, nöronların travmalardan sonra tekrar organize olarak fonksiyonel hale gelebilecekleri gösterildi. Yine stresin yalnızca beynin fonksiyonelitesini değil, yapısını da değiştirebileceği gösterildi. 
