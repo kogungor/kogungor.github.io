@@ -37,8 +37,7 @@ Geribildirimler önemlidir dedik çünkü, Heidegger'ın "Dasein" kavramı ile a
 
 Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gelen sinyalleri çekirdeğe iletiyor, çekirdek bu sinyalleri bir araya toplayıp aksona iletiyor, son olarak akson bu sinyalleri işleyerek sinapslara gönderiyor. Sinapslar ise sinyalleri diğer sinir hücrelerine iletiyor. Normalde nöronlardaki iletim hızı saniyede 50 santimetre kadarken, bu aksonları çevreleyen ve koruyan miyelin kılıfı oluşmuş nöronlardaki iletim hızı 240 kata kadar daha fazla olabiliyor. 
 
-![Smithsonian Image]({{ site.url }}/img/avatar.png)
-{: .pull-right}
+![Alt text](/img/growth_mindset/noronsinir.jpg)
 
 Eskiden beyin hücrelerimizin sayısının sabit ve değişmez olduğu düşünülürdü. 1900'lerde ilk kez sinirbilimci Cajal, beynin yetişkinlikte de gelişebileceğine inanıyordu. 1960'larda, nöronların travmalardan sonra tekrar organize olarak fonksiyonel hale gelebilecekleri gösterildi. Yine stresin yalnızca beynin fonksiyonelitesini değil, yapısını da değiştirebileceği gösterildi. 
 
@@ -60,6 +59,8 @@ Mindset(Zihniyet), genel anlamda hayat felsefemiz, duruşumuz ve bakış açım�
 Sabit zihniyet, kimliklere bağlanan geribildirimlerle inşa edilmiş, toplumsal konumu odağına alan, limitlerden oluşan, sahip olunanı korumak adına, maksimum düzeyde hatadan kaçınılan ve "başarı" odaklıdır.
 
 Buna karşın, gelişim zihniyeti, eforları ödüllendiren, nöroplastisitenin gerçekliğini bilen ve adapte olup efor sarfettiğinde, gelişeceğine ve her zaman daha iyi olabileceğine inanır.
+
+![](/img/growth_mindset/growthvsfixed.png)
 
 Efor odaklı ilerleyen bu sürecte Carol Dweck, "şimdi"nin zorbalığındansa, "henüz"ün gücünü kullanmanın öneminden bahseder. Yapamamanın aksine "henüz değil" bir korsu gösterir. Bir tavrı ve yolu vurgular. Yalnızca bu tutum değişimi bile, nöroplastik gelişimi tetiklemeye başlar. 
 
@@ -138,8 +139,17 @@ Bunun yanıtı için de bir çok farklı perspektif baz alabilirim.
 
 
 
+<h2>Kaynakça</h2>
 
-
+* C. Mueller and C. Dweck, (1998), Praise for Intelligence Can Undermine Children's Motivation and Performance"
+* D. Laskowitz, et al. (2015). Translational Research In Traumatic Brain Injury.
+* K. T. Sibille, et al. (2016). Increasing Neuroplasticity To Bolster Chronic Pain Treatment: A Role For Intermittent Fasting And Glucose Administration?.
+* W. Turakitwanakan, et al. (2013). Effects Of Mindfulness Meditation On Serum Cortisol Of Medical Students.
+* A. C. Rodrigues, et al. (2010). Musical Training, Neuroplasticity And Cognition
+* E. Fuchs, et al. (2014). Adult Neuroplasticity: More Than 40 Years Of Research.
+* Nussbaum, A. D., & Dweck, C. S. (2008). Defensiveness Versus Remediation: Self-Theories and Modes of Self-Esteem Maintenance. Personality and Social Psychology Bulletin
+* Hong, Y.-y., Chiu, C.-y., Dweck, C. S., Lin, D. M.-S., & Wan, W. (1999). Implicit theories, attributions, and coping: A meaning system approach. Journal of Personality and Social Psychology
+* Moser JS, Schroder HS, Heeter C, Moran TP, Lee YH. Mind your errors: evidence for a neural mechanism linking growth mind-set to adaptive posterror adjustments. Psychol Sci. 2011 
 
 
 
