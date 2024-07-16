@@ -3,7 +3,7 @@ layout: post
 title: Sürecin ve Zorlukların Anlamını Değiştirmek
 date: 2024-07-13 03:36
 comments: true
-categories: [Siber Güvenlik, Psikoloji, Growth Mindset, İnsan Odaklı Beceriler]
+categories: [Siber Güvenlik, Psikoloji, Growth Mindset, Human-Centric Skills,]
 ---
 
 Bize hangi durumlarda, hangi konuda iyi olduğumuz söyleniyor? Yada hangi konuda zayıf olduğumuz söyleniyor? Peki iyi olduğumuz söylenen konularda neden iyiyiz? Doğuştan bir hediye mi? İlgili konuda iyi olmak için çok efor mu sarfettik? Daha önce deneyip, başarısız olduğumuz için mi kötüyüz? Yoksa hiç denemediğimiz için mi? Yada defalarca deneyip, her seferinde başarısız olduğumuz için mi?

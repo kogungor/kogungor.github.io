@@ -3,7 +3,7 @@ layout: post
 title: Some'nin Maceraları Bölüm I
 date: 2015-10-20 14:06
 comments: true
-categories: [incident investigation, Incident Management, Incident Response, pcap, some]
+categories: [incident investigation, Incident Management, Incident Response,]
 ---
 Hikayemiz aslinda <strong>Ann Dercover</strong> adli bir kadinin rakip firma icin sanayi casuslugu yaptigi iddasi ile basliyor. Ann’in sirket icerisinde gizli sayilabilecek bazi bilgilere sahip oldugu ve bu bilgileri disari sizdirdigina iliskin bazi supheler mevcut.<!--more-->
 
