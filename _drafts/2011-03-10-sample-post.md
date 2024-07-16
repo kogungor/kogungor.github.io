@@ -98,3 +98,41 @@ Make any link standout more when applying the `.btn` class.
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice}
+
+
+
+<style>
+.column-left{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
+}
+</style>
+
+#### This section will have three columns
+
+<div class="column-left">
+**1** one  <br>
+**2** two  <br>
+</div>
+<div class="column-center">
+**3** three  <br>
+**4** four  <br>
+**5** five  <br>
+**6** six  <br>
+</div>
+<div class="column-right">
+**7** seven  
+**8** eight  
+**9** nine  
+</div>

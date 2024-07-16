@@ -11,38 +11,3 @@ categories: [Siber Güvenlik, Psikoloji, Suç]
 
 Peki bu çalışmaya göre seri katiller hangi fazlardan geçiyorlar ? 
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
-
-#### This section will have three columns
-
-<div class="col3">
-**1** one  
-**2** two  
-**3** three  
-**4** four  
-**5** five  
-**6** six  
-**7** seven  
-**8** eight  
-**9** nine  
-</div>
-
-#### This section will have two columns
-
-<div class="col2">
-```{r}
-head(mtcars)
-tail(mtcars)
-```
-</div>
