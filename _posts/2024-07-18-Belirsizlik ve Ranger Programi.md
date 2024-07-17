@@ -14,9 +14,8 @@ Sabah erkenden evden çıkardım. Akşam geç saatlerde geri dönerdim. Acıktı
 <br>
 
 <p align="center">
-<div class="img-container" markdown="1">
-  <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="500" class="img-container">
-</div>
+      <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="500" class="img-container">
+
   <br>
     <em>Keler Köyü</em>
 </p>
