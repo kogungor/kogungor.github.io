@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Belirsizliğe Mukavemet ve Ranger Programı Üzerine
-date: 2024-07-18 04:21
+date: 2024-07-17 04:21
 comments: true
 categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Human-Centric Skills, Ranger Programı]
 ---
