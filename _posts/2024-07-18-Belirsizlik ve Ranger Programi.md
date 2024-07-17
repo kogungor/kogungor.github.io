@@ -12,13 +12,15 @@ categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Human-Centric S
 Sabah erkenden evden çıkardım. Akşam geç saatlerde geri dönerdim. Acıktığımda bir kapıyı çalar, acıktım der, karnımı doyurur, tekrar dışarıya çıkardım. 
 
 <br>
-<div class="img-container" markdown="1">
+
 <p align="center">
+<div class="img-container" markdown="1">
   <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="500" class="img-container">
+</div>
   <br>
     <em>Keler Köyü</em>
 </p>
-</div>
+
 <br>
 
 İlk çağ filozofu gibi elimde fındık ağacının kalın dalından bir sopa, öyle gezerdim. Köydeki son evi de geçip, köyün sınırlarına giderdim. Yemyeşil, bazen sisli. O virajı dönünce ne var aceba? Bunu düşünmenin nasıl bir merak ve heyecan duygusu yaşattığını bugün dahi hatırlıyorum. Peki bilinmeyene duyduğumuz bu heyecan ve merakla, bilinmezlik karşısında yaşadığımız baskı ve stres arasında nasıl bu kadar uçurum olabilir?
