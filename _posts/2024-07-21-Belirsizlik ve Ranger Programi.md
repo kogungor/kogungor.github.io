@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Belirsizliğe Mukavemet ve Ranger Programı Üzerine
-date: 2024-07-17 04:21
+date: 2024-07-21 04:21
 comments: true
 categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Human-Centric Skills, Ranger Programı]
 ---
@@ -131,7 +131,7 @@ Bu karmaşık duruma bir de, yeni jenerasyonun, azalan mahalle kültürü, sokak
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/stres.png" width="300" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/stres.png" height="400" class="img-container">
     <br>
   </p>
 <br>
