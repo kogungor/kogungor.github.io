@@ -37,7 +37,7 @@ Geribildirimler önemlidir dedik çünkü, Heidegger'ın "Dasein" kavramı ile a
 
 Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gelen sinyalleri çekirdeğe iletiyor, çekirdek bu sinyalleri bir araya toplayıp aksona iletiyor, son olarak akson bu sinyalleri işleyerek sinapslara gönderiyor. Sinapslar ise sinyalleri diğer sinir hücrelerine iletiyor. Normalde nöronlardaki iletim hızı saniyede 50 santimetre kadarken, bu aksonları çevreleyen ve koruyan miyelin kılıfı oluşmuş nöronlardaki iletim hızı 240 kata kadar daha fazla olabiliyor. 
 
-![Alt text](/img/growth_mindset/noronsinir.jpg)
+![Alt text](/img/growth_mindset/Myelin.jpg)
 
 Eskiden beyin hücrelerimizin sayısının sabit ve değişmez olduğu düşünülürdü. 1900'lerde ilk kez sinirbilimci Cajal, beynin yetişkinlikte de gelişebileceğine inanıyordu. 1960'larda, nöronların travmalardan sonra tekrar organize olarak fonksiyonel hale gelebilecekleri gösterildi. Yine stresin yalnızca beynin fonksiyonelitesini değil, yapısını da değiştirebileceği gösterildi. 
 
@@ -123,7 +123,7 @@ Tabi burada, Jean-Paul Sartre'nin "varoluş özden önce gelir" söylemi ve özg
 
 Bazen "iyi bilen" katılımcılar yukarıda bahsettiğim şekli tercih ederek, kendi büyüme ekseninde kalarak, aynı zamanda başkalarının hikayelerinde de yer almayı tercih ederler. Bazen de, tam tersi, programın bir şey katmayacağını düşünüp ayrılabilirler programdan. Bütün bu seçimleri yaşadık ve tecrübe ettik farklı kişilerle. 
 
-Yine Ranger Programı boyunca, çeşitli periodik görevler verilir. Bu görevlerin bir kısmı duygu durum kontrolü için nöroplastisite tetiklemeye çalışırken, bir kısmı kritik düşünme, vaka formülasyonu, otomatik düşünceler, ara inançlar ve temel inançların keşfi ve değişimi yahut anahtar kognisyon için nöroplastisite tetiklemeyi hedefler. 
+Yine Ranger Programı boyunca, çeşitli periyodik görevler verilir. Bu görevlerin bir kısmı duygu durum kontrolü için nöroplastisite tetiklemeye çalışırken, bir kısmı kritik düşünme, vaka formülasyonu, otomatik düşünceler, ara inançlar ve temel inançların keşfi ve değişimi yahut anahtar kognisyon için nöroplastisite tetiklemeyi hedefler. 
 
 Bütün bunların koordine bir şekilde tecrübe ediliyor olması, katılımcıyı fixed mindsetten growth mindsete taşımaya, duyguları daha iyi regüle eden, yeni davranışlar ve alışkanlıklar oluşturabilen, zorluklar karşısında daha az yılma eğilimi gösteren, bilinmezliğe karşı daha dirençli, krizlerde ve sorunlarda büyüme fırsatı gören, problem çözme becerileri gelişmiş kişiler olmalarına destek oluyor. 
 
