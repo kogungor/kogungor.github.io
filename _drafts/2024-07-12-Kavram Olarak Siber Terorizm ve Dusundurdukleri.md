@@ -6,14 +6,14 @@ comments: true
 categories: [Siber Güvenlik, Psikoloji, Suç]
 ---
 
-1988 yılında psikolog John Norris, yaptığı 500 görüşme sonucunda, seri katillerin 7 psikolojik durumdan geçtiğine dayanan çalışmasını ortaya attı. Bu fazların bazıları, siber dünya ile kinetik dünyamız sarmaşık gibi birbirlerine dolanırken, siber dünyadaki faaliyetlere kaydı. Bu da erken fazda potansiyel bir suç eğiliminin tespitini zorlaştırmaya başladı. 
+1988 yılında psikolog John Norris, yaptığı 500 görüşme sonucunda, seri katillerin 7 psikolojik durumdan geçtiğine dayanan çalışmasını ortaya attı. Bu fazların bazıları, siber dünya ile kinetik dünyamız sarmaşık gibi birbirlerine dolanırken, siber dünya daki faaliyetlere kaydı. Bu da erken fazda potansiyel bir suç eğiliminin tespitini zorlaştırmaya başladı. 
  <!--more-->
 
 Peki bu çalışmaya göre seri katiller hangi fazlardan geçiyorlar ? 
 
 <h2>1- Aura Fazı</h2>
 
-Aura fazında kişi, kendisi ile sosyal ilişkiler arasına mesafe koymaya başlar. Gerçeklikten belli ölçüde kopuş başlar. Bu durum kimi zaman ailesi ve arkadaşları tarafından farkedilemeyecek derecede sinsi ilerleyebilir ve belli olmayan kısa yada uzun bir süre devam eder. Fantezik düşünceler ağırlık kazanmaya başlar. Çoğu durumda bu düşünceler, şiddet içerikli seksüel düşünceler yahut başka şiddet içerikli fanteziler olarak kendini gösterir.
+Aura fazında kişi, kendisi ile sosyal ilişkiler arasına mesafe koymaya başlar. Gerçeklikten belli ölçüde kopuş başlar. Bu durum kimi zaman ailesi ve arkadaşları tarafından farkedilemeyecek derecede sinsi ilerleyebilir ve belli olmayan kısa ya da uzun bir süre devam eder. Fantezik düşünceler ağırlık kazanmaya başlar. Çoğu durumda bu düşünceler, şiddet içerikli seksüel düşünceler yahut başka şiddet içerikli fanteziler olarak kendini gösterir.
 
 Yine kişide, bu süreçte madde kullanımı alkol kullanımı yoğunlaşabilir. 
 
@@ -63,7 +63,7 @@ Depresyon fazı öylesine şiddetlidir ki, bazen katil intihar etmeye bile güç
 
 Bu devinim, her seferinde katili daha vahşi ve daha profesyonel olmaya götürür. Ritüellerinde iyileştirmeler yapma ihtiyacı oluşturabilir.
 
-Süreç taki yakalanana yada intihar edene kadar devam eder. Seri cinayet işleme bir nevi bağımlılıktır. 
+Süreç taki yakalanana ya da intihar edene kadar devam eder. Seri cinayet işleme bir nevi bağımlılıktır. 
 
 <h2>Peki Siber Dünya ile İlgisi Ne?</h2>
 
@@ -71,13 +71,13 @@ Süreç taki yakalanana yada intihar edene kadar devam eder. Seri cinayet işlem
 
 Yine trolleme fazına geçmiş bir katilin, kurban arayışı tanıdığı bildiği çevreden siber dünyaya kayabilir. Bu da rutin kontrollere takılmasını, şüpheli takip desenlerinin tespitini kinetik hayatımızdan çok daha imkansız hale getirebilir. 
 
-Katil, kurbanının güvenini kazanma sürecini, internete taşıyarak gerçek dünyada olduğundan çok daha efektif ve kolay hale getirebilir. Bununla birlikte, kurban tarafında ise kontrol, gerçek dünyada olduğundan çok daha azdır. Dolayısıyla hem tespit hemde angajman tarafında büyük avantaj elde etmesine yol açabilir. 
+Katil, kurbanının güvenini kazanma sürecini, internete taşıyarak gerçek dünya da olduğundan çok daha efektif ve kolay hale getirebilir. Bununla birlikte, kurban tarafında ise kontrol, gerçek dünya da olduğundan çok daha azdır. Dolayısıyla hem tespit hemde angajman tarafında büyük avantaj elde etmesine yol açabilir. 
 
-Yakalama fazında, siber dünyada oluşturulan güvenin ve farklı iletişim imkanlarının yardımı ile daha sessiz ve sinsi bir davranış modeli geliştirerek yine yakalanmayı zorlaştırabilir. 
+Yakalama fazında, siber dünya da oluşturulan güvenin ve farklı iletişim imkanlarının yardımı ile daha sessiz ve sinsi bir davranış modeli geliştirerek yine yakalanmayı zorlaştırabilir. 
 
 Öte yandan, kimi durumlarda, katiller aslında sokakta kırmızı ışıkta durmamak, hız yapmak gibi başka basit hatalar yüzünden yakalanmıştır. Fazlar içerisine siber kabiliyetlerin girmesi, bu kişilerin cinayet sonrası evreleri dışarda geçirmek yerine daha çok bilgisayar ve internet dünyasında kalmaları ile sonuçlanabilir. 
 
-Özetle, katillerin olduğu kadar suç ile mücadele edenlerin de siber dünyadaki kabiliyetlerini artırmaları önemlidir. Çünkü teknoloji ve siber hayat, bu insanların belki suçtan önce potansiyellerinin tespit edilmesinde de yardımcı olabilir. İnternet aktiviteleri, gezdiği websiteleri, faaliyetleri, iletişim yöntemleri, potansiyellerinin profillenmesi konusunda destekleyici unsur olabilir. 
+Özetle, katillerin olduğu kadar suç ile mücadele edenlerin de siber dünya daki kabiliyetlerini artırmaları önemlidir. Çünkü teknoloji ve siber hayat, bu insanların belki suçtan önce potansiyellerinin tespit edilmesinde de yardımcı olabilir. İnternet aktiviteleri, gezdiği websiteleri, faaliyetleri, iletişim yöntemleri, potansiyellerinin profillenmesi konusunda destekleyici unsur olabilir. 
 
 <h2> Siber güvenlik sadece hacking ağırlıklı bir mücadele midir? Yoksa kinetik hayatta işlenen suçları da kapsar mı? </h2>
 

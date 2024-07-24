@@ -6,10 +6,10 @@ comments: true
 categories: [Siber Güvenlik, Psikoloji, Growth Mindset, Human-Centric Skills, Ranger Programı]
 ---
 
-Bize hangi durumlarda, hangi konuda iyi olduğumuz söyleniyor? Yada hangi konuda zayıf olduğumuz söyleniyor? Peki iyi olduğumuz söylenen konularda neden iyiyiz? Doğuştan bir hediye mi? İlgili konuda iyi olmak için çok efor mu sarfettik? Daha önce deneyip, başarısız olduğumuz için mi kötüyüz? Yoksa hiç denemediğimiz için mi? Yada defalarca deneyip, her seferinde başarısız olduğumuz için mi?
+Bize hangi durumlarda, hangi konuda iyi olduğumuz söyleniyor? ya da hangi konuda zayıf olduğumuz söyleniyor? Peki iyi olduğumuz söylenen konularda neden iyiyiz? Doğuştan bir hediye mi? İlgili konuda iyi olmak için çok efor mu sarf ettik? Daha önce deneyip, başarısız olduğumuz için mi kötüyüz? Yoksa hiç denemediğimiz için mi? ya da defalarca deneyip, her seferinde başarısız olduğumuz için mi?
  <!--more-->
 
-Bir şeyde iyi yada kötü olmaya yönelik mesajlar dışarıdan geldiği kadar kendi içimizden de geliyor olabilir! Özellikle içinde "olmak", "olgu" gibi kelimeleri taşıdığından, bir noktada doğrudan hayatla kurduğumuz ilişki, bu ilişkinin yürütüldüğü kimlik ile de doğrudan ilintili bir hal alıyor. 
+Bir şeyde iyi ya da kötü olmaya yönelik mesajlar dışarıdan geldiği kadar kendi içimizden de geliyor olabilir! Özellikle içinde "olmak", "olgu" gibi kelimeleri taşıdığından, bir noktada doğrudan hayatla kurduğumuz ilişki, bu ilişkinin yürütüldüğü kimlik ile de doğrudan ilintili bir hal alıyor. 
 
 <h2>Geribildirim Tarzı Önemli</h2>
 
@@ -58,7 +58,7 @@ Mindset(Zihniyet), genel anlamda hayat felsefemiz, duruşumuz ve bakış açım�
 
 Sabit zihniyet, kimliklere bağlanan geribildirimlerle inşa edilmiş, toplumsal konumu odağına alan, limitlerden oluşan, sahip olunanı korumak adına, maksimum düzeyde hatadan kaçınılan ve "başarı" odaklıdır.
 
-Buna karşın, gelişim zihniyeti, eforları ödüllendiren, nöroplastisitenin gerçekliğini bilen ve adapte olup efor sarfettiğinde, gelişeceğine ve her zaman daha iyi olabileceğine inanır.
+Buna karşın, gelişim zihniyeti, eforları ödüllendiren, nöroplastisitenin gerçekliğini bilen ve adapte olup efor sarf ettiğinde, gelişeceğine ve her zaman daha iyi olabileceğine inanır.
 
 ![](/img/growth_mindset/growthvsfixed.png)
 
@@ -87,7 +87,7 @@ Uğraştığımız konu ne olursa olsun, aslında günün sonunda problem çöz�
 
 Öyleki, bu gün nöroplastisite, miyelinizasyon sürecini daha fazla tetikleyerek bazı demiyelinizasyon nedenli hastalıkların tedavi edilmesinde de kullanılıyor. Demiyelinizan durumlardan en bilineni MS hastalığıdır. Ancak aşağıdaki bazı diğer hastalıkların da miyelin ile bağlantılı olduğu biliniyor
 
-* Değresyon
+* Depresyon
 * Dikkat Eksikliği ve Hiperaktivite (ADHD)
 * Bipolar Bozukluk
 * Disleksi
@@ -107,17 +107,17 @@ Bu arada, bir taraftan kendi kendime tartıştığım şeyler ilginizi çekerse 
 
 <h2>Cyber Struggle Ranger Programı ve Growth Mindset</h2>
 
-Ranger programının ilk hedefi, programa katılan personelin sabit zihin semasını cıkarmak. Bu şemayı yalnızca eğitmenler ve sistem olarak bizim çıkarmamız yeterli değil. Aynı zamanda program boyunca, bu şemayı katılımcıların kendi kendilerine ortaya çıkarmalarına destek olmaya çalışıyoruz. 
+Ranger programının ilk hedefi, programa katılan personelin sabit zihin semasını çıkarmak. Bu şemayı yalnızca eğitmenler ve sistem olarak bizim çıkarmamız yeterli değil. Aynı zamanda program boyunca, bu şemayı katılımcıların kendi kendilerine ortaya çıkarmalarına destek olmaya çalışıyoruz. 
 
 Ortaya çıktıktan sonraki aşamada, bütün bunların fixlenmiş ve kimliğe bağlı şeyler olduğu gerçeğinin farkındalığını yaşatmaya çalışmak var. Bu süreç aslında, katılımcıların erken aşama limitlerine doğru itilmesi ile başlıyor. Her ne kadar metodolojik bir zorunluluktan bahsediyor olsak da, Ranger programını üst üste iki kez gelenler için bile farklı bir tecrübeye dönüştüren şeylerden birisi burada saklı. Sistem her katılımcıyı kendi tecrübesi üzerinden fixed mindset ile buluşturmaya çabalıyor. Bu da her bir kişi için ayrı bir yol haritası ve tekil bir tecrübe demek. 
 
-Kimileri iyi olduğunu, kimileri zeki olduğunu, kimileri kronik başarısız olduğunu düşünebilir. Burada önemli olan şey, düşüncelerin kimlikle ilintili bir halde olması, pozitif yada negatif duygular barındırması değil. Katılımcının odağını "yeterlilik" konseptinden "henüzün gücü" tarafına kaydırmak amacımız. 
+Kimileri iyi olduğunu, kimileri zeki olduğunu, kimileri kronik başarısız olduğunu düşünebilir. Burada önemli olan şey, düşüncelerin kimlikle ilintili bir halde olması, pozitif ya da negatif duygular barındırması değil. Katılımcının odağını "yeterlilik" konseptinden "henüzün gücü" tarafına kaydırmak amacımız. 
 
 Bu farkındalığa ek olarak, Ranger programı boyunca değişen durumlar yaratılıp, bu durumlara adapte olunması bekleniyor. Değişen her durum, beraberinde -önceden ortak planlama yapılmadıysa- belirsizlik ve stres getirir. Bu yüksek adaptasyon bekelentisi ise, odak değişimine ek olarak bir nöroplastisite sürecini tetikletiyor. En azından tetikletmesini bekliyoruz. 
 
 Bu iki konu paralel bir şekilde, dozajı program boyunca eğitmenler tarafından oynanarak yaşatılırken, katılımcıların zaman zaman belli konularda çok iyi oldukları hissine kapılmaları, bazen çok kötü oldukları hissine ve düşüncesine kapılmaları ve bunların sürekli olarak farklı ve uygun dozlarda birey bazında değiştirilmeleri sağlanıyor. Bu akış ise, katılımcıların bir süre sonra problemleri eforlar, zorluklar ve anlamlar üzerinden değerlendirmelerini sağlıyor. Kişiler kimlik odaklı sabit düşüncelerden ayrılmaya (detach) başlıyorlar. Geribeslemeleri, ödüllendirilmeleri, övgüleri süreç ve efor odağına kayıyor.
 
-Problem yoğunluğunu artırarak, tekrar sayısını artırmış da oluyoruz. Bknz miyelinizasyon! Öte yandan, verilen problemler çoğu durumda, katılımcıların çözümlerine hakim olmadıkları bir form ile veriliyor. Program öncesinde, sınıf için bir seviye belirleme yapılmadığından, sınıfta ilgili problemlerin çözümünü bilen kişiler de olabiliyor. Bu durumda da, "bilgili kişinin" pozitif fixed zihin yapısından ayrılması bekleniyor. Burdan bir kaç çeşit şekilde ayrılma imkanı var. Bunlardan ilki, konuda daha fazla derinleşmek! Verilen problemin cevabının ötesine geçerek, kendisinin daha iyi bir versiyonu ile çözmek. Bir diğeri ise, ekip! Ekipteki diğer katılımcıların hikayelerinin bir parçası olarak, insan odaklı beceriler çerçevesinde growthda kalmak. 
+Problem yoğunluğunu artırarak, tekrar sayısını artırmış da oluyoruz. Bknz miyelinizasyon! Öte yandan, verilen problemler çoğu durumda, katılımcıların çözümlerine hakim olmadıkları bir form ile veriliyor. Program öncesinde, sınıf için bir seviye belirleme yapılmadığından, sınıfta ilgili problemlerin çözümünü bilen kişiler de olabiliyor. Bu durumda da, "bilgili kişinin" pozitif fixed zihin yapısından ayrılması bekleniyor. Buradan birkaç çeşit şekilde ayrılma imkanı var. Bunlardan ilki, konuda daha fazla derinleşmek! Verilen problemin cevabının ötesine geçerek, kendisinin daha iyi bir versiyonu ile çözmek. Bir diğeri ise, ekip! Ekipteki diğer katılımcıların hikayelerinin bir parçası olarak, insan odaklı beceriler çerçevesinde growthda kalmak. 
 
 Tabi burada, Jean-Paul Sartre'nin "varoluş özden önce gelir" söylemi ve özgürlük ilişkisi devreye giriyor. "İnsan önce var olur, sonra kendi kimliğini yaratır" der Sartre. İşte bu kimliği belirleme gücü insana özgürlük verir. Bu özgürlükle alınan kararlar, kişinin varoluşunu anlamlandırır. 
 
@@ -129,9 +129,9 @@ Bütün bunların koordine bir şekilde tecrübe ediliyor olması, katılımcıy
 
 Peki bir siber güvenlik eğitimi için bunların ne önemi var? Yaygın problemler ve bunların nasıl çözüleceğini anlatmak, çözümleri formüle etmek, formülleri de katılımcılara sağlamanın nesi kötü?
 
-Bunun yanıtı için de bir çok farklı perspektif baz alabilirim. 
+Bunun yanıtı için de birçok farklı perspektif baz alabilirim. 
 
-* Metodolojik Kronik Perspektif: Her şeyden önce, yüzlerce eğitim var, bir çoğu bedava ve/veya bedavaya yakın. Ama hala insan kaynağı sorunundan bahsediyoruz. Hem nicel hem nitel. Demek ki, sorun eğitimlerin sayısı yada erişilebilir olmasından daha köklü. Üstelik, bu tür eğitim almış ve meslek icra etme aşamasına gelmiş kişilerin çok daha azı, yaratıcılık, esneklik, problem çözme, yüksek etki yaratma, beklentilerin ötesine geçme gibi konularda etkin. 
+* Metodolojik Kronik Perspektif: Her şeyden önce, yüzlerce eğitim var, bir çoğu bedava ve/veya bedavaya yakın. Ama hala insan kaynağı sorunundan bahsediyoruz. Hem nicel hem nitel. Demek ki, sorun eğitimlerin sayısı ya da erişilebilir olmasından daha köklü. Üstelik, bu tür eğitim almış ve meslek icra etme aşamasına gelmiş kişilerin çok daha azı, yaratıcılık, esneklik, problem çözme, yüksek etki yaratma, beklentilerin ötesine geçme gibi konularda etkin. 
 * Öğrenme Perspektifi: Bütün, parçalarının toplamından daha büyüktür. Büyüme odaklılığın, öğrenme üzerinde ciddi etkisi var. Kimisi hemen farkedilirken, kimisini farketmek için belli şeyler tecrübe etmek gerekebilir. 
 * Fonksiyonalite Perspektifi: Problem, meydan okuma üzerinden gelişim sağlandığı ve efor odaklı oluşu, aynı zamanda insanın becerilerinin sabit olmayışına olan inanç, bireyi otomatik olarak fonksiyonalite odağında tutar. Kimlik odaklı "iyi olmak", "iyi bilmek" vb şeylerden ziyade, daha çok sorun çözmek, daha yüksek etki yaratmak, daha fazla gelişmek gibi. 
 * Kendi Varoluşumu Anlamlandırmak: Daha iyisini arama ve yapma gayreti ve cesareti 

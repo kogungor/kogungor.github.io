@@ -23,9 +23,9 @@ Bildiginiz gibi bilgisayarlar insanlari taklit etme hevesi ile gelisim hayatini 
 
 Bugun geldigimiz nokta, fiziksel dunyamizin bir cok aksiyonunun siber dunya icerisinde yer almasi ile ilgili. Bu su demek; fiziksel dunyamizin hemen hemen butun felsefik, matematik, sosyolojik, ekonomik vs problemi cevap bulmadan siber dunya gibi bir yapi icerisinde de yasamakta.
 
-Soyle dusunun; siz daha fiziksel dunya sartlarinda, kaynaklarin goreceli olarak kat kat daha kisitli oldugu bir dunyada soz gelimi ekonomi problemlerinizi cozememissiniz. Hangi yaklasimin butun insanlari yahut belirli bir toplulugu mutlu edecegini dahi bulmakta zorluk cekiyorsunuz. Bu zorlandiginiz problem, henuz sinirlarinizi bilemediginiz ve fiziksel dunyadaki pek cok kisitlamanin olmadigi yeni bir dunyada yeniden var oluyor.
+Soyle dusunun; siz daha fiziksel dunya sartlarinda, kaynaklarin goreceli olarak kat kat daha kisitli oldugu bir dunya da soz gelimi ekonomi problemlerinizi cozememissiniz. Hangi yaklasimin butun insanlari yahut belirli bir toplulugu mutlu edecegini dahi bulmakta zorluk cekiyorsunuz. Bu zorlandiginiz problem, henuz sinirlarinizi bilemediginiz ve fiziksel dunya daki pek cok kisitlamanin olmadigi yeni bir dunya da yeniden var oluyor.
 
-Bu noktada kendisine siber guvenlik uzmani diyecek kisinin, bir kere siber dunyadaki guvenlik kavrami ile etkilesim icerisinde bulunacak konulara hakim olmasi gerekir. Ornegin, gerekli ideolojik, teknik, sosyolojik bilgiye sahip olmadan, salt hacking yetenekleri ile Red Hack’i yorumlayamazsiniz. Bu komik olur.
+Bu noktada kendisine siber guvenlik uzmani diyecek kisinin, bir kere siber dunya daki guvenlik kavrami ile etkilesim icerisinde bulunacak konulara hakim olmasi gerekir. Ornegin, gerekli ideolojik, teknik, sosyolojik bilgiye sahip olmadan, salt hacking yetenekleri ile Red Hack’i yorumlayamazsiniz. Bu komik olur.
 
 Bu aslinda suna benzer; 90li yillarin ortalarinda Hakkari 4. Komando Tugayi’na helikopterle gelip soguk nedeni ile bir gece kalamayan Amerika’li subayla dalga gecmek. Bu komiktir, zira sizin ilgili ulke karsisindaki rekabet cizginize bir etkisi olmayacaktir.
 
@@ -65,7 +65,7 @@ Siber guvenlik uzmani olmak istiyorsaniz,
 	<li>Bilisim Guvenligi</li>
 	<li>Gayrinizami Harp gibi temel konularda olabildigine bilgi sahibi olmalisiniz</li>
 	<li>Herseyi biliyorum havalarini bir kenara birakip sonsuza kadar ogrenci olmaniz gereken bir alandir. O nedenle hemen her boku bildiginiz dusuncenizden kurtulmaniz gerekiyor. Zira web scanner ile site tarayip, nmap, nessus cakip rapor yazmakla olmaz bu is.</li>
-	<li>Baskalarinin umursamadigi dalga gectigi tum bilgilerle herseye ragmen ilgilenmeniz gerekir. Cunku olay Rusyadaki bir grup hacker in Estonya’ya DDoS yapmasi degildir. Bu isin sonucudur. Guvenlik sonuctan baslamaz. sonucta olana yapilan sey response dur. Karistirmamayi ogrenmeniz gerekir.</li>
+	<li>Baskalarinin umursamadigi dalga gectigi tum bilgilerle herseye ragmen ilgilenmeniz gerekir. Cunku olay Rusya daki bir grup hacker in Estonya’ya DDoS yapmasi degildir. Bu isin sonucudur. Guvenlik sonuctan baslamaz. sonucta olana yapilan sey response dur. Karistirmamayi ogrenmeniz gerekir.</li>
 	<li>Iyi response vermeniz sizi iyi guvenlikci yapmaz.</li>
 	<li>Surekli bildiginiz bir konu uzerinde calisamazsiniz.</li>
 	<li>Pentest yapmayi ogrendiyseniz, Malware Analizine gecersiniz, biliyorsaniz zero day arastirmayi ogrenirsiniz, eksik bilginiz sosyolojide ise orayi kapatirsiniz ve sonucunda disiplinler arasi yorum yapabilen gerektiginde elini kirletebilen bir insan haline gelirsiniz.</li>

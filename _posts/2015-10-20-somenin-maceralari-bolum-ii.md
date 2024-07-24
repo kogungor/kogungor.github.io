@@ -302,7 +302,7 @@ Ka3XLOKvr6hj/JtVQO+73QfKrYlgYicmDjLov0DJZipmr0tcXjtxpiLZ83pfkiqI1Amf1ulBhAcV
 .....
 {% endhighlight %}
 
-Bu mail icerigini goren SOME yikilir ve Ann ile ilgili tum umutlari bir anda kararir. Zira mail iceriginde sevgilisini ekte verdigi dosyadaki bir adrese cagirmakta ve muhtemelen illegal islerden kazandiklari parayi da bir araya getirmektedir.
+Bu mail icerigini goren SOME yikilir ve Ann ile ilgili tum umutlari bir anda kararir. Zira mail iceriginde sevgilisini ekte verdigi dosya daki bir adrese cagirmakta ve muhtemelen illegal islerden kazandiklari parayi da bir araya getirmektedir.
 
 Bir anlik saskinligini bir kenara birakan SOME, davulun da tokmagi, elmanin da sapi vardir dusuncesi ile Ann’in nereye gittigini ogrenmeye karar verir. Bu noktada gonderilen dosyayi ele gecirmesi gerekmektedir. Gonderilen dosyanin ismi secretrendezvous.docx tir. Ancak bu dosyanin PCAP icerisinden recompose edilmesi gerekmektedir.
 
