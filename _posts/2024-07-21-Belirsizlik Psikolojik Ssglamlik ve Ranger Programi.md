@@ -22,7 +22,7 @@ Sabah erkenden evden çıkardım. Akşam geç saatlerde geri dönerdim. Acıktı
 
 <br>
 
-İlk çağ filozofu gibi elimde fındık ağacının kalın dalından bir sopa, öylece gezerdim. Köydeki son evi de geçip, köyün sınırlarına giderdim. Yemyeşil teperler, doğa, virajlı toprak yollar... O virajı dönünce ne var acaba? Dünya bu kadar mı? Bunu düşünmenin nasıl bir merak ve heyecan duygusu yaşattığını bugün dahi hatırlıyorum. Önce bir sonraki virajı dönüp ne olduğuna bakmak istedim. Dağlara taşlara vurmuşum tabi kendimi farkında olmadan. Domuzlardan kaçıp, saatlerce fındık ağacının tepesinde mahsur kalmışlığım var. Bir sonraki viraj, bir sonraki derken, köyden biraz uzaklaşırdım o yaşta. Sonra bir gün, cesaretimi toplayıp, gizlice attım kendimi bir kamyonun kasasına ve merkeze götürdü beni. Dükkanların camlarında yanıp sönen tabelalerı ateş böceği sanmıştım. Ateş böceklerinden isim yazıp tabelacılık oynamıştım döndüğümde. Merkeze gidince, bir de köyün ardı olduğunu farkettim. Sağolsun kamyoncular geri köye kadar beni bıraktılar. 
+İlk çağ filozofu gibi elimde fındık ağacının kalın dalından bir sopa, öylece gezerdim. Köydeki son evi de geçip, köyün sınırlarına giderdim. Yemyeşil tepeler, doğa, virajlı toprak yollar... O virajı dönünce ne var acaba? Dünya bu kadar mı? Bunu düşünmenin nasıl bir merak ve heyecan duygusu yaşattığını bugün dahi hatırlıyorum. Önce bir sonraki virajı dönüp ne olduğuna bakmak istedim. Dağlara taşlara vurmuşum tabi kendimi farkında olmadan. Domuzlardan kaçıp, saatlerce fındık ağacının tepesinde mahsur kalmışlığım var. Bir sonraki viraj, bir sonraki derken, köyden biraz uzaklaşırdım o yaşta. Sonra bir gün, cesaretimi toplayıp, gizlice attım kendimi bir kamyonun kasasına ve merkeze götürdü beni. Dükkanların camlarında yanıp sönen tabelaları ateş böceği sanmıştım. Ateş böceklerinden isim yazıp tabelacılık oynamıştım döndüğümde. Merkeze gidince, bir de köyün ardı olduğunu farkettim. Sağolsun kamyoncular geri köye kadar beni bıraktılar. 
 
 <h5>
 *
@@ -53,7 +53,7 @@ Bu tarz bir klasifikasyona rağmen, neden bazı bilinmeyenler merak uyandırırk
 Bir taraftan da detaylı incelediğimizde, belirsizliğin yol açtığı duygunun aslında güvensizlik duygusu olduğunu görürüz. Sonucunda ne olduğunu bilmediğimiz ve kendimizi güvende hissettirmeyen bir durumdur. İnsan tanımadığı şeyden korkup ve her şeye bir netlik kazandırma eğiliminde. Sanki, hazırlıklı olabilirsek, "başarılı" olurum gibi bir düşünceye ihtiyacımız varmış gibi. Bu açıdan düşündüğümüzde, belirsizliğin aslında yaşadığımız kaygılarla da doğrudan ilintili olduğunu anlayabiliriz. Ontolojik bir noktaya değiniyor çünkü. 
 
 
-Hal böyle olunca, bilinmezliğe duyulan pozitif hislerle arasındaki farkı yaratanın, bizim karşımızdaki durumla kurduğumuz ilişkinin çeşidi olduğunu düşünüyorum. Nasıl algıladığımız, nasıl bir anlam atfettiğimiz ve onunla ne yapmayı planladığımız gibi farklılıklar, durumu ele alış şekilimiz için de belirleyici oluyor. Bundan sonrası zaten zincirleme bir reaksiyon başlatıyor belli ki.
+Hal böyle olunca, bilinmezliğe duyulan pozitif hislerle arasındaki farkı yaratanın, bizim karşımızdaki durumla kurduğumuz ilişkinin çeşidi olduğunu düşünüyorum. Nasıl algıladığımız, nasıl bir anlam atfettiğimiz ve onunla ne yapmayı planladığımız gibi farklılıklar, durumu ele alış şeklimiz için de belirleyici oluyor. Bundan sonrası zaten zincirleme bir reaksiyon başlatıyor belli ki.
 
 
 <br>
@@ -71,7 +71,7 @@ Bununla beraber, aslında hayatta üzerinde kontrolümüz olan şeyler geneli it
 
 Gabriel Garcia Marguez  ‘İnsanlar plan yapar ve Tanrı onlara güler.’ diyerek belirsizliği çok güzel özetlemiştir. 
 
-Madem ki, farklı belirleyen şey aslında bizim konuya yaklaşım tarzımızla ilgili, o zaman belirsizlikle olan ilişkimizi yeniden derleyerek, ona karşı mukavemet de geliştirebiliriz. İşte tam bu noktada, karşımıza Psikolojik Sağlamlık(Resilience) kavramı çıkıyor. Zorlayıcı olaylarla baş edebilme, uyum sağlayabilme, esneklik kullanabilme, ilerleyebilme, zorlayıcı bir stres faktörü karşısında, olumsuz duygusal tecrübelere karşı kendini toparlabilme ve iyileştirme gücü şeklinde tanımlanıyor. 
+Madem ki, farkı belirleyen şey aslında bizim konuya yaklaşım tarzımızla ilgili, o zaman belirsizlikle olan ilişkimizi yeniden derleyerek, ona karşı mukavemet de geliştirebiliriz. İşte tam bu noktada, karşımıza Psikolojik Sağlamlık(Resilience) kavramı çıkıyor. Zorlayıcı olaylarla baş edebilme, uyum sağlayabilme, esneklik kullanabilme, ilerleyebilme, zorlayıcı bir stres faktörü karşısında, olumsuz duygusal tecrübelere karşı kendini toparlayabilme ve iyileştirme gücü şeklinde tanımlanıyor. 
 
 Yalnızca bir özellikten ziyade, kişinin elindeki alet çantasını, sahip olduğu bütün kaynakları yönetebilme kapasitelerinin tümünü içeriyor. Yıllar önce, emekli Navy SEAL bir kişi ile konuşurken, psikolojik sağlamlığın öğretilebilir bir şey olduğuna inanmadığını söylemişti. Benzer bir cümleyi, 2019 yılında Amerikan Harp Akademisi'nde bir heyet ile görüşürken, eski bir karacı komandodan da duymuştum. İkisi de, bazıları bunun öğretilebilir olduğunu düşündüğünü ama kendilerinin inanmadığını söylemişlerdi. Kendi eğitim metodolojimi dizayn ederken, bu konu üzerine çok düşündüm. Çok sayıda insanla tecrübe ettim. Hem Cyber Struggle için geliştirdiğim metodolojide tanıklık ettim, hem de öncesinde yıllarca basketbol antrenörlüğü yaptığım dönemde, çeşitli yaş gruplarında, birçok farklı profil üzerinde çalışma şansı yakaladığımda deneyimledim. 
 
@@ -99,7 +99,7 @@ Mesela, bir grup askerin arazi arama taraması sırasında, pusuya düşmesi tak
 
 <h4>Güçlük Boyutu</h4>
 
-Bir diğer boyut olan güçlük boyutu ise doğrudan değişim ve adaptasyon ile ilgilidir. Değişimden kaçmak yerine, onu ilerlemek ve fırsat olarak kabul etmek gibi. 
+Bir diğer boyut olan güçlük boyutu ise doğrudan değişim ve adaptasyon ile ilgilidir. Değişimden kaçmak yerine, onunla ilerlemek ve fırsat olarak kabul etmek gibi. 
 
 Değişen çevre ve olaylar karşısında daha yenilikçi, esnek ve açık bir duruş ile olan biteni etkilemek ve yaşayarak öğrenmeyi işaret eder. Bu noktada yine nöroplastisite ve growth zihin yapısına atıf olduğunu söyleyebiliriz. 
 
@@ -148,7 +148,7 @@ Bunlar bugünün baskısının sonuçları. Unutmamamız lazım ki, yıllar içe
 
 Siber olayların doğasına başka konularda da tekrar tekrar değinmek istiyorum. 
 
-Bu arada, yukarıda çizmeye çalıştığım fotoğraf, her meslek gurubunda, iş hayatının herhangi bir alanında yaşanacak varoluşsal sancılardan azade değil, aksine bunun üzerine oluşacak katmerli bir ağırlık. Bu kısmı da atlamamak iyi olacaktır kanımca. 
+Bu arada, yukarıda çizmeye çalıştığım fotoğraf, her meslek grubunda, iş hayatının herhangi bir alanında yaşanacak varoluşsal sancılardan azade değil, aksine bunun üzerine oluşacak katmerli bir ağırlık. Bu kısmı da atlamamak iyi olacaktır kanımca. 
 
 Beklenti değişimi için de, ayrı bir yazı ile tartışmak daha doğru olacaktır. Ne tip beklentiler oluşuyor, bunların daha fonksiyonel bireyler olmamızla ilgisi ne olabilir, gibi konuları orada biraz daha detaylandırmaya çalışırız. 
 
