@@ -99,9 +99,7 @@ Mesela, bir grup askerin arazi arama taraması sırasında, pusuya düşmesi tak
 
 <h4>Güçlük Boyutu</h4>
 
-Bir diğer boyut olan güçlük boyutu ise doğrudan değişim ve adaptasyon ile ilgilidir. Değişimden kaçmak yerine, onunla ilerlemek ve fırsat olarak kabul etmek gibi. 
-
-Değişen çevre ve olaylar karşısında daha yenilikçi, esnek ve açık bir duruş ile olan biteni etkilemek ve yaşayarak öğrenmeyi işaret eder. Bu noktada yine nöroplastisite ve growth zihin yapısına atıf olduğunu söyleyebiliriz. 
+Bir diğer boyut olan güçlük boyutu ise doğrudan değişim ve adaptasyon ile ilgilidir. Değişimden kaçmak yerine, onunla ilerlemek ve fırsat olarak kabul etmek gibi. Değişen çevre ve olaylar karşısında daha yenilikçi, esnek ve açık bir duruş ile olan biteni etkilemeyi ve yaşayarak öğrenmeyi işaret eder. Bu durum, yine nöroplastisite ve growth zihin yapısına doğrudan bir atıftır.
 
 >Bizi kırılgan hale getiren süper ikilinin, geçmişe yönelik pişmanlıklarımız ya da gelecek beklentilerimizle alakalı endişelerimiz olduğunu söyleyebiliriz. 
 
@@ -113,19 +111,19 @@ Değişen çevre ve olaylar karşısında daha yenilikçi, esnek ve açık bir d
   </p>
 <br>
 
-Çoğu durumda, kendimizi geçiş seçimlerimiz üzerinden kendimizle kavga ederken buluruz. Yaşadıklarımızın elbette bizde bıraktığı izler var. Bir noktada, bugünümüzü şekillendirmedeki etkisi de yadsınamaz. Neticede, yaşadıklarımız bir tecrübeye dönüşüyor. Ancak, bu kavgalarımız tecrübenin ötesinde, geçmişimizin bugünümüzü ele geçirmesi anlamını taşıyor. 
+Çoğu durumda, kendimizi geçmiş seçimlerimiz yüzünden kendimizle kavga ederken buluruz. Yaşadıklarımızın bizde bıraktığı izler var ve bugünümüzü şekillendirmedeki etkili. Neticede, yaşadıklarımız bir tecrübeye dönüşüyor. Ancak, bu kavgalarımız tecrübenin ötesinde, geçmişimizin bugünümüzü ele geçirmesi anlamını taşıyor. 
 
-ya da gelecek... Gelecek esasında herkes için bir bilinmeyendir. Ancak bazılarımızın gelecek ile olan ilişkisini, gerçekçi olmayan beklentilerle, kötü olayların meydana gelme olasılığını zihinlerinde yükselterek, süreçlere anlam katmak yerine, kişiliklerini tanımlayıcı feedbackler ile belirlerler. Bu da, daha büyük bir kuvvet çarpanı ile bizi bilinmezlik karşısında kırılgan hale getirir. 
+Gelecek esasında herkes için bilinmeyendir. Ancak bazılarımız gelecekle olan ilişkisini, gerçekçi olmayan beklentilerle, kötü olayların meydana gelme olasılığına odaklanarak daha da bilinmez hale getirir. Bu da büyük bir kuvvet çarpanı ile bizi bilinmezlik karşısında daha kırılgan yapar.
 
-Geçmiş ve gelecekle ilişkimizi bu kadar olumsuz kurmuşken, elimizde bir tek "şimdi" kalıyor. Ancak, bu ikili ile bozuk ilişki sürdürenlerimiz, çoğu senaryoda, "şimdi"yi de kendisini başkaları ile kıyaslayarak harcıyor. Bazen bilgi düzeyimiz, bazen toplumsal konumumuz, bazen mutluluğumuz, bazen finansal durumumuz, fizyolojimiz ya da sahip olduklarımız. Sürekli bir kıyaslama hali ve bunun yol açtığı yetersizlik hissi... 
+Geçmiş ve gelecekle ilişkimizi bu kadar olumsuz kurmuşken, elimizde bir tek "şimdi" kalıyor. Ancak, bu ikili ile bozuk ilişki sürdürenlerimiz, çoğu senaryoda, "şimdi"yi de kendisini başkaları ile kıyaslayarak harcıyor. Bazen bilgi düzeyimiz, bazen toplumsal konumumuz, bazen mutluluğumuz, bazen finansal durumumuz, fizyolojimiz ya da sahip olmadıklarımız: sürekli bir kıyaslama hali ve bunun yol açtığı yetersizlik hissi.
 
 <h2>Belirsizlik, Psikolojik Dayanıklılık ve Ranger Programı</h2>
 
-Siber güvenlik, yıllarca saldıların etkilerinin sınırı ile daha çok mühendislik, IT, yazılım geliştirme vb gibi alanlara sıkışıp kaldı. Siber güvenliği her şeyden önce "güvenlik" olduğu ve kinetik yaşantımızda güvenliğin kapsadığı ya da maruz kaldığı şeylerle de iç içe olma ihtimalini gözardı etmek herkesin kolayına geldi. 
+Siber güvenlik, yıllarca mühendislik, IT, yazılım geliştirme vb gibi alanlara sıkışıp kaldı. Siber güvenliğin her şeyden önce "güvenlik" olduğunu ve kinetik yaşantımızda güvenliğin kapsadığı şeylerle iç içe olma durumunu gözardı etmek herkesin kolayına geldi. 
 
-İçinde bulunduğumuz gelişmeler ve konjoktür, siber olayların etkilerini her geçen gün daha da önemli ve kritik hale getiriyor. Etkinin bu artışı da, ister istemez siber güvenlikle uğraşanlar üzerinde, 5-10 yıl öncesinden çok daha fazla baskı yaratmaya başladı. 
+İçinde bulunduğumuz gelişmeler ve konjoktür, siber olayların etkilerini her geçen gün daha da önemli ve kritik hale getiriyor. Bu artış da, ister istemez siber güvenlikle uğraşanlar üzerinde, 5-10 yıl öncesinden çok daha fazla baskı yaratmaya başladı.
 
-Buna bir de, siber olayların doğasını eklediğimizde, siber olayların yaratacağı sonuca yönelik baskıya, bir de unortodoks doğanın getirdiği yüksek bilinmezlik eklendiğinde, baskı iyiden iyiye artmaya başladı. Düşünsenize, çoğu durumda, saldırganların ne zaman nereden saldıracağını bilmiyoruz. Ne tipte ve büyüklükte bir kuvvet kullanağını bilmiyoruz. Saldırının ne kadar süreceğini bilmiyoruz, niyetleri konusunda kesin bir bilgimiz yok. Gerçekleşecek olayın sonuçlarını kestiremiyoruz. Tüm bu süreçlerin, siber güvenlik uzmanı olarak bizim kariyerimize, o kurumdaki geleceğimiz, toplumdaki konumuzu nasıl etkileyeceği konusunda da fikrimiz yok. 
+Siber olayların yaratacağı sonuca yönelik baskıya, unortodoks doğanın getirdiği yüksek bilinmezlik eklendiğinde, baskı iyiden iyiye artmaya başladı. Düşünsenize, çoğu durumda, saldırganların ne zaman nereden saldıracağını bilmiyoruz. Ne tipte ve büyüklükte bir kuvvet kullanağını bilmiyoruz. Saldırının ne kadar süreceğini bilmiyoruz, niyetleri konusunda kesin bir bilgimiz yok. Gerçekleşecek olayın sonuçlarını kestiremiyoruz. Tüm bu süreçlerin, siber güvenlik uzmanı olarak bizim kariyerimize, o kurumdaki geleceğimiz, toplumdaki konumuzu nasıl etkileyeceği konusunda da fikrimiz yok. 
 
 Bu karmaşık duruma bir de, yeni jenerasyonun, azalan mahalle kültürü, sokak kültürü, sosyalleşme vb insan odaklı becerilerin gelişimine yardımcı olacak oldschool şeylerden uzak yetişmeleri, aile içerisinde temel eğitimde hedeflerin değişmesi ile adaptasyon, sağlamlık konularında fayda sağlayacak bir takım alışkanlıkları elde edememelerini eklediğimizde, işler daha da kaotik hale geliyor. 
 
