@@ -6,26 +6,46 @@ layout: default
         <div class="row">
             <div class="col">
                 {% assign lang = page.lang | default: 'tr' %}
-                {% include tr/sections/about.html %}        
+                {% if lang == 'en' %}
+                    {% include en/sections/about.html %}
+                {% else %}
+                    {% include tr/sections/about.html %}
+                {% endif %}        
             </div>
         </div>
         
         <div class="row">
             <div class="col">
-                {% include tr/sections/projects.html %}
+                {% if lang == 'en' %}
+                    {% include en/sections/projects.html %}
+                {% else %}
+                    {% include tr/sections/projects.html %}
+                {% endif %}
             </div>
         </div>
     </div>
 
     <div class="col l4 offset-l1">
         <div class="row">
-            {% include tr/sections/skills.html %}    
+            {% if lang == 'en' %}
+                {% include en/sections/skills.html %}
+            {% else %}
+                {% include tr/sections/skills.html %}
+            {% endif %}    
         </div>
         <div class="row">
-            {% include tr/sections/career.html %}    
+            {% if lang == 'en' %}
+                {% include en/sections/career.html %}
+            {% else %}
+                {% include tr/sections/career.html %}
+            {% endif %}    
         </div>
         <div class="row">
-            {% include tr/sections/education.html %}    
+            {% if lang == 'en' %}
+                {% include en/sections/education.html %}
+            {% else %}
+                {% include tr/sections/education.html %}
+            {% endif %}    
         </div>
     </div>
     
