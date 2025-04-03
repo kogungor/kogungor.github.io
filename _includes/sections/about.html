@@ -1,0 +1,9 @@
+{% comment %}
+This is a compatibility include that redirects to the language-specific version
+{% endcomment %}
+{% assign lang = page.lang | default: 'tr' %}
+{% if lang == 'en' %}
+  {% include en/sections/about.html %}
+{% else %}
+  {% include tr/sections/about.html %}
+{% endif %}

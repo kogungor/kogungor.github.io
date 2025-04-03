@@ -37,7 +37,8 @@ layout: default
     {% if page.translation_url %}
     <div class="post-translation-link">
       <a href="{{ site.url }}{{ page.translation_url }}">
-        {{ site.data.translations.read_in[lang] }} {{ site.data.languages[lang | replace: 'en', 'tr' | replace: 'tr', 'en'].label }}      
+        {{ site.data.translations.read_in[lang] }} {% assign alt_lang = lang | replace: 'en', 'tr' | replace: 'tr', 'en' %}
+        {{ site.data.languages[alt_lang].label }}      
       </a>
     </div>
     {% endif %}
