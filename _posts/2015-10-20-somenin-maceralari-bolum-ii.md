@@ -2,6 +2,7 @@
 layout: post
 title: Some'nin Maceraları Bölüm II
 date: 2015-10-20 14:17
+lang: tr
 comments: true
 categories: [Incident Management, Incident Response,]
 ---

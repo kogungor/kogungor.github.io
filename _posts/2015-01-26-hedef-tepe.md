@@ -2,6 +2,7 @@
 layout: post
 title: Hedef Tepe ve Sağır Olmak
 date: 2015-01-26 09:23
+lang: tr
 comments: true
 categories: [Kissadan Hisse, Human-Centric Skills,]
 ---

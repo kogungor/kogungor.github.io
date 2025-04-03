@@ -3,6 +3,7 @@ layout: post
 title: Some'nin Maceraları Bölüm III
 date: 2015-10-20 14:26
 comments: true
+lang: tr
 categories: [Incident Management, Incident Response,]
 ---
 Bir onceki bolumde Ann’in gizli asigi olan Mr.X’e gonderdigi mesaji gormustuk. Mesajda buyuk miktarda nakit ile birlikte Meksika kiyilarina kacma planlari yapilmaktaydi. Ote yandan ogrenilen son bilgiler kahramanimiz SOME icin tam bir hayalkirikligi niteligi tasimaktaydi. <!--more-->Zira SOME, linkedin resminden vuruldugu bu hatuna yurume derdindeydi. Her sisman analist gibi, evinden cikmadan, internet uzerinden armut pis agzima dus seklinde bir iliskinin oluru pesindeydi. Bu noktada gizli asiga gonderilen mesaj SOME’nin umutlarini bir nebze olsun kirmis ama armutun da sapi var diyerekten, Polisle is birligi yapmaya devam etme karari almisti.

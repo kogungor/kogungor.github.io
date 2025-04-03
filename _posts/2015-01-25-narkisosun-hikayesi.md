@@ -2,6 +2,7 @@
 layout: post
 title: Narkisos'un Hikayesi
 date: 2015-01-25 09:26
+lang: tr
 comments: true
 categories: [Kissadan Hisse]
 ---

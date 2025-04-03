@@ -2,7 +2,7 @@
 layout: post
 title:  "Vulnhub - Billy Madison 1.0"
 date:   2016-09-14 15:07:19
-lang:en
+lang: en
 categories: [Offensive Studies, Walkthrough]
 comments: true
 ---
