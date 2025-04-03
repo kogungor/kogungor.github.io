@@ -1,0 +1,46 @@
+{% comment %}
+  i18n-helpers.html - A collection of helpers for multilingual functionality
+  
+  Usage examples:
+  
+  1. Get translated text:
+     {% include i18n-helpers.html function="translate" key="home" %}
+  
+  2. Get language-specific content path:
+     {% include i18n-helpers.html function="content_path" lang="en" path="/about/" %}
+  
+  3. Get language icon:
+     {% include i18n-helpers.html function="lang_icon" lang="en" %}
+{% endcomment %}
+
+{% assign function = include.function %}
+{% assign current_lang = page.lang | default: 'tr' %}
+
+{% if function == "translate" %}
+  {% assign key = include.key %}
+  {% if site.data.translations[key][current_lang] %}
+    {{ site.data.translations[key][current_lang] }}
+  {% else %}
+    {{ site.data.translations[key]['en'] }}
+  {% endif %}
+
+{% elsif function == "content_path" %}
+  {% assign target_lang = include.lang | default: current_lang %}
+  {% assign path = include.path %}
+  {% assign lang_root = site.data.languages[target_lang].root %}
+  
+  {% if lang_root == "/" %}
+    {{ path }}
+  {% else %}
+    {{ lang_root }}{{ path }}
+  {% endif %}
+
+{% elsif function == "lang_icon" %}
+  {% assign target_lang = include.lang | default: current_lang %}
+  {{ site.data.languages[target_lang].icon }}
+
+{% elsif function == "lang_label" %}
+  {% assign target_lang = include.lang | default: current_lang %}
+  {{ site.data.languages[target_lang].label }}
+
+{% endif %}
