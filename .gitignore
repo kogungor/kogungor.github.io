@@ -5,7 +5,6 @@ _site/
 .jekyll-metadata
 
 # User-specified exclusions
-.windsurfrules
 _drafts/
 
 # OS generated files

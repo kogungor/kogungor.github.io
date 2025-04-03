@@ -1,0 +1,24 @@
+/* Custom fixes for multilingual blog */
+
+/* Fix for duplicate home links in navigation */
+.post-listing > a[href="/home/"],
+.post-listing > a[href="/en/home/"] {
+  display: none;
+}
+
+/* Hide any duplicate navigation items */
+.post-listing > a + a[href="/"] {
+  display: none;
+}
+
+/* General style for the horizontal navigation at the top */
+.post-listing > a {
+  margin-right: 5px;
+  color: #666;
+  font-size: 0.9em;
+  
+  &:hover {
+    color: #E16971;
+    text-decoration: none;
+  }
+}
