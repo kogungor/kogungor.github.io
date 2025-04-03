@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Categories
-permalink: /en/categories/
-lang: en
+title: Kategoriler
+permalink: /tr/kategoriler/
+lang: tr
 ref: categories
-translation_url: /tr/kategoriler/
+translation_url: /en/categories/
 ---
 
 {% assign lang = page.lang | default: 'tr' %}
@@ -14,7 +14,7 @@ translation_url: /tr/kategoriler/
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
     <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
     {% for post in site.categories[cat_name] %}
-      {% if post.lang == lang %}
+      {% if post.lang == lang or post.lang == nil %}
       <article class="tag-item">
         <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
       </article>
