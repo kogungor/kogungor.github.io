@@ -3,7 +3,7 @@ layout: post
 title: Hedef Tepe ve Sağır Olmak
 date: 2015-01-26 09:23
 lang: tr
-comments: true
+permalink: /tr/articles/2015-01/hedef-tepe-ve-sagir-olmak/
 categories: [Kissadan Hisse, Human-Centric Skills,]
 ---
 Bir yerde problem varsa, muhakkak çözüm de vardır. Çözüm kavramı yoksa, o zaman o yerde problemden bahsetmek de mümkün değildir. Tabi insanoğlu bu, bir takım hedefler koyuyor, bu tepeleri yükselttikçe yükseltiyor ve nihayetine erdirip zirveleştiriyor. Sonra da bu zirve ve çıkış macerası üzerine, şarkılar türküler yakılıyor, felsefe yaklaşımları, hatta doktrinler yazılıyor çiziliyor.

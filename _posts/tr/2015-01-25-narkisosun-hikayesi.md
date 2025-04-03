@@ -3,7 +3,7 @@ layout: post
 title: Narkisos'un Hikayesi
 date: 2015-01-25 09:26
 lang: tr
-comments: true
+permalink: /tr/articles/2015-01/narkisos-un-hikayesi/
 categories: [Kissadan Hisse]
 ---
 [dropcap]N[/dropcap]arkissos, kendi güzelliğini her gün seyretmeye giden yakışıklı delikanlının hikayesi… (Öyle şeyler oluyor ki, mesleği tamamen bırakıp insanın oturup felsefe, psikoloji, sosyoloji kitapları karıştırıp, edebiyat yapıp, sayfalarca yazı yazası geliyor. Ama gelin görün ki, henü zamanı değil; hala dolduruyoruz hikayeleri… Bu işin sonunda ya bolca yazı çıkar, ya bolca suskunluk, göreceğiz…)<span id="more-314"></span><!--more-->

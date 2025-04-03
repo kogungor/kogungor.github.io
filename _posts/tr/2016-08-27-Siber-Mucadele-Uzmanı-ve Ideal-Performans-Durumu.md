@@ -5,7 +5,7 @@ date: 2016-08-27 09:30
 comments: true
 categories: [Siber Mücadele,]
 lang: tr
----
+permalink: /tr/articles/2016-08/siber-m-ucadele-uzmani-ve-ideal-performans-durumu/
 Siber Güvenlik konusu çoğunlukla yalnızca teknik bir konu olarak görülür. Oysa, teknik yeterliliğe ek olarak daha pek çok parametre taşır. Bu yeni parametrelerin pek çoğu aslında, siber güvenliğin “siber mücadele” çerçevesinde ele alınmasından kaynaklanır. Zira ucu açık, geçmişi, şu anı ve geleceği olan bir süreç olarak düşünüldüğünde, “güvenlik” veya “savaş” kavramlarından daha farklı bir perspektifte değerlendirilmesi gerektiği açıktır.<!--more-->
 
 Kuşkusuz mücadelenin ana unsurlarının başında mücadele uzmanı gelir. Gerek bireysel çalışmalarda, gerekse takım çalışmalarında, uzmanın ideal performansını yakalamasında teknik becerilerinin yanında en önemli unsurlardan biri de zihinsel faktördür. Mücadele uzmanının başarıya ulaşmasında yalnızca teknik bilgi birikimini geliştirmek yeterli değildir.

@@ -4,6 +4,7 @@ title: Seri Katiller, 7 Faz ve Siber Dünya
 date: 2018-10-09 07:36
 comments: true
 lang: tr
+permalink: /tr/articles/2018-10/seri-katiller-7-faz-ve-siber-d-unya/
 categories: [Siber Güvenlik, Psikoloji, Suç]
 ---
 

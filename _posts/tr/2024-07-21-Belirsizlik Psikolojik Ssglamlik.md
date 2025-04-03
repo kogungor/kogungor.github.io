@@ -5,7 +5,7 @@ date: 2024-07-21 04:21
 comments: true
 categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Human-Centric Skills, Ranger Programı]
 lang: tr
-ref: resilience
+permalink: /tr/articles/2024-07/belirsizlige-mukavemet-psikolojik-saglamlik-ve-ranger-programi-uzerine/
 translation_url: /2024/04/03/psychological-resilience/
 ---
 
