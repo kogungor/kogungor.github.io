@@ -1,5 +1,4 @@
 <div class="language-switcher">
-  <span>{{ site.data.translations.language[page.lang | default: 'tr'] }}:</span>
   {% for language in site.data.languages %}
     {% assign lang_code = language[0] %}
     {% assign lang_data = language[1] %}

@@ -21,7 +21,7 @@
         <span>/</span>
       </li>
       {% for p in site.pages %} 
-        {% if p.title and p.lang == lang %}
+        {% if p.title and p.lang == lang and p.url != '/index.html' and p.url != '/en/index.html' %}
         <li class="nav-item">
           <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
           {% unless forloop.last %}

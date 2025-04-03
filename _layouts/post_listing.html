@@ -3,9 +3,12 @@ layout: default
 ---
 
 {% assign lang = page.lang | default: 'tr' %}
-{% assign posts = site.posts | where: 'lang', lang %}
-{% if posts.size == 0 %}
-  {% assign posts = site.posts %}
+{% if lang == 'en' %}
+  {% assign posts = site.posts | where: 'lang', 'en' %}
+{% else %}
+  {% assign posts_with_lang = site.posts | where: 'lang', 'tr' %}
+  {% assign posts_without_lang = site.posts | where: 'lang', nil %}
+  {% assign posts = posts_with_lang | concat: posts_without_lang %}
 {% endif %}
 
 {% for post in posts %}
