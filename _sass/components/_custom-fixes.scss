@@ -1,18 +1,8 @@
 /* Custom fixes for multilingual blog */
 
 /* Fix for duplicate home links in navigation */
-.post-listing > a[href="/home/"],
-.post-listing > a[href="/en/home/"] {
-  display: none;
-}
-
-/* Hide any duplicate navigation items */
-.post-listing > a + a[href="/"] {
-  display: none;
-}
-
-/* General style for the horizontal navigation at the top */
-.post-listing > a {
+/* Target all navigation links */
+.post-listing a {
   margin-right: 5px;
   color: #666;
   font-size: 0.9em;
@@ -21,4 +11,19 @@
     color: #E16971;
     text-decoration: none;
   }
+}
+
+/* Hide duplicate home links */
+.post-listing a[href="/"] ~ a[href="/"],
+.post-listing a[href="/index.html"] ~ a[href="/index.html"],
+.post-listing a[href="/en/"] ~ a[href="/en/"],
+.post-listing a[href="/en/index.html"] ~ a[href="/en/index.html"],
+.post-listing a[href="/home/"],
+.post-listing a[href="/en/home/"] {
+  display: none !important;
+}
+
+/* Hide any links that appear immediately after the same link */
+.post-listing a[href] + a[href="\1"] {
+  display: none !important;
 }
