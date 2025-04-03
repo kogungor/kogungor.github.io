@@ -1,0 +1,25 @@
+.post-translation-link {
+  margin: 15px 0;
+  font-size: 0.9em;
+  
+  a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: rgba(225, 105, 113, 0.1);
+    border-radius: 3px;
+    color: #E16971;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: rgba(225, 105, 113, 0.2);
+      text-decoration: none;
+    }
+    
+    &:before {
+      content: "\f0ac"; /* Globe icon */
+      font-family: FontAwesome;
+      margin-right: 5px;
+    }
+  }
+}

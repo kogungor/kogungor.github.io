@@ -1,3 +1,4 @@
+{% assign lang = page.lang | default: 'tr' %}
 <footer>
-  &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br> Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a></i>
+  &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.<br> {{ site.data.translations.powered_by[lang] }} <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a>
 </footer>

@@ -2,7 +2,13 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% assign lang = page.lang | default: 'tr' %}
+{% assign posts = site.posts | where: 'lang', lang %}
+{% if posts.size == 0 %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
 <section class="post">
   <header class="post-header">
     <p class="post-meta">

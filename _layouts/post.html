@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+{% assign lang = page.lang | default: 'tr' %}
 
-<a class="btn" href= "{{ site.url }}/" >
-  Home
+<a class="btn" href= "{% if lang == 'en' %}{{ site.data.languages.en.root }}/{% else %}{{ site.url }}/{% endif %}" >
+  {{ site.data.translations.home[lang] }}
 </a>
 {% if page.image.feature %}
 <div class="post-image-feature">
@@ -32,7 +33,14 @@ layout: default
       •
       {% include read_time.html %}
     </span>
-
+    
+    {% if page.translation_url %}
+    <div class="post-translation-link">
+      <a href="{{ site.url }}{{ page.translation_url }}">
+        {{ site.data.translations.read_in[lang] }} {{ site.data.languages[lang | replace: 'en', 'tr' | replace: 'tr', 'en'].label }}      
+      </a>
+    </div>
+    {% endif %}
   </header>
 
   <article class="post-content">
@@ -41,7 +49,7 @@ layout: default
 </div>
 
 <div class="share-buttons">
-  <h6>Share on: </h6>
+  <h6>{{ site.data.translations.share_on[lang] }}: </h6>
   <ul>
     <li>
       <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>

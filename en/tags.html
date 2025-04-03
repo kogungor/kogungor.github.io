@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Etiketler
-permalink: /tags/
-lang: tr
+title: Tags
+permalink: /en/tags/
+lang: en
 ref: tags
-translation_url: /en/tags/
+translation_url: /tags/
 ---
 
 {% assign lang = page.lang | default: 'tr' %}
@@ -13,7 +13,7 @@ translation_url: /en/tags/
 {% for tag in site.tags %}
   {% assign has_posts = false %}
   {% for post in site.tags[tag.first] %}
-    {% if post.lang == lang or post.lang == nil %}
+    {% if post.lang == lang %}
       {% assign has_posts = true %}
     {% endif %}
   {% endfor %}
@@ -31,7 +31,7 @@ translation_url: /en/tags/
 {% for tag in site.tags %}
   {% assign has_posts = false %}
   {% for post in site.tags[tag.first] %}
-    {% if post.lang == lang or post.lang == nil %}
+    {% if post.lang == lang %}
       {% assign has_posts = true %}
     {% endif %}
   {% endfor %}
@@ -40,7 +40,7 @@ translation_url: /en/tags/
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <h5 class="tag-group-title" id="{{ tag_name | slugize }}">{{ tag_name }}</h5>
     {% for post in site.tags[tag_name] %}
-      {% if post.lang == lang or post.lang == nil %}
+      {% if post.lang == lang %}
       <article class="tag-item">
         <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
       </article>

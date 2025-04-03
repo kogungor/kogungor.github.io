@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+layout: null
 ---
 @charset "UTF-8";
 
@@ -19,6 +19,8 @@
 @import "components/typography";
 @import "components/buttons";
 @import "components/syntax-highlighting";
+@import "components/language-switcher";
+@import "components/post-translation";
 
 // Pages styling
 @import "pages/layout";

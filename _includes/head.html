@@ -2,16 +2,27 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% assign lang = page.lang | default: 'tr' %}
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} | KOG{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:locale" content="{% if lang == 'en' %}en_US{% else %}tr_TR{% endif %}" />
+  <meta name="language" content="{% if lang == 'en' %}English{% else %}Turkish{% endif %}">
 
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.url }}" />
+  {% if lang == 'en' %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.titles.en }}" href="{{ "/feed-en.xml" | prepend: site.url }}" />
+  {% else %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.titles.tr }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+  {% endif %}
+  
+  {% if page.translation_url %}
+  <link rel="alternate" hreflang="{% if lang == 'en' %}tr{% else %}en{% endif %}" href="{{ site.url }}{{ page.translation_url }}" />
+  {% endif %}
 
   <!-- Icons -->
   <!-- 16x16 -->

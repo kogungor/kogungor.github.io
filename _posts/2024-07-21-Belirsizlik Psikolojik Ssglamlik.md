@@ -4,6 +4,9 @@ title: Belirsizliğe Mukavemet, Psikolojik Sağlamlık ve Ranger Programı Üzer
 date: 2024-07-21 04:21
 comments: true
 categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Human-Centric Skills, Ranger Programı]
+lang: tr
+ref: resilience
+translation_url: /2024/04/03/psychological-resilience/
 ---
 
 4 yaşındaydım diye hatırlıyorum. Of’un Keler köyündeyim. Köy küçük. Basit bir bakkal hatırlıyorum, berber bile yoktu. Herkes birbirini tanıyor. Annem ve babam köyün öğretmeni. 80’li yılların ikinci yarısı. Oyuncak olmadığından, kendi kendine zaman geçirmeyi öğrenmekten başka çare yoktu. En azından benim için durum böyleydi. Ama bu konuda zorlandığımı hiç hatırlamıyorum. Hiç oyuncağım olsun istediğimi de hatırlamıyorum. Neye ihtiyacım varsa, hayal gücümle onu elde ederdim  :)

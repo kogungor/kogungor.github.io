@@ -1,0 +1,25 @@
+<div class="language-switcher">
+  <span>{{ site.data.translations.language[page.lang | default: 'tr'] }}:</span>
+  {% for language in site.data.languages %}
+    {% assign lang_code = language[0] %}
+    {% assign lang_data = language[1] %}
+    
+    {% if lang_code == page.lang %}
+      <span class="active-language">{{ lang_data.icon }} {{ lang_data.label }}</span>
+    {% else %}
+      {% if lang_code == 'en' %}
+        {% if page.lang == 'tr' and page.translation_url %}
+          <a href="{{ page.translation_url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% else %}
+          <a href="{{ lang_data.root }}{{ page.url | remove_first: site.data.languages.tr.root }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% endif %}
+      {% else %}
+        {% if page.lang == 'en' and page.translation_url %}
+          <a href="{{ page.translation_url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% else %}
+          <a href="{{ page.url | replace_first: '/en', '' }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

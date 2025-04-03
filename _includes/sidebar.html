@@ -1,29 +1,35 @@
 {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+{% assign lang = page.lang | default: 'tr' %}
 
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
-  <a href="{{ site.url }}/">
+  <a href="{% if lang == 'en' %}{{ site.data.languages.en.root }}/{% else %}{{ site.url }}/{% endif %}">
     <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
   </a>
  
   {% endif %}
-  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
+  <a href="{% if lang == 'en' %}{{ site.data.languages.en.root }}/{% else %}{{ site.url }}/{% endif %}" class="author_name">{{ author.name }}</a>
   <span class="author_job">{{ author.job }}</span>
   <span class="author_bio mbm">{{ author.bio }}</span>
+  
+  {% include language-switcher.html %}
+  
   <nav class="nav">
     <ul class="nav-list">
       <li class="nav-item">
-        <a href="{{ site.url }}/">home</a>
+        <a href="{% if lang == 'en' %}{{ site.data.languages.en.root }}/{% else %}{{ site.url }}/{% endif %}">{{ site.data.translations.home[lang] }}</a>
         <span>/</span>
       </li>
-      {% for page in site.pages %} {% if page.title %}
-      <li class="nav-item">
-        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-        {% unless forloop.last %}
-          <span>/</span>
-        {% endunless %}
-      </li>
-      {% endif %} {% endfor %}
+      {% for p in site.pages %} 
+        {% if p.title and p.lang == lang %}
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+          {% unless forloop.last %}
+            <span>/</span>
+          {% endunless %}
+        </li>
+        {% endif %} 
+      {% endfor %}
     </ul>
   </nav>
   {% include social-links.html %}

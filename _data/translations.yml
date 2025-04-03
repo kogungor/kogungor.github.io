@@ -1,0 +1,45 @@
+home:
+  en: "Home"
+  tr: "Ana Sayfa"
+about:
+  en: "About"
+  tr: "Hakkımda"
+archive:
+  en: "Archive"
+  tr: "Arşiv"
+categories:
+  en: "Categories"
+  tr: "Kategoriler"
+tags:
+  en: "Tags"
+  tr: "Etiketler"
+resume:
+  en: "Resume"
+  tr: "Özgeçmiş"
+read_more:
+  en: "Read More"
+  tr: "Devamını Oku"
+share_on:
+  en: "Share on"
+  tr: "Paylaş"
+powered_by:
+  en: "Powered by"
+  tr: "Altyapı"
+search:
+  en: "Search"
+  tr: "Ara"
+recent_posts:
+  en: "Recent Posts"
+  tr: "Son Yazılar"
+copyright:
+  en: "All rights reserved"
+  tr: "Tüm hakları saklıdır"
+language:
+  en: "Language"
+  tr: "Dil"
+read_in:
+  en: "Read in"
+  tr: "Şu dilde oku"
+tag_cloud:
+  en: "Tag cloud"
+  tr: "Etiket bulutu"

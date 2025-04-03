@@ -1,0 +1,93 @@
+---
+layout: page
+title: 404 - Page not found
+permalink: /404.html
+---
+
+<style>
+.language-selector {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.language-selector a {
+  margin: 0 10px;
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.language-selector a.active {
+  background-color: #E16971;
+  color: white;
+  border-color: #E16971;
+}
+.error-content {
+  text-align: center;
+}
+.error-content h1 {
+  font-size: 4em;
+  margin-bottom: 20px;
+}
+.error-content p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+.error-content .home-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #E16971;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+}
+</style>
+
+<div class="language-selector">
+  <a href="#" id="tr-link" onclick="showLanguage('tr'); return false;" class="active">Türkçe</a>
+  <a href="#" id="en-link" onclick="showLanguage('en'); return false;">English</a>
+</div>
+
+<div id="tr-content" class="error-content">
+  <h1>404</h1>
+  <p>Aradığınız sayfa bulunamadı.</p>
+  <p>Belki URL'yi yanlış yazdınız veya sayfa taşındı.</p>
+  <a href="/" class="home-link">Ana Sayfaya Dön</a>
+</div>
+
+<div id="en-content" class="error-content" style="display: none;">
+  <h1>404</h1>
+  <p>The page you were looking for doesn't exist.</p>
+  <p>You may have mistyped the address or the page may have moved.</p>
+  <a href="/en/" class="home-link">Back to Home</a>
+</div>
+
+<script>
+function showLanguage(lang) {
+  // Hide all content
+  document.getElementById('tr-content').style.display = 'none';
+  document.getElementById('en-content').style.display = 'none';
+  
+  // Remove active class from all links
+  document.getElementById('tr-link').classList.remove('active');
+  document.getElementById('en-link').classList.remove('active');
+  
+  // Show selected content and mark link as active
+  document.getElementById(lang + '-content').style.display = 'block';
+  document.getElementById(lang + '-link').classList.add('active');
+  
+  // Store preference in localStorage
+  localStorage.setItem('preferredLanguage', lang);
+}
+
+// Check if URL contains language indicator
+var path = window.location.pathname;
+if (path.startsWith('/en/')) {
+  showLanguage('en');
+} else {
+  // Check localStorage for language preference
+  var storedLang = localStorage.getItem('preferredLanguage');
+  if (storedLang) {
+    showLanguage(storedLang);
+  }
+}
+</script>

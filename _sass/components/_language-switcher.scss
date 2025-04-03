@@ -1,0 +1,29 @@
+.language-switcher {
+  margin: 15px 0;
+  padding: 10px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: center;
+  
+  span {
+    display: inline-block;
+    margin-right: 5px;
+    color: $secondary;
+  }
+  
+  .active-language {
+    color: #E16971;
+    font-weight: bold;
+  }
+  
+  .language-link {
+    margin-left: 8px;
+    color: $secondary;
+    text-decoration: none;
+    
+    &:hover {
+      color: lighten($secondary, 14%);
+      text-decoration: none;
+    }
+  }
+}
