@@ -7,10 +7,16 @@ ref: about
 translation_url: /en/about/
 ---
 
-{% include sections/about.html %}
-
-{% include sections/career.html %}
-
-{% include sections/education.html %}
-
-{% include sections/skills.html %}
+<div class="row">
+  <div class="col-md-8">
+    {% include sections/about.html %}
+  </div>
+  
+  <div class="col-md-4">
+    <div class="sticky-top" style="top: 20px;">
+      {% include sections/career.html %}
+      {% include sections/education.html %}
+      {% include sections/skills.html %}
+    </div>
+  </div>
+</div>
