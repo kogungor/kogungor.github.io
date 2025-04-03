@@ -3,6 +3,7 @@ layout: post
 title: Sürecin ve Zorlukların Anlamını Değiştirmek
 date: 2024-07-13 03:36
 comments: true
+lang: tr
 categories: [Siber Güvenlik, Psikoloji, Growth Mindset, Human-Centric Skills, Ranger Programı]
 ---
 

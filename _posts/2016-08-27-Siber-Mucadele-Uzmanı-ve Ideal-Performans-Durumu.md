@@ -4,6 +4,7 @@ title: Siber Mücadele Uzmanı ve İdeal Performans Durumu
 date: 2016-08-27 09:30
 comments: true
 categories: [Siber Mücadele,]
+lang:tr
 ---
 Siber Güvenlik konusu çoğunlukla yalnızca teknik bir konu olarak görülür. Oysa, teknik yeterliliğe ek olarak daha pek çok parametre taşır. Bu yeni parametrelerin pek çoğu aslında, siber güvenliğin “siber mücadele” çerçevesinde ele alınmasından kaynaklanır. Zira ucu açık, geçmişi, şu anı ve geleceği olan bir süreç olarak düşünüldüğünde, “güvenlik” veya “savaş” kavramlarından daha farklı bir perspektifte değerlendirilmesi gerektiği açıktır.<!--more-->
 
