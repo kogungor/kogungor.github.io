@@ -1,19 +1,31 @@
-// Script to remove duplicate 'Ana Sayfa' item in the Turkish page
+// Script to remove duplicate items and tags from navigation
 document.addEventListener('DOMContentLoaded', function() {
-  // Function to specifically remove duplicate 'Ana Sayfa' in navigation
-  function removeDuplicateAnaSayfa() {
-    // First, check if we're on a Turkish page
+  // Function to clean up navigation items
+  function cleanupNavigation() {
+    // Get the language
     const htmlLang = document.documentElement.lang;
-    if (htmlLang !== 'tr') return;
     
     // Find all navigation items
     const navItems = document.querySelectorAll('.nav-list .nav-item');
     let homeLinks = [];
     
-    // Collect all home links
+    // Process each nav item
     navItems.forEach(item => {
       const link = item.querySelector('a');
-      if (link && (link.textContent.trim() === 'Anasayfa' || link.getAttribute('href') === '/')) {
+      if (!link) return;
+      
+      const text = link.textContent.trim();
+      const href = link.getAttribute('href');
+      
+      // Hide Tags/Etiketler items
+      if (text === 'Tags' || text === 'Etiketler' || 
+          href.includes('/tags/') || href.includes('/en/tags/')) {
+        item.style.display = 'none';
+        return;
+      }
+      
+      // Handle duplicate home links in Turkish pages
+      if (htmlLang === 'tr' && (text === 'Anasayfa' || href === '/')) {
         homeLinks.push(item);
       }
     });
@@ -29,12 +41,22 @@ document.addEventListener('DOMContentLoaded', function() {
     // Also check for any duplicate links in the horizontal navigation
     const postListing = document.querySelector('.post-listing');
     if (postListing) {
-      const directLinks = postListing.querySelectorAll(':scope > a');
+      const directLinks = postListing.querySelectorAll('a');
       let seenLinks = {};
       
       directLinks.forEach(link => {
         const text = link.textContent.trim();
-        if (text === 'Anasayfa' || link.getAttribute('href') === '/') {
+        const href = link.getAttribute('href');
+        
+        // Hide Tags/Etiketler items
+        if (text === 'Tags' || text === 'Etiketler' || 
+            href.includes('/tags/') || href.includes('/en/tags/')) {
+          link.style.display = 'none';
+          return;
+        }
+        
+        // Handle duplicate home links
+        if (htmlLang === 'tr' && (text === 'Anasayfa' || href === '/')) {
           if (seenLinks['home']) {
             link.style.display = 'none';
           } else {
@@ -46,5 +68,5 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   // Run the function
-  removeDuplicateAnaSayfa();
+  cleanupNavigation();
 });
