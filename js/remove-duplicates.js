@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Collect all home links
     navItems.forEach(item => {
       const link = item.querySelector('a');
-      if (link && (link.textContent.trim() === 'Ana Sayfa' || link.getAttribute('href') === '/')) {
+      if (link && (link.textContent.trim() === 'Anasayfa' || link.getAttribute('href') === '/')) {
         homeLinks.push(item);
       }
     });
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       directLinks.forEach(link => {
         const text = link.textContent.trim();
-        if (text === 'Ana Sayfa' || link.getAttribute('href') === '/') {
+        if (text === 'Anasayfa' || link.getAttribute('href') === '/') {
           if (seenLinks['home']) {
             link.style.display = 'none';
           } else {
