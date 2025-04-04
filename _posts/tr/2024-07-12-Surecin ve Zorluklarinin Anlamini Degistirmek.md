@@ -4,7 +4,7 @@ title: Sürecin ve Zorlukların Anlamını Değiştirmek
 date: 2024-07-13 03:36
 comments: true
 lang: tr
-permalink: /tr/articles/2024-07/s-urecin-ve-zorluklarin-anlamini-degistirmek/
+permalink: /tr/articles/2024-07/surecin-ve-zorluklarin-anlamini-degistirmek/
 ---
 
 Bize hangi durumlarda, hangi konuda iyi olduğumuz söyleniyor? ya da hangi konuda zayıf olduğumuz söyleniyor? Peki iyi olduğumuz söylenen konularda neden iyiyiz? Doğuştan bir hediye mi? İlgili konuda iyi olmak için çok efor mu sarf ettik? Daha önce deneyip, başarısız olduğumuz için mi kötüyüz? Yoksa hiç denemediğimiz için mi? ya da defalarca deneyip, her seferinde başarısız olduğumuz için mi?

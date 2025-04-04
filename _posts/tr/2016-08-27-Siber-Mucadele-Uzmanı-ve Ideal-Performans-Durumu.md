@@ -5,7 +5,7 @@ date: 2016-08-27 09:30
 comments: true
 categories: [Siber Mücadele,]
 lang: tr
-permalink: /tr/articles/2016-08/siber-m-ucadele-uzmani-ve-ideal-performans-durumu/
+permalink: /tr/articles/2016-08/siber-mucadele-uzmani-ve-ideal-performans-durumu/
 ---
 Siber Güvenlik konusu çoğunlukla yalnızca teknik bir konu olarak görülür. Oysa, teknik yeterliliğe ek olarak daha pek çok parametre taşır. Bu yeni parametrelerin pek çoğu aslında, siber güvenliğin “siber mücadele” çerçevesinde ele alınmasından kaynaklanır. Zira ucu açık, geçmişi, şu anı ve geleceği olan bir süreç olarak düşünüldüğünde, “güvenlik” veya “savaş” kavramlarından daha farklı bir perspektifte değerlendirilmesi gerektiği açıktır.<!--more-->
 
