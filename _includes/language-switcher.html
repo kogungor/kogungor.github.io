@@ -1,14 +1,18 @@
 <div class="language-switcher">
-  <!-- Language switcher with translation URL support -->
+  <!-- Language switcher with special handling for home page -->
   {% if page.lang == 'en' %}
     <span class="active-language">🇺🇸 English</span>
-    {% if page.translation_url %}
+    {% if page.ref == 'home' %}
+      <a href="{{ site.url }}/tr/" class="language-link">🇹🇷 Türkçe</a>
+    {% elsif page.translation_url %}
       <a href="{{ site.url }}{{ page.translation_url }}" class="language-link">🇹🇷 Türkçe</a>
     {% else %}
       <a href="{{ site.url }}/tr/" class="language-link">🇹🇷 Türkçe</a>
     {% endif %}
   {% else %}
-    {% if page.translation_url %}
+    {% if page.ref == 'home' %}
+      <a href="{{ site.url }}/en/" class="language-link">🇺🇸 English</a>
+    {% elsif page.translation_url %}
       <a href="{{ site.url }}{{ page.translation_url }}" class="language-link">🇺🇸 English</a>
     {% else %}
       <a href="{{ site.url }}/en/" class="language-link">🇺🇸 English</a>
