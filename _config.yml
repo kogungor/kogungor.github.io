@@ -11,12 +11,23 @@ url: https://kog.wtf
 # Multilingual settings
 default_lang: tr
 languages: [tr, en]
+language_dirs:
+  tr: "/tr"
+  en: "/en"
 titles:
   tr: "Saatin Tersi Yonunde Simya"
   en: "Alchemy Against the Clock"
 descriptions:
   tr: "Disiplinlerarası Siber Güvenlik, İnsan Odaklı Beceriler, İstihbarat, Savaş ve Terörizm Çalışmaları"
   en: "Interdisciplinary Cyber Security, Human-Centric Skills, Intelligence, War and Terrorism Studies"
+
+# GitHub Pages settings
+github: [metadata]
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 
 #

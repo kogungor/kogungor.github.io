@@ -1,10 +1,40 @@
 ---
-layout: default
-title: Saatin Tersi Yonunde Simya
+layout: null
+title: Language Redirect
 permalink: /
 ---
-
-<meta http-equiv="refresh" content="0;url=/tr/">
-<link rel="canonical" href="/tr/">
-<script>location="/tr/"</script>
-<h1>Redirecting to <a href="/tr/">/tr/</a></h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.titles[site.default_lang] }}</title>
+  <script>
+    // Get browser language
+    var userLang = navigator.language || navigator.userLanguage;
+    userLang = userLang.split('-')[0]; // Get primary language code
+    
+    // Define supported languages
+    var supportedLangs = {{ site.languages | jsonify }};
+    
+    // Check if user language is supported
+    if (supportedLangs.indexOf(userLang) >= 0) {
+      // Redirect to user's language
+      window.location.href = '/' + userLang + '/';
+    } else {
+      // Redirect to default language
+      window.location.href = '/{{ site.default_lang }}/';
+    }
+  </script>
+  <meta http-equiv="refresh" content="0;url=/{{ site.default_lang }}/">
+  <link rel="canonical" href="/{{ site.default_lang }}/">
+</head>
+<body>
+  <h1>Redirecting to your preferred language...</h1>
+  <p>If you are not redirected automatically, please choose a language:</p>
+  <ul>
+    {% for lang in site.languages %}
+      <li><a href="/{{ lang }}/">{{ site.data.languages[lang].label }}</a></li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
