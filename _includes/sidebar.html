@@ -18,34 +18,27 @@
         <a href="{{ site.data.languages[lang].root }}/">{{ site.data.translations.home[lang] }}</a>
         <span>/</span>
       </li>
-      {% assign shown_refs = '' | split: '' %}
+      <!-- Manually add About/Hakkımda link -->
+      <li class="nav-item">
+        {% if lang == 'tr' %}
+          <a href="{{ site.url }}/tr/about/">{{ site.data.translations.about[lang] }}</a>
+        {% else %}
+          <a href="{{ site.url }}/en/about/">{{ site.data.translations.about[lang] }}</a>
+        {% endif %}
+        <span>/</span>
+      </li>
+      
+      <!-- Add other navigation items -->
       {% for p in site.pages %} 
-        {% if p.title and p.lang == lang and p.ref != 'home' and p.ref != 'tags' and p.title != site.data.translations.home[lang] %}
-          {% unless shown_refs contains p.ref %}
-            {% assign shown_refs = shown_refs | push: p.ref %}
-            
-            <!-- For Turkish pages, include the about page -->
-            {% if lang == 'tr' and p.ref == 'about' and p.permalink == '/tr/about/' %}
-              <li class="nav-item">
-                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+        {% if p.title and p.lang == lang and p.ref != 'home' and p.ref != 'tags' and p.ref != 'about' and p.title != site.data.translations.home[lang] %}
+          {% if p.permalink contains site.data.languages[lang].root or p.url contains site.data.languages[lang].root %}
+            <li class="nav-item">
+              <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+              {% unless forloop.last %}
                 <span>/</span>
-              </li>
-            <!-- For English pages, include the about page -->
-            {% elsif lang == 'en' and p.ref == 'about' and p.permalink == '/en/about/' %}
-              <li class="nav-item">
-                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
-                <span>/</span>
-              </li>
-            <!-- For other pages, include normally -->
-            {% elsif p.permalink contains site.data.languages[lang].root or p.url contains site.data.languages[lang].root %}
-              <li class="nav-item">
-                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
-                {% unless forloop.last %}
-                  <span>/</span>
-                {% endunless %}
-              </li>
-            {% endif %}
-          {% endunless %}
+              {% endunless %}
+            </li>
+          {% endif %}
         {% endif %} 
       {% endfor %}
     </ul>
