@@ -6,9 +6,7 @@ layout: default
 {% if lang == 'en' %}
   {% assign posts = site.posts | where: 'lang', 'en' %}
 {% else %}
-  {% assign posts_with_lang = site.posts | where: 'lang', 'tr' %}
-  {% assign posts_without_lang = site.posts | where: 'lang', nil %}
-  {% assign posts = posts_with_lang | concat: posts_without_lang %}
+  {% assign posts = site.posts | where: 'lang', 'tr' %}
 {% endif %}
 
 {% for post in posts %}
