@@ -3,15 +3,15 @@
   {% if page.lang == 'en' %}
     <span class="active-language">🇺🇸 English</span>
     {% if page.translation_url %}
-      <a href="{{ page.translation_url }}" class="language-link">🇹🇷 Türkçe</a>
+      <a href="{{ site.url }}{{ page.translation_url }}" class="language-link">🇹🇷 Türkçe</a>
     {% else %}
-      <a href="/tr/" class="language-link">🇹🇷 Türkçe</a>
+      <a href="{{ site.url }}/tr/" class="language-link">🇹🇷 Türkçe</a>
     {% endif %}
   {% else %}
     {% if page.translation_url %}
-      <a href="{{ page.translation_url }}" class="language-link">🇺🇸 English</a>
+      <a href="{{ site.url }}{{ page.translation_url }}" class="language-link">🇺🇸 English</a>
     {% else %}
-      <a href="/en/" class="language-link">🇺🇸 English</a>
+      <a href="{{ site.url }}/en/" class="language-link">🇺🇸 English</a>
     {% endif %}
     <span class="active-language">🇹🇷 Türkçe</span>
   {% endif %}
