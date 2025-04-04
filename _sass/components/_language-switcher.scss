@@ -3,21 +3,22 @@
   padding: 15px 0 5px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
+  display: flex;
+  justify-content: center;
   
   span {
     display: inline-block;
-    margin-right: 0;
     color: $secondary;
   }
   
   .active-language {
     color: #E16971;
     font-weight: bold;
-    margin-right: 20px; /* Fixed spacing between active language and language link */
+    padding-right: 30px;
   }
   
   .language-link {
-    margin-left: 20px; /* Fixed spacing between language link and active language */
+    padding-left: 30px;
     color: $secondary;
     text-decoration: none;
     
