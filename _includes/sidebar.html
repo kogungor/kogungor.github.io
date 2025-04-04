@@ -18,14 +18,20 @@
         <a href="{{ site.data.languages[lang].root }}/">{{ site.data.translations.home[lang] }}</a>
         <span>/</span>
       </li>
+      {% assign shown_refs = '' | split: '' %}
       {% for p in site.pages %} 
         {% if p.title and p.lang == lang and p.ref != 'home' and p.ref != 'tags' and p.title != site.data.translations.home[lang] %}
-        <li class="nav-item">
-          <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
-          {% unless forloop.last %}
-            <span>/</span>
+          {% unless shown_refs contains p.ref %}
+            {% assign shown_refs = shown_refs | push: p.ref %}
+            {% if p.permalink contains site.data.languages[lang].root or p.url contains site.data.languages[lang].root %}
+              <li class="nav-item">
+                <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
+                {% unless forloop.last %}
+                  <span>/</span>
+                {% endunless %}
+              </li>
+            {% endif %}
           {% endunless %}
-        </li>
         {% endif %} 
       {% endfor %}
     </ul>
