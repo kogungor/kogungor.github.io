@@ -3,7 +3,7 @@ layout: default
 ---
 {% assign lang = page.lang | default: 'tr' %}
 
-<a class="btn" href= "{% if lang == 'en' %}{{ site.data.languages.en.root }}/{% else %}{{ site.url }}/{% endif %}" >
+<a class="btn" href="{{ site.data.languages[lang].root }}/" >
   {{ site.data.translations.home[lang] }}
 </a>
 {% if page.image.feature %}

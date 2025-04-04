@@ -10,12 +10,36 @@
         <!-- If there's a specific translation URL for this page, use it -->
         <a href="{{ page.translation_url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
       {% else %}
-        <!-- Otherwise, construct the URL based on language roots -->
-        {% assign current_lang_root = site.data.languages[page.lang].root %}
-        {% assign target_lang_root = lang_data.root %}
-        
-        <!-- All languages now have their own directory -->
-        <a href="{{ page.url | replace_first: current_lang_root, target_lang_root }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        <!-- For posts without translation_url, try to find a corresponding post -->
+        {% if page.layout == 'post' and page.ref %}
+          <!-- Look for posts with matching ref in the target language -->
+          {% assign found = false %}
+          {% for p in site.posts %}
+            {% if p.ref == page.ref and p.lang == lang_code %}
+              <a href="{{ site.url }}{{ p.url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+              {% assign found = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          
+          <!-- If no matching post found, fall back to language homepage -->
+          {% if found != true %}
+            <a href="{{ lang_data.root }}/" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+          {% endif %}
+        {% else %}
+          <!-- For non-posts or posts without ref, construct URL based on language roots -->
+          {% assign current_lang_root = site.data.languages[page.lang].root %}
+          {% assign target_lang_root = lang_data.root %}
+          
+          <!-- Handle URL transformation between language versions -->
+          {% if page.url contains current_lang_root %}
+            <!-- If current URL contains language root, replace it with target language root -->
+            <a href="{{ page.url | replace_first: current_lang_root, target_lang_root }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+          {% else %}
+            <!-- If URL doesn't contain language root, add target language root -->
+            <a href="{{ target_lang_root }}{{ page.url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+          {% endif %}
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
