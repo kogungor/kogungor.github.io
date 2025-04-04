@@ -1,10 +1,18 @@
 <div class="language-switcher">
-  <!-- Simple direct language switcher -->
+  <!-- Language switcher with translation URL support -->
   {% if page.lang == 'en' %}
     <span class="active-language">🇺🇸 English</span>
-    <a href="/tr/" class="language-link">🇹🇷 Türkçe</a>
+    {% if page.translation_url %}
+      <a href="{{ page.translation_url }}" class="language-link">🇹🇷 Türkçe</a>
+    {% else %}
+      <a href="/tr/" class="language-link">🇹🇷 Türkçe</a>
+    {% endif %}
   {% else %}
-    <a href="/en/" class="language-link">🇺🇸 English</a>
+    {% if page.translation_url %}
+      <a href="{{ page.translation_url }}" class="language-link">🇺🇸 English</a>
+    {% else %}
+      <a href="/en/" class="language-link">🇺🇸 English</a>
+    {% endif %}
     <span class="active-language">🇹🇷 Türkçe</span>
   {% endif %}
 </div>
