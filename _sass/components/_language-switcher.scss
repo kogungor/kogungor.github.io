@@ -3,22 +3,20 @@
   padding: 15px 0 5px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
-  display: flex;
-  justify-content: center;
   
   span {
     display: inline-block;
+    margin-right: 5px;
     color: $secondary;
   }
   
   .active-language {
     color: #E16971;
     font-weight: bold;
-    padding-right: 30px;
   }
   
   .language-link {
-    padding-left: 30px;
+    margin-left: 8px;
     color: $secondary;
     text-decoration: none;
     
@@ -26,5 +24,11 @@
       color: lighten($secondary, 14%);
       text-decoration: none;
     }
+  }
+  
+  /* Fix for Turkish page where English link appears first */
+  .language-link:first-child {
+    margin-left: 0;
+    margin-right: 8px;
   }
 }
