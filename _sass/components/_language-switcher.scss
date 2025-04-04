@@ -1,34 +1,24 @@
 .language-switcher {
-  margin: 25px 0 15px 0;
-  padding: 20px 0 10px 0;
+  margin: 20px 0 10px 0;
+  padding: 15px 0 5px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px; /* Consistent gap between language options */
   
   span {
     display: inline-block;
+    margin-right: 5px;
     color: $secondary;
-  }
-  
-  .language-item {
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
   
   .active-language {
     color: #E16971;
     font-weight: bold;
-    padding: 5px 10px;
   }
   
   .language-link {
+    margin-left: 15px; /* Increased from 8px to create more consistent spacing */
     color: $secondary;
     text-decoration: none;
-    padding: 5px 10px;
     
     &:hover {
       color: lighten($secondary, 14%);

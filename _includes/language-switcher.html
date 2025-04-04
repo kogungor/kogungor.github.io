@@ -4,30 +4,26 @@
     {% assign lang_data = language[1] %}
     
     {% if lang_code == page.lang %}
-      <div class="active-language">{{ lang_data.icon }} {{ lang_data.label }}</div>
+      <span class="active-language">{{ lang_data.icon }} {{ lang_data.label }}</span>
     {% else %}
       {% if page.translation_url and page.translation_url contains lang_data.root %}
         <!-- If there's a specific translation URL for this page, use it -->
-        <div class="language-item">
-          <a href="{{ page.translation_url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
-        </div>
+        <a href="{{ page.translation_url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
       {% else %}
         <!-- Otherwise, construct the URL based on language roots -->
         {% assign current_lang_root = site.data.languages[page.lang].root %}
         {% assign target_lang_root = lang_data.root %}
         
-        <div class="language-item">
-          {% if current_lang_root == '/' %}
-            <!-- Current language is at root, target is not -->
-            <a href="{{ target_lang_root }}{{ page.url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
-          {% elsif target_lang_root == '/' %}
-            <!-- Target language is at root, current is not -->
-            <a href="{{ page.url | replace_first: current_lang_root, '' }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
-          {% else %}
-            <!-- Neither language is at root -->
-            <a href="{{ page.url | replace_first: current_lang_root, target_lang_root }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
-          {% endif %}
-        </div>
+        {% if current_lang_root == '/' %}
+          <!-- Current language is at root, target is not -->
+          <a href="{{ target_lang_root }}{{ page.url }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% elsif target_lang_root == '/' %}
+          <!-- Target language is at root, current is not -->
+          <a href="{{ page.url | replace_first: current_lang_root, '' }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% else %}
+          <!-- Neither language is at root -->
+          <a href="{{ page.url | replace_first: current_lang_root, target_lang_root }}" class="language-link">{{ lang_data.icon }} {{ lang_data.label }}</a>
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
