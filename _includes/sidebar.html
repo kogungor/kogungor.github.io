@@ -14,33 +14,36 @@
   
   <nav class="nav">
     <ul class="nav-list">
+      <!-- Home link -->
       <li class="nav-item">
         <a href="{{ site.data.languages[lang].root }}/">{{ site.data.translations.home[lang] }}</a>
         <span>/</span>
       </li>
-      <!-- Manually add About/Hakkımda link -->
+      
+      <!-- About link -->
+      <li class="nav-item">
+        <a href="{{ site.data.languages[lang].root }}/about/">{{ site.data.translations.about[lang] }}</a>
+        <span>/</span>
+      </li>
+      
+      <!-- Categories link -->
       <li class="nav-item">
         {% if lang == 'tr' %}
-          <a href="{{ site.url }}/tr/about/">{{ site.data.translations.about[lang] }}</a>
+          <a href="{{ site.url }}/tr/kategoriler/">{{ site.data.translations.categories[lang] }}</a>
         {% else %}
-          <a href="{{ site.url }}/en/about/">{{ site.data.translations.about[lang] }}</a>
+          <a href="{{ site.url }}/en/categories/">{{ site.data.translations.categories[lang] }}</a>
         {% endif %}
         <span>/</span>
       </li>
       
-      <!-- Add other navigation items -->
-      {% for p in site.pages %} 
-        {% if p.title and p.lang == lang and p.ref != 'home' and p.ref != 'tags' and p.ref != 'about' and p.title != site.data.translations.home[lang] %}
-          {% if p.permalink contains site.data.languages[lang].root or p.url contains site.data.languages[lang].root %}
-            <li class="nav-item">
-              <a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>
-              {% unless forloop.last %}
-                <span>/</span>
-              {% endunless %}
-            </li>
-          {% endif %}
-        {% endif %} 
-      {% endfor %}
+      <!-- Tags link -->
+      <li class="nav-item">
+        {% if lang == 'tr' %}
+          <a href="{{ site.url }}/tr/tags/">{{ site.data.translations.tags[lang] }}</a>
+        {% else %}
+          <a href="{{ site.url }}/en/tags/">{{ site.data.translations.tags[lang] }}</a>
+        {% endif %}
+      </li>
     </ul>
   </nav>
   {% include social-links.html %}
