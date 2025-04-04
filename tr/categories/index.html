@@ -10,6 +10,15 @@ translation_url: /en/categories/
 {% assign lang = page.lang | default: 'tr' %}
 <div class="tag-list">
 {% for cat in site.categories %}
+  {% assign has_posts = false %}
+  {% for post in site.categories[cat.first] %}
+    {% if post.lang == lang or post.lang == nil %}
+      {% assign has_posts = true %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if has_posts %}
   <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
     <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
@@ -21,5 +30,6 @@ translation_url: /en/categories/
       {% endif %}
     {% endfor %}
   </div>
+  {% endif %}
 {% endfor %}
 </div>
