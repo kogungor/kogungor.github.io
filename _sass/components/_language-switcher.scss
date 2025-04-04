@@ -6,17 +6,18 @@
   
   span {
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 0;
     color: $secondary;
   }
   
   .active-language {
     color: #E16971;
     font-weight: bold;
+    margin-right: 20px; /* Fixed spacing between active language and language link */
   }
   
   .language-link {
-    margin-left: 15px; /* Increased from 8px to create more consistent spacing */
+    margin-left: 20px; /* Fixed spacing between language link and active language */
     color: $secondary;
     text-decoration: none;
     
