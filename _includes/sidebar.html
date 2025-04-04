@@ -26,6 +26,16 @@
         <span>/</span>
       </li>
       
+      <!-- Archive link -->
+      <li class="nav-item">
+        {% if lang == 'tr' %}
+          <a href="{{ site.url }}/tr/arsiv/">{{ site.data.translations.archive[lang] }}</a>
+        {% else %}
+          <a href="{{ site.url }}/en/archive/">{{ site.data.translations.archive[lang] }}</a>
+        {% endif %}
+        <span>/</span>
+      </li>
+      
       <!-- Categories link -->
       <li class="nav-item">
         {% if lang == 'tr' %}
