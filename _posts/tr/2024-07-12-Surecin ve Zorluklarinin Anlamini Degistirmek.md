@@ -4,7 +4,7 @@ title: Sürecin ve Zorlukların Anlamını Değiştirmek
 date: 2024-07-13 03:36
 comments: true
 lang: tr
-categories: [Psikoloji, Mental Dayanıklılık]
+categories: [Psikoloji, Mental Dayanıklılık, Gölgeler, Ranger Programı]
 permalink: /tr/articles/2024-07/surecin-ve-zorluklarin-anlamini-degistirmek/
 ---
 

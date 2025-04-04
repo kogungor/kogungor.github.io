@@ -4,7 +4,7 @@ title: Some'nin Maceraları Bölüm II
 date: 2015-10-20 14:17
 lang: tr
 permalink: /tr/articles/2015-10/some-nin-maceralari-b-ol-um-ii/
-categories: [Incident Management, Incident Response,]
+categories: [Olay Yönetimi, Olay Müdahale,]
 ---
 Onceki yazimizda, Ann Dercover ve supheli arkadasi arasindaki gizli veri alisverisini incelemistik. Ann bu arastirma suresinde ortadan kaybolmayi basardi. Fakat ortadan kaybolmadan hemen once son network aktivitelerine iliskin kayitlar da tutulmustu.<!--more-->
 

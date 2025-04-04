@@ -3,7 +3,7 @@ layout: post
 title: Siber Mücadele Uzmanı ve İdeal Performans Durumu
 date: 2016-08-27 09:30
 comments: true
-categories: [Siber Mücadele,]
+categories: [Siber Mücadele, Growth Mindset]
 lang: tr
 permalink: /tr/articles/2016-08/siber-mucadele-uzmani-ve-ideal-performans-durumu/
 ---
