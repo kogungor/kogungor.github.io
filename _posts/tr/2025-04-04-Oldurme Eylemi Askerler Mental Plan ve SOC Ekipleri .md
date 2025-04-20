@@ -82,7 +82,17 @@ Bir insanın hayatını alacak düzeydeki eylemler, bağlamdan bağımsız olara
       <img alt="img-name" src="/img/oldurme/stressimage.png" width="700" class="img-container">
 </p><br>
 
-Dünya genelinde konu biraz geç farkedilmiş olsa da, aslında siber olaylar 2007'lerden beri söylüyorum gayrinizami faaliyetlerdir. Çoğu senaryoda gerilla tipi faaliyetlerin tüm özelliklerini taşırlar. Böylesine dinamik olarak sürekli değişen bir zeminde, böylesine belirsiz durumlara karşı, savunma planlaması yapmak, sürekli hazır halde kalmak, aslında oldukça yıpratıcı bir serüven. Üstelik, yine çoğu durumda yalancı çoban gibi sürekli false-positive senaryoların içerisinde kalmak, gerçek bir olayın olmadığı günlerin sayısının fazla oluşu, siber güvenlik analistini her an olay olabilir kafa yapısından (cyber struggle'da primed mindset denir) oldukça uzaklaştırır. 
+Dünya genelinde konu biraz geç farkedilmiş olsa da, aslında siber olaylar 2007'lerden beri söylediğim şekliyle gayrinizami faaliyetlerdir. Tabi ki, yukarıda ciddi hayati risk, öldürme eylemi gibi doğrudan varoluşşsal bir ölüm kalım tecrübesinden bahsediyoruz. 
+
+Siber olaylar, bu kadar sıradışı deneyimler sunmuyor olsa da, ciddi baskı, stres, depresyon, tükenmişlik ve anlamsal boşluk gibi deneyimlerin ve bu deneyimlerin kişileri hastanelik ettiği örnekler gittikçe artıyor. Siber dünya ile kinetik dünyanın her geçen gün iç içe geçip birbirinden daha da ayrılmaz bir hale gelişi, siber olayların kinetin dünyaya etkilerini artırıyor. Öyle ki, yapılan araştırmalar
+
+* Siber güvenlik uzmanlarının %69'u, yaşadıkları bu baskının ve yoğun stresin, bulundukları kurumları koruma becerelılerıne ket vurduğunu
+* %40-45 civarında uzmanın bu yıkıcılık ile başa çıkmak için, ilaç ve alkol kullandıklarını 
+* Uzmanların büyük bölümünün, ailevi dönüm noktalarını kaçırdıkları, aile ilişkilerinde sorun yaşadıklarını 
+
+gösteriyor. Günün sonunda, görev alan kişilerin eğitim ve gelişim geçmişi düşünüldüğünde, bulundukları ortamın, onlar için ne kadar zorlu ve yıkıcı olduğu açıkça ortada.  
+
+Çoğu senaryoda gerilla tipi faaliyetlerin tüm özelliklerini taşırlar. Böylesine dinamik olarak sürekli değişen bir zeminde, böylesine belirsiz durumlara karşı, savunma planlaması yapmak, sürekli hazır halde kalmak, aslında oldukça yıpratıcı bir serüven. Bu bilinmezliklere, bir de kişisel olarak gelişim arzusu, kendini gerçekleştirme isteği, anlam arayışı gibi diğer bireysel parametreler eklendiğini düşünün.  
 
 Yine benim fonksiyonel, dayanıklı ve hazır zihin diye isimlendirdiğim bu zihinsel plan, yukarıda anlatmaya çalıştığım ve ilgili araştırmanın da desteklediği sonuçlarla oldukça ilintili. 
 
