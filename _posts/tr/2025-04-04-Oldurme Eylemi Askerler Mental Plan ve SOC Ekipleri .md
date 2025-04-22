@@ -29,7 +29,7 @@ Araştırmanın bulgularına göre, Lübnan’da barışı koruma görevinde bul
 
 
 <p align="center">
-      <img alt="img-name" src="_posts/tr/img/oldurme/sad_sol_ww2.jpg" width="700" class="img-container">
+      <img alt="img-name" src="/img/oldurme/sad_sol_ww2.jpg" width="700" class="img-container">
 </p><br>
 
 <h5>
