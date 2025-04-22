@@ -41,7 +41,7 @@ Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gel
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/growth_mindset/Myelin.jpg" width="500" class="img-container">
+    <img alt="img-name" src="/img/growth_mindset/Myelin.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 19</em>
   </p>

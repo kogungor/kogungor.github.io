@@ -17,7 +17,7 @@ Sabah erkenden evden çıkardım, akşam ise geç saatlerde geri dönerdim. Acı
 <br>
 
 <p align="center">
-      <img alt="img-name" src="img/belirsizlik/keler.jpg" width="700" class="img-container">
+      <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="700" class="img-container">
 
   <br>
     <em>Keler Köyü</em>
@@ -42,7 +42,7 @@ Yaşadıklarımız, başımıza gelenler ve tecrübe ettiklerimiz temelde geçmi
 <br>
 
 <p align="center">
-      <img alt="img-name" src="img/belirsizlik/bilinmeyenler.jpg" width="800" class="img-container">
+      <img alt="img-name" src="/img/belirsizlik/bilinmeyenler.jpg" width="800" class="img-container">
 
   <br>
     <em>Basit bir Zaman - Bilinmezlik Tablosu</em>
@@ -60,7 +60,7 @@ Durum böyle olunca, bilinmezliğe duyulan pozitif hislerle olumsuz hisler aras�
 <br>
 
 <p align="center">
-      <img alt="img-name" src="img/belirsizlik/etkicemberi.jpg" width="800" class="img-container">
+      <img alt="img-name" src="/img/belirsizlik/etkicemberi.jpg" width="800" class="img-container">
 
   <br>
     <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
@@ -76,7 +76,7 @@ Madem ki farkı belirleyen şey, aslında bizim konuya yaklaşım tarzımız, o 
 
 Psikolojik sağlamlık, yalnızca bir özellikten ibaret değil; kişinin elindeki alet çantasını ve sahip olduğu tüm kaynakları yönetebilme kapasitesini de içerir. Yıllar önce, emekli bir Navy SEAL ile konuşurken, psikolojik sağlamlığın öğretilebilir bir şey olduğuna inanmadığını söylemişti. Benzer bir ifadeyi 2019 yılında Amerikan Harp Akademisi’nde bir heyetle görüşürken, eski bir kara komandosu da dile getirmişti. İkisi de, bazı kişilerin bunun öğretilebilir olduğunu düşündüğünü ancak kendilerinin buna inanmadığını ifade etmişlerdi. Kendi eğitim metodolojimi tasarlarken bu konu üzerine çok düşündüm. Birçok insanla bu konuyu tecrübe ettim. Hem Cyber Struggle için geliştirdiğim metodolojide hem de öncesinde yıllarca basketbol antrenörlüğü yaparken, çeşitli yaş  grupları ve farklı profillerle çalışırken bu konuyu deneyimledim.
 
-Açıkçası, ben psikolojik sağlamlığın öğretilebildiğini düşünenlerdenim, hatta buna inananlardanım.  Bir önceki <a href="https://kog.wtf/articles/2024-07/Belirsizlik-Psikolojik-Ssglamlik-ve-Ranger-Programi">‘Sürecin ve Zorlukların Anlamını Değiştirme’ </a> yazımda bahsettiğim nöroplastisite ve ‘growth’ zihin yapısı konularını hatırlayın. Eğer okumadıysanız, bağlamı anlamak için bir göz atmanız iyi olabilir. Öğretilebilir bir şey olduğunu düşünüyorum, fakat aynı zamanda öğretme sürecini olumlu ya da olumsuz etkileyebilecek hızlı uyaranların da olduğunu düşünüyorum. Belki konuştuğum kişiler, bu uyaranlarla karşılaştıkça bunun doğuştan gelen bir yetenek olduğunu düşünmeyi tercih etmişlerdir. Çünkü bu öğretme ve öğrenme süreci, insanı hızla ‘ya adamın içinde varsa var, yoksa yok’ gibi bir düşünceye götürebilir. Bunu inkâr edemem. Ancak aynı şey başka özellikler için de geçerli değil mi? En basiti ‘çalışkanlık!’ Bunun için de benzer bir şey söylenir, fakat bence çalışkanlık da değiştirilebilir bir alışkanlıktır.
+Açıkçası, ben psikolojik sağlamlığın öğretilebildiğini düşünenlerdenim, hatta buna inananlardanım.  Bir önceki <a href="https://kog.wtf/tr/articles/2024-07/surecin-ve-zorluklarin-anlamini-degistirmek/">‘Sürecin ve Zorlukların Anlamını Değiştirme’ </a> yazımda bahsettiğim nöroplastisite ve ‘growth’ zihin yapısı konularını hatırlayın. Eğer okumadıysanız, bağlamı anlamak için bir göz atmanız iyi olabilir. Öğretilebilir bir şey olduğunu düşünüyorum, fakat aynı zamanda öğretme sürecini olumlu ya da olumsuz etkileyebilecek hızlı uyaranların da olduğunu düşünüyorum. Belki konuştuğum kişiler, bu uyaranlarla karşılaştıkça bunun doğuştan gelen bir yetenek olduğunu düşünmeyi tercih etmişlerdir. Çünkü bu öğretme ve öğrenme süreci, insanı hızla ‘ya adamın içinde varsa var, yoksa yok’ gibi bir düşünceye götürebilir. Bunu inkâr edemem. Ancak aynı şey başka özellikler için de geçerli değil mi? En basiti ‘çalışkanlık!’ Bunun için de benzer bir şey söylenir, fakat bence çalışkanlık da değiştirilebilir bir alışkanlıktır.
 
 Tabii, bu konunun bilimsel olarak ele alınması da oldukça yeni. Askeri birliklerdeki bazı inanışlar, birey bazında, bazen kişiden kişiye geçen bir düşünce kalıbı haline gelebiliyor. Tecrübeyle oluşmuş düşünce kalıplarını küçümsemiyorum elbette, ancak tanımı hatalı yapılmış ya da yüzeysel söylenmiş bazı varsayımların, birden fazla kişi tarafından tekrar edilip kalıtsal hale geldiği örnekler de var. Neyse.
 
@@ -106,7 +106,7 @@ Güçlük boyutu, doğrudan değişim ve adaptasyonla ilgilidir. Değişimden ka
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/yetersizlik.jpg" width="800" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/yetersizlik.jpg" width="800" class="img-container">
     <br>
     <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
   </p>
@@ -128,7 +128,7 @@ Bu karmaşık duruma bir de yeni jenerasyonun, azalan mahalle ve sokak kültür�
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/stres.png" height="400" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/stres.png" height="400" class="img-container">
     <br>
   </p>
 <br>
@@ -151,7 +151,7 @@ Beklentilerin değişimi üzerine ayrı bir yazıda tartışmak daha doğru olac
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/belirsizlik.jpeg" width="500" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/belirsizlik.jpeg" width="500" class="img-container">
     <br>
   </p>
 <br>
@@ -173,11 +173,11 @@ Yeterince maruz kaldıkları andan itibaren belirsizlikler önemini yitirmeye ba
 Biz süreci takip edenler için, bu değişimleri ve bunu canlı canlı yaşayan insanları görmek inanılmaz heyecan verici. Bu nedenle, birileri çıkıp bana psikolojik sağlamlık geliştirilemez dediğinde, ‘Peki, yaşadıklarım ne o zaman?’ diye bağırasım geliyor.
 
 <h4>Belirsizlik ve kritik düşünmeye etkisi</h4>
-Belirsizlikle olan ilişkinin yukarıda bahsettiğim şekilde yeniden şekillenmeye başlaması, kritik düşünme becerileri ile doğru orantılı olarak devam eden bir süreçtir. Burada yine <a href="https://kog.wtf/articles/2024-07/Belirsizlik-Psikolojik-Ssglamlik-ve-Ranger-Programi">bir önceki yazıma</a> atıfta bulunmam gerekiyor. Nöroplastisite ve Growth (gelişim) zihin yapısı ile ilgili bu yazıyı henüz okumadıysanız, bu arada göz atmanız ve ardından ilişkilendirerek kalan kısma devam etmeniz, bütünlük sağlayacaktır.
+Belirsizlikle olan ilişkinin yukarıda bahsettiğim şekilde yeniden şekillenmeye başlaması, kritik düşünme becerileri ile doğru orantılı olarak devam eden bir süreçtir. Burada yine <a href="https://kog.wtf/tr/articles/2024-07/belirsizlige-mukavemet-psikolojik-saglamlik-ve-ranger-programi-uzerine/">bir önceki yazıma</a> atıfta bulunmam gerekiyor. Nöroplastisite ve Growth (gelişim) zihin yapısı ile ilgili bu yazıyı henüz okumadıysanız, bu arada göz atmanız ve ardından ilişkilendirerek kalan kısma devam etmeniz, bütünlük sağlayacaktır.
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/criticalthinking.jpg" width="500" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/criticalthinking.jpg" width="500" class="img-container">
     <br>
   </p>
 <br>
@@ -190,7 +190,7 @@ Ranger programında, ekip bilinci oluşturmak zorunlu ve puanlamaya etki eden bi
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/team.jpg" width="500" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/team.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 20</em>
   </p>
@@ -214,7 +214,7 @@ Bunun yanı sıra, insan odaklı beceriler için verilen bazı periyodik ödevle
 
 <br>
   <p align="center">
-    <img alt="img-name" src="img/belirsizlik/mymind.jpg" width="500" class="img-container">
+    <img alt="img-name" src="/img/belirsizlik/mymind.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 19</em>
   </p>
