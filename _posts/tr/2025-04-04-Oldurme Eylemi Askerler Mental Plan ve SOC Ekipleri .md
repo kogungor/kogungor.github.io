@@ -29,7 +29,7 @@ Araştırmanın bulgularına göre, Lübnan’da barışı koruma görevinde bul
 
 
 <p align="center">
-      <img alt="img-name" src="/img/oldurme/sad_sol_ww2.jpg" width="700" class="img-container">
+      <img alt="img-name" src="img/oldurme/sad_sol_ww2.jpg" width="700" class="img-container">
 </p><br>
 
 <h5>
@@ -79,7 +79,7 @@ Bir insanın hayatını alacak düzeydeki eylemler, bağlamdan bağımsız olara
 <h3>Mental Planlama Oryantasyonu, Psikolojik Dayanıklılık ve SOC Ekipleri</h3>
 
 <p align="center">
-      <img alt="img-name" src="/img/oldurme/stressimage.png" width="700" class="img-container">
+      <img alt="img-name" src="img/oldurme/stressimage.png" width="700" class="img-container">
 </p><br>
 
 Dünya genelinde konu biraz geç farkedilmiş olsa da, aslında siber olaylar 2007'lerden beri söylediğim şekliyle gayrinizami faaliyetlerdir. Tabi ki, yukarıda ciddi hayati risk, öldürme eylemi gibi doğrudan varoluşşsal bir ölüm kalım tecrübesinden bahsediyoruz. 

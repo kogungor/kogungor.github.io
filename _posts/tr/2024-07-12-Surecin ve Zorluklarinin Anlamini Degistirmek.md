@@ -41,7 +41,7 @@ Nöronlar beyinde elektrik ve kimyasal sinyallerle haberleşiyor. Dendridler gel
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/growth_mindset/Myelin.jpg" width="500" class="img-container">
+    <img alt="img-name" src="img/growth_mindset/Myelin.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 19</em>
   </p>
@@ -69,7 +69,7 @@ Sabit zihniyet, kimliklere bağlanan geribildirimlerle inşa edilmiş, toplumsal
 
 Buna karşın, gelişim zihniyeti, eforları ödüllendiren, nöroplastisitenin gerçekliğini bilen ve adapte olup efor sarf ettiğinde, gelişeceğine ve her zaman daha iyi olabileceğine inanır.
 
-![](/img/growth_mindset/growthvsfixed.png)
+![](img/growth_mindset/growthvsfixed.png)
 
 Efor odaklı ilerleyen bu sürecte Carol Dweck, "şimdi"nin zorbalığındansa, "henüz"ün gücünü kullanmanın öneminden bahseder. Yapamamanın aksine "henüz değil" bir korsu gösterir. Bir tavrı ve yolu vurgular. Yalnızca bu tutum değişimi bile, nöroplastik gelişimi tetiklemeye başlar. 
 

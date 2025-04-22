@@ -17,7 +17,7 @@ Sabah erkenden evden çıkardım, akşam ise geç saatlerde geri dönerdim. Acı
 <br>
 
 <p align="center">
-      <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="700" class="img-container">
+      <img alt="img-name" src="img/belirsizlik/keler.jpg" width="700" class="img-container">
 
   <br>
     <em>Keler Köyü</em>
@@ -42,7 +42,7 @@ Yaşadıklarımız, başımıza gelenler ve tecrübe ettiklerimiz temelde geçmi
 <br>
 
 <p align="center">
-      <img alt="img-name" src="/img/belirsizlik/bilinmeyenler.jpg" width="800" class="img-container">
+      <img alt="img-name" src="img/belirsizlik/bilinmeyenler.jpg" width="800" class="img-container">
 
   <br>
     <em>Basit bir Zaman - Bilinmezlik Tablosu</em>
@@ -60,7 +60,7 @@ Durum böyle olunca, bilinmezliğe duyulan pozitif hislerle olumsuz hisler aras�
 <br>
 
 <p align="center">
-      <img alt="img-name" src="/img/belirsizlik/etkicemberi.jpg" width="800" class="img-container">
+      <img alt="img-name" src="img/belirsizlik/etkicemberi.jpg" width="800" class="img-container">
 
   <br>
     <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
@@ -106,7 +106,7 @@ Güçlük boyutu, doğrudan değişim ve adaptasyonla ilgilidir. Değişimden ka
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/yetersizlik.jpg" width="800" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/yetersizlik.jpg" width="800" class="img-container">
     <br>
     <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
   </p>
@@ -128,7 +128,7 @@ Bu karmaşık duruma bir de yeni jenerasyonun, azalan mahalle ve sokak kültür�
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/stres.png" height="400" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/stres.png" height="400" class="img-container">
     <br>
   </p>
 <br>
@@ -151,7 +151,7 @@ Beklentilerin değişimi üzerine ayrı bir yazıda tartışmak daha doğru olac
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/belirsizlik.jpeg" width="500" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/belirsizlik.jpeg" width="500" class="img-container">
     <br>
   </p>
 <br>
@@ -177,7 +177,7 @@ Belirsizlikle olan ilişkinin yukarıda bahsettiğim şekilde yeniden şekillenm
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/criticalthinking.jpg" width="500" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/criticalthinking.jpg" width="500" class="img-container">
     <br>
   </p>
 <br>
@@ -190,7 +190,7 @@ Ranger programında, ekip bilinci oluşturmak zorunlu ve puanlamaya etki eden bi
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/team.jpg" width="500" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/team.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 20</em>
   </p>
@@ -214,7 +214,7 @@ Bunun yanı sıra, insan odaklı beceriler için verilen bazı periyodik ödevle
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/mymind.jpg" width="500" class="img-container">
+    <img alt="img-name" src="img/belirsizlik/mymind.jpg" width="500" class="img-container">
     <br>
     <em>Ranger Class 19</em>
   </p>
