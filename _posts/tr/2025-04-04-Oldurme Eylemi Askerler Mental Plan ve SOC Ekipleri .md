@@ -16,7 +16,7 @@ Espetvedt, araştırma sırasında Lübnan ve Afganistan'da görev yapmış topl
 
 | **🟢** **Afganistan (2001–2011)** | **🟠** **Lübnan (1978–1998)**     |
 | --------------------------------- | --------------------------------- |
-| ⚔️ **Savaş Görevleri**            | 🕊️ **Barışı Koruma Görevleri**   |
+| ⚔️ **Savaş Görevleri**             | 🕊️ **Barışı Koruma Görevleri**    |
 | 🔓 Gevşek angajman kuralları      | 🔐 Kısıtlayıcı angajman kuralları |
 | 💥 Çatışma bekleniyor             | 🚫 Çatışma beklenmiyor            |
 
