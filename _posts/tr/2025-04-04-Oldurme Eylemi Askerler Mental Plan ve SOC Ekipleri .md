@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Öldürme Eylemi, Askerlerde Mental Planlama ve SOC Ekipleri Üzerine (Hala Taslak Halinde)
+title: Öldürme Eylemi, Askerlerde Mental Planlama ve SOC Ekipleri Üzerine (Taslak Beta)
 date: 2025-04-04 05:13
 comments: true
 categories: [Siber Güvenlik, Psikoloji, Mental Dayanıklılık, Growth Mindset, Gölgeler, İç Değerlendirme, Ranger Programı]
