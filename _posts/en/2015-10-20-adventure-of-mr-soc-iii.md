@@ -3,7 +3,7 @@ layout: post
 title: The Adventure of Mr. SOC III
 date: 2015-10-20 14:26
 comments: true
-lang: tr
+lang: en
 categories: [Siber Güvenlik, Adli Bilişim, Olay Müdahale,]
 permalink: /en/articles/2015-10/the-adventure-of-mr-soc-iii/
 
