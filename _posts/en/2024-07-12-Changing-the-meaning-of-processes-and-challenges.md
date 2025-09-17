@@ -1,280 +1,183 @@
 ---
 layout: post
-title: On Resilience to Uncertainity, Psychological Endurance and The Ranger Program
+title: Changing the Meaning of Processes and Challenges
 date: 2024-07-13 03:36
 comments: true
 lang: en
 categories: [Psychology, Mental Resilience, Shadows, Ranger Program, Growth Mindset]
-permalink: /en/articles/2024-07/on-resilience-to-uncertainity-psychological-endurance-and-the-ranger-program/
+permalink: /en/articles/2024-07/changing-the-meaning-of-processes-and-challenges/
 ---
 
-“I recall being four years old in a village. The village was small -a simple grocery store and not even a barber. Everyone knew each other. My mother and father were the teachers at the small school in the late ‘80s. With no toys around, I had no choice but to learn how to spend time alone. At least, that was the case for me. But I don’t remember struggling with it. I don’t recall ever wanting toys. Whatever I needed, I conjured up with my imagination.
-<!--more-->
+In what situations and on which topics are we told that we are good? Or on which topics is it expressed that we are weak? Why are we good at the subjects we’re told we’re good at? Is it an innate gift? Or did we put in a lot of effort to become good at it? Are we bad because we tried before and failed? Or because we’ve never tried? Or is it because we’ve tried repeatedly and failed each time?
+ <!--more-->
 
-I would leave the house early in the morning and return late in the evening. When I got hungry, I’d knock on any door in the village, say “I’m hungry,” get fed, and head back outside.
-
-<br>
-
-<p align="center">
-      <img alt="img-name" src="/img/belirsizlik/keler.jpg" width="700" class="img-container">
-
-  <br>
-    <em>Keler Village</em>
-</p>
-
-<br>
-
-Like an early-age philosopher, I’d wander around with a stick made from a thick branch of a hazelnut tree.  I’d pass the last house in the village and reach its boundaries -lush green hills, nature, winding dirt roads. “What lies beyond that bend? Is this the extent of the world?” I still remember the curiosity and excitement that these thoughts stirred within me. I first wanted to see what was around the next bend. Without realizing it, I’d thrown myself into the mountains and rocks. I remember escaping from wild boars and being stranded atop hazelnut trees for hours. One bend led to another, and at that age, I’d wander a bit farther from the village. One day, summoning my courage, I secretly climbed into the back of a truck, which took me to the town center. I thought the flashing signs in shop windows were fireflies. When I returned, I played by making signs with fireflies, and writing names. Upon reaching the center, I realized there was a world beyond the village. Thankfully, the truck drivers took me back to the village.”
-
-<h5>
-So, how is it that the innocent feelings of curiosity and excitement we have toward the unknown can transform into existential anxieties like uncertainty and insecurity?
-</h5>
-
-Our experiences, what happens to us, and what we go through essentially constitute our past. If we integrate the experiences from the infinitesimal moment “dt” up to the previous moment, we might arrive at our total experience. The “now,” however, is a much more intriguing topic. I enjoy pondering it. Perhaps we’ll discuss it in another essay. The main subject of this piece is the future; from where we stand, as far as we can see, it’s a fairly simple and straightforward matter. Because everything seems evident!
-
-On the other hand, the future contains far less concrete information than we might think. From our vantage point, we also see unknowns that we cannot perceive with crystal clarity but can predict using various methods and conduct risk analyses. These can be thought of as opportunities and risks. Perhaps by developing ourselves in this area, we can expand and enlarge the set upon which we can perform risk analysis. We can define this set as the “known unknowns.” However, there’s a much larger set consisting of surprises, requiring high adaptability, and composed of unfamiliar elements. We can think of this set as the “unknown unknowns.” I shared a small diagram below.
-
-
-<br>
-<p align="center">
-      <img alt="img-name" src="/img/belirsizlik/timeline.jpg" width="800" class="img-container">
-
-  <br>
-    <em>Basit bir Zaman - Bilinmezlik Tablosu</em>
-</p>
-<br>
-
-Despite such a classification, I can’t come up with a rational explanation for why some unknowns evoke curiosity while others turn into a state of uncertainty that causes distress.
-
-When we examine it closely, we realize that the emotion caused by uncertainty is actually a feeling of insecurity. It’s a situation where we don’t know the outcome and don’t feel safe. Humans tend to fear the unknown and have a propensity to bring clarity to everything. It’s as if we need to think, “If I’m prepared, I will succeed.” When we look at it from this perspective, we can understand that uncertainty is directly linked to the anxieties we experience because it touches on an ontological issue. Given this, I believe that the difference lies in the type of relationship we establish with the situation before us. How we perceive it, what meaning we attribute to it, and what we plan to do with it determine how we handle the situation. From that point on, a chain reaction begins.
-
-
-<br>
-
-<p align="center">
-      <img alt="img-name" src="/img/belirsizlik/circles.jpg" width="800" class="img-container">
-
-  <br>
-    <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
-</p>
-
-<br>
-
-Moreover, the things we can control in life are generally quite limited. We can control our emotions, thoughts, choices, words, and reactions. Things outside of this are either completely out of our control or within our sphere of influence. We cannot intervene directly, but we can still have some impact. Sometimes these uncontrollable things emerge as a result or side effect of what we can control.
-
-Gabriel García Márquez beautifully summarized uncertainty by saying, “People plan, and God laughs at them.”
-
-Since the factor that makes the difference is our approach to the subject, we can develop resilience against uncertainty by reorganizing our relationship with it. This is precisely where the concept of Psychological Resilience comes into play. Psychological hardiness is defined as the ability to cope with challenging events, adapt, use flexibility, move forward, and recover and heal from adverse emotional experiences in the face of a challenging stressor.
-
-Psychological resilience is not just a trait; it also includes the capacity to manage one’s toolbox and all the resources one possesses. Years ago, when talking to a retired Navy SEAL, he mentioned that he didn’t believe psychological resilience could be taught. I heard a similar sentiment from a former Army commando while meeting with a delegation at the U.S. War College in 2019. Both said that while some people think it can be taught, they themselves didn’t believe it. When designing my own training methodology, I thought a lot about this subject. I experienced it with many people. I witnessed it both in the methodology I developed for Cyber Struggle and previously when I had the chance to work with various age groups and different profiles during my years of coaching basketball.
-
-Frankly, I am among those who think psychological resilience can be taught; in fact, I believe in it. Recall what I mentioned in my previous essay, “Changing the Meaning of Processes and Challenges” about neuroplasticity and the growth mindset. If you haven’t read it, it might be good to take a look to understand the context. I believe it can be taught, but I also think there are quick stimuli that can directly, positively or negatively, affect the teaching process to the same extent. Perhaps the people I spoke to, when confronted with these stimuli, preferred to think of it not as independent stimuli but as an innate gift. Because this teaching and learning process carries the risk of quickly bringing a person to the point of thinking, “Either you have it in you, or you don’t.” I can’t deny that. But isn’t the same true for other traits? The simplest is “diligence”! We hear similar things about it, but I think it’s also a habit that can be changed.
-
-Of course, approaching the subject scientifically is also quite new. Some beliefs in military units can sometimes become thought patterns passed from person to person on an individual basis. I certainly don’t belittle thought patterns formed through experience, but there are also examples where some assumptions, incorrectly defined or superficially stated, become hereditary because they are repeated by more than one person. Anyway.
-
-The concept of psychological hardiness is actually new. In a study conducted with Bell Telephone company executives between 1975 and 1986, the psychologist Suzanne Kobasa first introduced this concept. As a result of this study, it was observed that executives who were more resilient in the face of uncertainty shared certain common traits.
-
-It can be said that psychological hardiness has three main dimensions:
-
-<h4>
-Commitment Dimension
-</h4> 
-
-This involves engaging in life instead of withdrawing when facing problems, without losing a positive outlook. Being able to stay committed to something despite difficulties is essentially related to believing in and attaching ourselves to our own meaning and purposes.
-
-Performance athletes, artists, or anyone producing high performance in the face of any difficulty seem to share this trait the most. They can show dedication. I assume you can visualize the importance of believing in one’s own meaning and purpose to be able to dedicate oneself despite everything.
-
-
-<h4>Control Dimension</h4>
-
-This dimension is entirely related to our sphere of control depicted in the figure above. In the face of events, the tools at our disposal – our behaviors, thoughts, and discourses – are elements directly under our control. By using these tools, we can influence the conditions that uncertainty brings about.
-
-Focusing on things outside our control during moments of uncertainty is of no use. In my observation, uncertainty manifests in two ways. Sometimes it confronts us at a tactical level, and we need to evaluate it as part of tactical processes. Other times, when it’s at a strategic level, our way of perceiving it turns the issue into a tactical semantic confusion.
-
-For example, a group of soldiers falling into an ambush during a terrain search is a tactical-level uncertainty. On the other hand, constantly comparing ourselves to others and not being able to do what we need to do today as we should – regarding our social position where we see ourselves ten years from now – educes the issue entirely to a tactical level.
-
-<h4>
-Challenge Dimension
-</h4>
-
-The challenge dimension is directly related to change and adaptation. It involves moving forward with change instead of avoiding it and accepting it as an opportunity. Facing changing environments and events with a more innovative, flexible, and open stance indicates influencing what’s happening and learning by experiencing it. At this point, we can again say that there is a direct reference to neuroplasticity and the growth mindset.
-
->We can say that the “super duo” that makes us fragile consists of our regrets about the past or our worries related to future expectations.
+Messages about being good or bad at something may come from within us as much as from external sources. Especially since they contain words like “being”, these messages at some point become directly related to the identity through which we conduct our relationship with life.
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/yetersizlik.jpg" width="800" class="img-container">
+    <img alt="img-name" src="/img/growth_mindset/challenges.webp" width="700" class="img-container">
     <br>
-    <em>Değiştirmeye Gücümüz Olanlar Kontrol Çemberimiz</em>
+    <em></em>
   </p>
 <br>
 
-In most cases, we find ourselves in conflict with ourselves over our past choices. Of course, what we’ve experienced leaves marks on us. At some point, its impact on shaping our present cannot be denied. After all, what we experience turns into experience. However, these internal conflicts mean that our past is taking over our present beyond mere experience.
+<h2>
+The Importance of Feedback Style
+</h2>
 
-Or the future… The future is essentially an unknown for everyone. However, some of us define our relationship with the future through unrealistic expectations, mentally elevating the probability of bad events occurring. Instead of adding meaning to processes, they define them with self-defeating feedback. This, with a larger force multiplier, makes us more fragile in the face of uncertainty.
+Perhaps it makes sense in this respect that identity-related feedback leads to more reflexes. For example, when giving feedback to someone, using expressions like ‘intelligent,’ ‘smart,’ ‘talented,’ or ‘very knowledgeable’ directly ties into their identity. Such feedback places a burden on the individual. Since we associate the person’s existence with this feedback, situations that contradict these messages can trigger reflexes related to their being.
 
-While we’ve established such a negative relationship with the past and the future, all we have left is the “now.” However, those of us who maintain this distorted relationship with this duo often waste the “now” by constantly comparing ourselves to others. Sometimes it’s our level of knowledge, sometimes our social status, sometimes our happiness, financial situation, physiology, or possessions. A constant state of comparison and the resulting feeling of inadequacy…
+Feedback can also be given focusing on effort rather than identity and existence. For example, highlighting hard work, perseverance despite everything, attitudes displayed in the face of challenges, and focusing on the process.
 
-<h2>Uncertainty, Psychological Resilience, and the Ranger Program</h2>
+Regardless of the type, this feedback is entirely intertwined with our fundamental beliefs about what we can achieve.
 
-Cybersecurity remained confined for years to areas like engineering, IT, software development. Before anything else, cybersecurity is about ‘security’, and ignoring the possibility that it might intertwine with things that security encompasses to in our kinetic lives was convenient for many.
+Carol Dweck and Claudia Mueller initiated an experimental study to research these two different approaches on children. In the study, one group of children received feedback directly associated with their identity, while another group received feedback emphasizing effort and process. Lastly, a control group received no feedback at all. The results of this study conducted with over 100 children are quite interesting!
 
-The developments and conjuncture we’re in make the impacts of cyber incidents increasingly significant and critical every day. When the high levels of uncertainty brought about by the unorthodox nature of cybersecurity are added to the pressure concerning the potential outcomes of cyber incidents, the overall stress intensifies significantly. This increase creates much more pressure on those dealing with cybersecurity than it did 5-10 years ago. Think about it: in most cases, we don’t know when and from where attackers will strike. We don’t know what kind and level of force they will use. We have no idea how long the attack will last. We have no definitive information about their intentions, and we can’t predict the outcomes of the incident. We also have no idea how these processes will affect our careers as cybersecurity experts, our future in that institution, or our position in society.
+When children were given the freedom to choose problems, it was observed that those who received identity-focused feedback tended to solve only problems in areas where they were already good. Thoughts like wanting to continue being praised and not feeling an existential threat added extra anxiety.
 
-When we add to this complex situation the fact that the new generation grows up away from old-school habits that would help develop human-centered skills – like declining neighborhood and street culture, socialization – and the change in targets in basic education within the family leading to their inability to acquire habits that would contribute to adaptation and resilience, things become even more complicated.
+Moreover, it was seen that children who received identity-focused feedback wanted to face fewer problems, not just in terms of difficulty level but also numerically. It might also be considered as a reflex of protecting the current posture of the identity.
+
+On the other hand, children who received effort and process-focused feedback were found to choose more challenging problems.
+
+Cognitive ability tests were also administered to these groups, and in the initial tests, all groups received similar results. However, a significant decrease was observed in the test scores of students who were praised based on identity before the second test. In contrast, a noticeable increase was seen in the second test scores of students who received effort-focused praise.
+
+Even more interestingly, when these students were asked to explain their performance to others, it was found that the group praised based on identity had a much higher tendency to hide and lie due to similar anxieties.
+
+
+<h2>Neuroplasticity</h2>
+
+We said feedback is important because, as Heidegger tried to explain with the concept of “Dasein,” we are in constant interaction with the world. The process of becoming something shapes through the meaning relationships and interactions we establish with the world.
+
+Neurons in the brain communicate via electrical and chemical signals. Dendrites transmit incoming signals to the nucleus; the nucleus gathers these signals and sends them to the axon; finally, the axon processes these signals and sends them to synapses. Synapses then transmit signals to other nerve cells. Normally, the transmission speed in neurons is about 50 centimeters per second, but in neurons where the axons are surrounded and protected by a myelin sheath, this transmission speed can be up to 240 times faster.
 
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/stres.png" height="400" class="img-container">
+    <img alt="img-name" src="/img/growth_mindset/neurons.jpg" width="600" class="img-container">
     <br>
+    <em>Neuron</em>
   </p>
 <br>
 
 
+It was once thought that the number of brain cells was fixed and unchangeable. In the 1900s, neuroscientist Cajal first believed that the brain could develop even in adulthood. In the 1960s, it was shown that neurons could reorganize and become functional again after traumas. It was also demonstrated that stress could change not only the functionality of the brain but also its structure.
 
-Indeed, issues like personel turnover, burnout, depression, and their impacts on total capacity have started to take up more space on the agendas of institutions providing Security Operations Center services worldwide.
+As a result of all these studies, it was seen that the brain’s cells could die, form new connections, and even renew themselves through other means.
 
-A few years ago, the criticality of the targets we focused on within Cyber Struggle became much more understandable.
+In a study conducted on twin mice raised in different cages, it was observed that the mouse living in a cage with rich experiences was smarter, physically healthier, and, moreover, had a bigger and heavier brain when examined.
 
-Recent research on psychological resilience and cybersecurity professionals has produced quite striking results.
+Consistent use of the same neural pathways also contributes to the myelination process.
 
-Approximately 64% of the professionals interviewed stated that the stress environment created by uncertainty and pressure prevents them from producing sufficient capacity to protect the institutions they are responsible for. About 45% of them reported that the stress they experience has negatively affected their relationships with their families, spouses, close ones, and children. Almost the same proportion of experts stated that they use medication, alcohol, or substances to cope with this uncertainty. These are the results of today’s pressures. But we must not forget that this pressure will increase even more over the years. For this reason, the biggest expectation of institutions providing Security Operations Center services is for artificial intelligence to take over the work, distancing themselves from human nature as much as possible. Although I don’t think a completely unmanned process is possible in the very near future, expectations will inevitably change. Even the change in these expectations alone will create uncertainty and pressure on people who want to become cybersecurity experts. Therefore, there’s no escape from uncertainty.
+Thus, neuroplasticity refers to the physical changes occurring in the brain because of our interactions with our environment. This affects a wide range of functions, from the brain’s adaptation to changing conditions to our learning of new things.
 
-I want to touch on the nature of cyber incidents repeatedly in other contexts.
-
-By the way, the picture I tried to draw above is not independent of existential crises that can occur in any profession or area of business life; on the contrary, there’s a layered pressure added on top of it.
-
-It would be more appropriate to discuss the change in expectations in a separate essay. I plan to elaborate on topics like what types of expectations are forming and how they might relate to us becoming more functional individuals in that essay.
+Think of the brain not only receiving software updates but also hardware upgrades
 
 
-<h4>
-The Uncertainty of Everything (The Fog)
-</h4>
+<h2>
+The Power of Yet!
+</h2>
 
-<br>
-  <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/belirsizlik.jpeg" width="500" class="img-container">
-    <br>
-  </p>
-<br>
+Mindset, in general terms, can be said to be our life philosophy, stance, and perspective. Carol Dweck divides mindset into two different categories: fixed mindset and growth mindset.
 
+A fixed mindset is a success-oriented approach built with identity-based feedback, focusing on social status, constructed on limits, and avoiding mistakes to the maximum to protect what one has.
 
-
-Throughout the Ranger Program, we keep activities (in-class, out-of-class contacts, activities, etc.) within a reasonable frame of uncertainty. Participants don’t know when their classes begin. They constantly try to track and determine class times through their seniors.
-
-This has many benefits from various perspectives. The tension of not knowing when their interactions will occur triggers more communication among them. Accordingly, team members follow up with their seniors and make reminders, while the seniors try to reduce their own uncertainty pressure by putting pressure on the instructors.
-
-The same applies to technical or human-centered skill tasks assigned to the team. They don’t know how many tasks will be assigned throughout the program, when they will be assigned, or how they will be requested. As instructors, we read/review an average of about 1,500 submissions during a Ranger Program.
-
-Although each task is evaluated behind the scenes, participants don’t receive specific feedback on what they’ve done unless there’s a critical issue. Generally, feedback given to them is provided in a way that doesn’t allow them to associate it with any task. Of course, exceptions may occur; however, we avoid this behavior unless it’s necessary to provide such feedback.
-
-We often prefer not to follow a specific topic sequence for the lesons to be covered. Since there is no subject flow and the acquisition process proceeds through problems and uncertainty, we frequently have to refer back to the same topics or thought mechanisms. This approach contributes to the neuroplasticity process and helps in detaching from the emotions felt in the face of uncertainty.
-
-Since the process operates through acquisition by experiencing events rather than learning, topics are conveyed through uncertain problems. Especially at the beginning of the program, participants cannot make sense of what they are doing or why they are doing it. Some things seem very simple to them; some seem meaningless; they don’t know what purpose some serve, and this creates a feeling of emptiness. We aim to introduce participants to this feeling of emptiness and uncertainty in a short time.
-
-From the moment they are sufficiently exposed, uncertainties begin to lose their importance. Participants start to detach from anxieties and emotions and become indifferent to anything other than producing solutions to the problems before them. Without realizing it, they begin to reorganize their relationship with uncertainty.
-
-For us who follow the process, seeing these changes and witnessing people experiencing this live is incredibly exciting. That’s why when someone tells me that psychological resilience cannot be developed, I feel like shouting, “Then what am I experiencing?”
-
-
-<h4>
-The Effect of Uncertainty on Critical Thinking
-</h4>
-
-
-
-The reformation of the relationship with uncertainty as I mentioned above continues in direct proportion to critical thinking skills. Here, I have to refer again to my previous essay. If you haven’t read my article on neuroplasticity and the growth mindset, I suggest you take a look here and then continue with the remaining part by making the connection to ensure continuity.
-
-<br>
-  <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/criticalthinking.jpg" width="500" class="img-container">
-    <br>
-  </p>
-<br>
-
-In this process where we are forced to acquire both technical and human-centered skills, constantly having to learn new things as a team or on our own, and having to do this under various pressures – especially time – the brain adopts a mode that is more open to experience. At the same time, the system pushes the participant towards critical thinking.
-
-<h4>
-The Effect of Uncertainty on Teaming
-</h4>
-
-In the Ranger Program, forming a team consciousness is mandatory and a factor that affects scoring. Backstabbing teammates, hiding and not sharing obtained information, and constantly spreading toxic thoughts within the team are grounds for warnings. These behaviors are prohibited.
-
-<br>
-  <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/team.jpg" width="500" class="img-container">
-    <br>
-    <em>Ranger Class 20</em>
-  </p>
-<br>
-
-In such a program filled with uncertainty but with high demands for tasks and duties, so to speak, you need the team to survive. Sometimes the team may need you; sometimes you may need the team. At this point, everyone is naturally tested in the areas where they are lacking. Those with insufficient technical skills meet this need from the team; those with insufficient social skills try to address these deficiencies; those with problems in human-centered skills receive support in this area. The important point here is that the mind is still in a growth state. Without this, the Ranger Program will be insufficient for the participant. Because the program is not designed to create an illusion that will make you feel good with unnecessary technical knowledge and traditional memorization methods. The program expects full cooperation and dedication from the participant. I would like to remind you again of the challenge dimension of psychological resilience that I mentioned above.
-
-In summary, team consciousness is a very important tool for both reducing uncertainty and providing flexibility in coping with surprises, ambushes, and uncertain situations. Working towards being a team is not done solely for this purpose, but I want to discuss these in another essay.
-
-<h4>
-Uncertainty and Mindfulness
-</h4>
-
-
-The moment when uncertainty takes its most tangible form with all its surprise and pressure is the “present” moment. Dealing with the now is to take a stance against the most solid form of uncertainty.
-
-Mindfulness essentially means awareness. But this awareness is actually a conscious awareness. In essence, this word signifies a state of being that should be more experiential than conceptual.
-
-Noticing what’s happening in ourselves and our surroundings at a certain moment ‘t’ with attitudes like patience, non-judgment, compassion, and empathy… Since it’s the conscious awareness of the present moment, it helps us detach from the confinement of our minds between the regrets of the past and the anxieties of the future, as I mentioned above.
-
-The Ranger Program begins on the first day with the sentence, “If you can do something at that moment, do it; don’t postpone it. You don’t know what you’ll experience in the next moment.” Being in the flow and consciously noticing the now, if the program is a theater, is like getting into the role; this significantly contributes to gaining maximum experience and achieving the highest level of development and acquisition.
-
-In addition, some periodic assignments for human-centered skills, when done properly, help understand emotions and thoughts within that moment.
+In contrast, a growth mindset rewards efforts, accepts the reality of neuroplasticity, and believes that by adapting and putting in effort, one can develop and always become better.
 
 
 <br>
   <p align="center">
-    <img alt="img-name" src="/img/belirsizlik/mymind.jpg" width="500" class="img-container">
+    <img alt="img-name" src="/img/growth_mindset/growthvsfixed.png" width="600" class="img-container">
     <br>
-    <em>Ranger Class 19</em>
+    <em></em>
   </p>
 <br>
 
-Because, essentially, humans have two types of strategies to cope with uncertainty.
 
-The first is a problem-focused strategy. Facing new problems and acquiring new skills to remove perceived, thought, or felt obstacles, producing alternative solutions, in other words, staying directly in growth. Turning difficulties into development opportunities.
+In this effort-focused process, Carol Dweck talks about the importance of using the power of ‘yet’ instead of the tyranny of ‘now.’ Saying ‘not yet’ instead of ‘I can’t’ shows perseverance. It emphasizes an attitude and a path. Even this simple change in attitude starts to trigger neuroplastic development.
 
-The other is an emotion-focused strategy. The state of being able to stay a little longer in the moment we experience the emotion felt during uncertainty. The centers of tornadoes -their eyes- are actually much calmer places compared to the chaos happening around them. Therefore, I’m talking about seeing the situation as an opportunity by spending some time at this moment to define these emotions, trying to understand their reasons (there is certainly a thought behind these emotions), noticing the thought errors or cognitive distortions I have, and analyzing how realistic these thoughts are. This opportunity helps us decide how to manage the stressors by answering questions like whether we should distance ourselves from the factors causing stress, seek social support, or avoid these factors.
+In experiments conducted, especially on individuals with a fixed mindset, interesting results have been obtained:
 
-Emotion-focused strategy involves putting some distance between ourselves and these emotions, detaching from them, perhaps seeking social support (e.g., being a team), and managing the causes of stress. Understanding these emotions and thoughts will move us away from being reactive and turn us into individuals who respond based on our own choices. This way, we’ll see more possibilities.
+* They have a higher tendency to cheat instead of working.
+* They look for people worse off than themselves in their environment to feel better.
+* They tend to escape when faced with difficulties.
 
-Finally, as you know, a person’s development -no matter the subject- is directly related to their personal development. When we are better as a whole, whatever our job or profession is, our relationship with it will also be better.
-
-The same goes for learning. Being more psychologically resilient will push us to stay more focused, and because we’ll be in a growth mindset, we’ll become much more open to learning and change. Transitioning to such an adaptive and learning phase will also enable critical thinking skills, faster learning, and being more functional. I want to discuss this part of the matter in further essays.
-
+Scientists also measured the brain activities of people who faced difficulties and observed significant differences in electrical activity between those with a fixed mindset and those with a growth mindset.
 
 
 
+<h2>
+Changing the Meaning of Effort and Challenges
+</h2>
 
+In the United States, some schools formed pilot classes focused on the growth mindset. Schools in regions where failure was seen as destiny were particularly chosen. Students were instilled with the belief that traits like intelligence and talent are not fixed and permanent, and that success does not depend solely on these. Feedback and praise were directed directly toward effort, development, perseverance, choosing to cope with difficulties, and adaptation efforts. This guidance was also made in the relationships students established with themselves.
 
+At the end of this long-term study:
 
+* In the selected school in Harlem, New York, achievement scores rose to 95%.
+* In South Bronx, New York, fourth graders were significantly behind. By the end of the study, these classes had become one of the best in New York on the math test.
+* The Native American Reservation rose to the top level in its region within a year.
 
+No matter what subject we’re dealing with, we’re essentially solving problems at the end of the day. Our stance toward problems, the meaning we assign to them, and the attitude we show are the clearest forms of our relationship with problems. Small changes made in this relationship can trigger not only functional but also physical changes in the brain (neuroplasticity).
 
+So much so that today, neuroplasticity is also used in treating some diseases caused by demyelination by further triggering the myelination process. The most well-known demyelinating condition is Multiple Sclerosis (MS). However, it’s known that some of the following diseases are also associated with myelin:
 
+* Depression
+* Attention Deficit Hyperactivity Disorder (ADHD)
+* Bipolar Disorder
+* Dyslexia
+* Obsessive-Compulsive Disorder (OCD)
+* Cognitive Decline
+* Schizophrenia
+* Autism
 
+Efforts are being made to protect and renew myelin in controlling and treating these diseases. For example, one reason for applying a ketogenic diet to MS patients is to protect and increase myelin. In some studies, it has been observed that increasing ketone production helps increase myelin production.
+
+<h2>Cyber Struggle Ranger Program and the Growth Mindset</h2>
+
+The first goal of the Ranger Program is to extract the fixed mental schema of the personnel participating in the program. It’s not enough for only the instructors and the system to extract this schema. We also try to support participants in revealing this schema themselves throughout the experience in the program.
+
+After this stage, we focus on making them aware that these schemas are fixed and identity-bound. This process begins by pushing participants toward their early-stage limits. Although we’re talking about a methodological necessity, this is one of the elements that turns the Ranger Program into a different experience even for those who experience it twice in a row. The system strives to confront each participant with the fixed mindset through their own experience. This means a separate roadmap and a unique experience for each person.
+
+Some may think they’re good, some may think they’re smart, and some may think they’re chronically unsuccessful. What’s important here is not that these thoughts are related to identity and contain positive or negative emotions. Our goal is to shift the participant’s focus from the concept of “competence” to the “power of yet.”
+
+In addition to this awareness, participants are expected to adapt to changing situations created throughout the Ranger Program. Every changing situation -unless prior joint planning was done- brings uncertainty and stress. This high adaptation expectation triggers a neuroplasticity process in addition to the focus shift. At least, we expect it to trigger.
+
+While these two issues are experienced in parallel, with the dosage adjusted by the instructors throughout the program, participants are sometimes made to feel that they’re very good at certain subjects, and sometimes that they’re very bad. These feelings and thoughts are constantly altered at appropriate dosages on an individual basis. This flow ensures that participants begin to evaluate problems based on effort, challenges, and meanings after a while. Individuals start to detach from identity-focused fixed thoughts. Feedback, rewards, and praise shift to focus on process and effort, instead of identities.
+
+By increasing the intensity of problems, we also increase the number of repetitions (see myelination!). On the other hand, the problems given are mostly presented in a form where participants are not fully familiar with their solutions. Since no level determination is made for the class before the program, there may be people in the class who know the solutions to the relevant problems. In this case, it’s expected that the “knowledgeable” participant detaches from the positive fixed mindset. There are several ways to detach from here. The first is to delve deeper into the subject! Going beyond the answer to the given problem and solving it with a better version of themselves. Another is the team! Staying in the growth mindset within the framework of human-centered skills as part of the stories of other participants in the team. Pulling the team, helping the team, leading the team, carrying the team, you name it!
+
+Of course, here, Jean-Paul Sartre’s saying, “existence precedes essence” and the relationship with freedom comes into play. Sartre says, “Man first exists, then creates his own identity.” This power to determine identity gives freedom to the person. Decisions made with this freedom give meaning to one’s existence.
+
+Sometimes, participants who “know well” prefer the path I mentioned above, staying on their own growth axis while also choosing to be part of others’ stories. However, sometimes they may think the program won’t add anything to them and may leave the program. We’ve experienced all these choices with different participants.
+
+Throughout the Ranger Program, various periodic tasks are given to participants. While some of these tasks aim to trigger neuroplasticity for emotional state control, others aim to trigger neuroplasticity for critical thinking, case formulation, automatic thoughts, intermediate beliefs, the discovery and change of core beliefs, or the development of key cognitive processes.
+
+Experiencing all these in a coordinated way helps move participants from a fixed mindset to a growth mindset. Participants become individuals who regulate their emotions better, develop new behaviors and habits, show less tendency to give up in the face of challenges, are more resilient to uncertainties, see growth opportunities in crises and problems, and have developed problem-solving skills.
+
+So, what’s the importance of all this for cybersecurity training? What’s wrong with explaining common technical problems and how to solve them, formulating solutions, and providing these formulas or cheatheets to participants?
+
+It is possible to address the answer from many different perspectives for Cyber Struggle;
+
+* **Methodological Chronic Perspective:** First, there are hundreds of trainings, many of which are free or nearly free. Yet we’re still talking about the human resource problem, both quantitatively and qualitatively. This means that the problem is more deep-rooted than the number of trainings or their accessibility. Moreover, very few of those who have received such training and reached the stage of practicing the profession are effective in creativity, flexibility, problem-solving, creating high impact, and exceeding expectations.
+* **Learning Perspective:** The whole is greater than the sum of its parts. A growth-oriented mindset has a significant impact on learning. Some effects are immediately noticeable, while others may require certain experiences to be recognized.
+* Functionality Perspective: The fact that development is achieved through problems and challenges and is effort-focused, along with the belief that human skills are not fixed, automatically keeps the individual function-focused. It goes beyond identity-focused notions like “being good” or “knowing well,” focusing more on solving problems, creating higher impact, and developing further.
+* **Giving Meaning to My Own Existence:** The effort and courage to seek and do better.
 
 
 
 
 <h2>References</h2>
 
-* Connaughton ve ark. 2008; Marchant ve ark. 2009; Nicholls ve ark. 2009; Yarayan ve ark. 2018)
-* Crust L. (2007). Mental toughness in sport: A review. International Journal of Sportand Exercise Psychology, s. 5(3): 270-290.
-* Crust, L. (2009). The relationship between mental toughness and affect intensity. Personality and Individual Differences, 47(8), 959-963
-* Graham, J., Hanton, S., & Connaughton, D. (2002). What is this thing called mental toughness and investigation of elite sport performers. Journal Applied Sport Psychology,
-14 (3) 205-218
-* Öğülmüş, S. (29-30 Mart 2001). Bir Kişilik Özelliği Olarak Yılmazlık. 1. Ulusal Cocuk ve Suç Sempozyumu: Nedenler ve Önleme Çalışmaları
-* Terzi, Ş. (2006). Kendini Toparlama Gücü Ölçeğinin Uyarlanması: Geçerlik ve Güvenirlik Çalışması.
-* Gizir, C. A. ve Aydın, G. (2006). Psikolojik Sağlamlık ve Ergen Gelişim Ölçeğinin Uyarlanması: Geçerlilik ve Güvenirlik Çalışmaları.
-* Williams, A. (2001). A Literature Review on The Concept of Intimacy in Nursing. [Electronic Version] Journal of Advanced Nursing.
-* Folkman, S. ve Lazarus, R. S. (1985). If it Charge it Must Be A Process Study of Emotion and Coping During Three Stage of Collage Examination
-* Wilkinson, G. (2004). Stres. E. 
-* Rutter, M. (2006). İmplications of Resilience Concepts for Scientifing Understanding, Annals of the New York Academy of Sciences
-* Chow, C. (2000). Known, Unknown, and Unknowable Uncertainities
+* C. Mueller and C. Dweck, (1998), Praise for Intelligence Can Undermine Children's Motivation and Performance"
+* D. Laskowitz, et al. (2015). Translational Research In Traumatic Brain Injury.
+* K. T. Sibille, et al. (2016). Increasing Neuroplasticity To Bolster Chronic Pain Treatment: A Role For Intermittent Fasting And Glucose Administration?.
+* W. Turakitwanakan, et al. (2013). Effects Of Mindfulness Meditation On Serum Cortisol Of Medical Students.
+* A. C. Rodrigues, et al. (2010). Musical Training, Neuroplasticity And Cognition
+* E. Fuchs, et al. (2014). Adult Neuroplasticity: More Than 40 Years Of Research.
+* Nussbaum, A. D., & Dweck, C. S. (2008). Defensiveness Versus Remediation: Self-Theories and Modes of Self-Esteem Maintenance. Personality and Social Psychology Bulletin
+* Hong, Y.-y., Chiu, C.-y., Dweck, C. S., Lin, D. M.-S., & Wan, W. (1999). Implicit theories, attributions, and coping: A meaning system approach. Journal of Personality and Social Psychology
+* Moser JS, Schroder HS, Heeter C, Moran TP, Lee YH. Mind your errors: evidence for a neural mechanism linking growth mind-set to adaptive posterror adjustments. Psychol Sci. 2011 
+
+
+
+
