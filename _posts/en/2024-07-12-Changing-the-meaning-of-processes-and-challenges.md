@@ -55,7 +55,7 @@ Neurons in the brain communicate via electrical and chemical signals. Dendrites 
   <p align="center">
     <img alt="img-name" src="/img/growth_mindset/neurons.jpg" width="600" class="img-container">
     <br>
-    <em>Ranger Class 19</em>
+    <em>Neuron</em>
   </p>
 <br>
 
@@ -84,8 +84,13 @@ A fixed mindset is a success-oriented approach built with identity-based feedbac
 In contrast, a growth mindset rewards efforts, accepts the reality of neuroplasticity, and believes that by adapting and putting in effort, one can develop and always become better.
 
 
-![](/img/growth_mindset/growthvsfixed.png)
-
+<br>
+  <p align="center">
+    <img alt="img-name" src="/img/growth_mindset/growthvsfixed.png" width="600" class="img-container">
+    <br>
+    <em></em>
+  </p>
+<br>
 
 
 In this effort-focused process, Carol Dweck talks about the importance of using the power of ‘yet’ instead of the tyranny of ‘now.’ Saying ‘not yet’ instead of ‘I can’t’ shows perseverance. It emphasizes an attitude and a path. Even this simple change in attitude starts to trigger neuroplastic development.
